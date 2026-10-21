@@ -1,0 +1,19 @@
+# Sensitive configuration
+.env
+.env.*
+
+# Python
+__pycache__/
+.venv/
+venv/
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Power BI temporary/backup files
+*.bak
+
+# OS files
+Thumbs.db
+.DS_Store

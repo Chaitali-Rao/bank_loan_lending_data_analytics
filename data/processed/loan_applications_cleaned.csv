@@ -1,0 +1,1001 @@
+applicant_id,age,gender,marital_status,city_tier,state,employment_type,bank_account_vintage_years,monthly_income_inr,existing_loans_count,existing_emi_monthly_inr,credit_utilization_ratio_pct,num_credit_inquiries_last_6m,late_payments_last_12m,loan_amount_requested_inr,loan_tenure_months,loan_purpose,collateral_provided,cibil_score,interest_rate_offered_pct,default_risk_score,default_flag
+APP106868,22,Male,Single,"Tier 3",Haryana,"Salaried - PSU",0.50,12000.00,1.00,1700.00,31.40,2.00,0,149000.00,48,"Personal Expense",No,649,24.84,1.67,0
+APP124016,35,Female,Divorced,"Tier 2",Gujarat,"Salaried - Private",0.50,32500.00,3.00,11500.00,47.60,0.00,1,156000.00,60,"Personal Expense",No,538,25.25,4.47,0
+APP109668,41,Male,Married,"Tier 2","Uttar Pradesh","Salaried - Government",2.80,52500.00,0.00,6000.00,51.80,0.00,0,70000.00,36,Wedding,No,636,20.46,0.19,0
+APP113640,29,Female,Married,"Tier 2",Kerala,"Salaried - PSU",0.70,15500.00,1.00,1900.00,12.20,0.00,1,108000.00,48,Education,No,721,15.27,0.26,0
+APP114018,31,Male,Married,"Tier 1",Punjab,"Self-Employed Professional",4.70,269600.00,2.00,50800.00,50.30,0.00,2,466000.00,24,Education,No,586,25.52,2.10,0
+APP107488,33,Male,Married,"Tier 1","Andhra Pradesh","Salaried - Private",3.50,189000.00,1.00,23500.00,23.90,2.00,1,65000.00,36,"Personal Expense",No,686,15.20,0.31,0
+APP105804,32,Male,Married,"Tier 3",Bihar,"Salaried - Government",0.80,20500.00,2.00,6100.00,24.60,1.00,4,57000.00,60,"Personal Expense",No,494,21.61,34.02,0
+APP112909,27,Male,Married,"Tier 1","Uttar Pradesh","Business Owner",5.00,28800.00,1.00,6900.00,14.70,1.00,2,59000.00,12,"Personal Expense",Yes,708,12.59,0.18,0
+APP103386,35,Male,Single,"Tier 2","Delhi NCR","Salaried - Private",0.50,44000.00,1.00,9600.00,45.60,1.00,4,324000.00,36,"Personal Expense",Yes,537,23.28,11.73,0
+APP109567,24,Male,Single,"Tier 2","West Bengal","Business Owner",1.20,55100.00,1.00,7500.00,31.90,0.00,0,130000.00,48,Education,No,745,13.26,0.04,0
+APP121423,38,Male,Married,"Tier 3",Punjab,"Self-Employed Professional",1.70,61900.00,2.00,11000.00,29.10,4.00,1,196000.00,12,"Business Expansion",No,573,21.49,3.25,0
+APP103503,24,Female,Single,"Tier 1","Tamil Nadu","Salaried - Private",5.80,40000.00,0.00,4900.00,25.30,1.00,2,306000.00,24,Wedding,Yes,693,15.76,0.10,0
+APP106657,33,Male,Single,"Tier 2",Bihar,"Salaried - Government",1.90,15400.00,1.00,400.00,23.30,0.00,0,51000.00,84,Education,No,751,15.40,0.04,0
+APP119192,29,Male,Divorced,"Tier 1",Haryana,"Salaried - Private",1.50,44800.00,1.00,9500.00,61.80,2.00,0,91000.00,36,Education,No,562,22.55,2.04,0
+APP102518,40,Male,Widowed,"Tier 1","Uttar Pradesh","Business Owner",0.50,220300.00,3.00,39100.00,21.50,1.00,0,303000.00,12,"Debt Consolidation",No,662,18.85,0.56,0
+APP113361,21,Other,Single,"Tier 3","Andhra Pradesh","Salaried - PSU",0.50,38600.00,1.00,10200.00,46.00,2.00,3,353000.00,36,"Personal Expense",No,569,24.16,11.24,0
+APP121135,32,Male,Single,"Tier 3",Karnataka,"Self-Employed Professional",1.10,30000.00,1.00,12400.00,47.80,2.00,1,155000.00,24,"Home Renovation",No,546,19.96,15.00,0
+APP121080,43,Female,Married,"Tier 1","Madhya Pradesh","Self-Employed Professional",4.20,68200.00,2.00,18900.00,25.60,1.00,2,310000.00,12,"Medical Emergency",No,633,22.17,2.31,0
+APP106492,25,Female,Married,"Tier 1",Maharashtra,"Self-Employed Professional",4.00,70500.00,0.00,13800.00,51.40,3.00,2,99000.00,72,"Home Renovation",No,570,19.43,6.80,0
+APP106891,32,Male,Married,"Tier 3",Telangana,"Salaried - Private",4.00,22600.00,0.00,3700.00,67.80,0.00,3,47000.00,36,"Debt Consolidation",No,597,23.38,2.13,0
+APP107752,21,Male,Married,"Tier 1","Tamil Nadu","Salaried - Private",0.50,25500.00,0.00,10000.00,25.90,2.00,3,155000.00,36,"Vehicle Purchase",No,481,22.33,60.28,0
+APP108614,36,Female,Married,"Tier 2",Telangana,"Business Owner",1.10,26400.00,0.00,10500.00,16.60,0.00,0,28000.00,60,"Debt Consolidation",No,630,20.35,1.27,0
+APP106649,21,Female,Married,"Tier 3",Karnataka,"Salaried - PSU",1.00,33700.00,1.00,4600.00,77.30,0.00,4,188000.00,24,"Debt Consolidation",No,520,19.18,18.99,0
+APP102227,40,Female,Single,"Tier 3",Karnataka,"Salaried - Government",1.60,13700.00,3.00,4300.00,51.00,1.00,1,45000.00,48,"Medical Emergency",No,624,25.23,1.35,0
+APP112060,40,Male,Married,"Tier 3",Kerala,"Salaried - PSU",0.50,66500.00,2.00,2600.00,66.40,2.00,2,189000.00,36,"Debt Consolidation",Yes,573,22.73,0.27,0
+APP119122,54,Female,Married,"Tier 1",Gujarat,"Salaried - Private",9.10,86000.00,1.00,17800.00,45.30,2.00,5,133000.00,60,"Home Renovation",No,575,24.88,8.08,0
+APP109622,35,Male,Married,"Tier 2",Karnataka,"Salaried - Private",NULL,92900.00,0.00,16900.00,38.70,1.00,1,375000.00,48,"Medical Emergency",No,619,24.71,1.46,0
+APP112279,52,Female,Single,"Tier 3",Kerala,"Salaried - Private",14.30,25300.00,3.00,4600.00,26.10,2.00,0,121000.00,24,"Debt Consolidation",No,783,11.93,0.06,0
+APP116447,41,Male,Married,"Tier 2","Andhra Pradesh","Salaried - Government",0.50,50000.00,1.00,14200.00,37.20,1.00,2,509000.00,60,"Personal Expense",No,613,25.12,1.37,0
+APP100423,22,Male,Married,"Tier 2",Telangana,"Salaried - PSU",9.40,46300.00,2.00,12200.00,9.50,0.00,1,153000.00,36,"Personal Expense",No,674,18.65,0.40,0
+APP114337,45,Male,Single,"Tier 2","Delhi NCR","Salaried - Private",6.60,65300.00,1.00,17900.00,21.70,3.00,1,241000.00,12,"Personal Expense",Yes,657,16.13,0.31,0
+APP122163,34,Male,Married,"Tier 3","West Bengal","Salaried - Government",0.60,54700.00,0.00,17200.00,39.80,0.00,0,132000.00,84,"Vehicle Purchase",No,577,23.09,2.50,0
+APP119839,40,Female,Married,"Tier 2",Gujarat,"Salaried - Government",0.50,29500.00,1.00,8500.00,22.70,1.00,2,143000.00,48,Wedding,No,605,25.44,4.23,0
+APP112456,25,Other,Single,"Tier 1","Madhya Pradesh","Salaried - Private",0.50,46800.00,1.00,5300.00,72.00,0.00,3,122000.00,60,"Debt Consolidation",No,540,21.17,1.67,0
+APP110277,28,Female,Single,"Tier 1",Gujarat,"Salaried - Government",8.30,22200.00,2.00,8000.00,28.10,1.00,0,51000.00,12,Education,Yes,647,21.61,0.41,0
+APP123085,43,Female,Married,"Tier 1","West Bengal","Self-Employed Professional",1.70,80800.00,1.00,30600.00,39.10,2.00,1,216000.00,60,Wedding,No,557,20.02,24.18,0
+APP101805,21,Female,Single,"Tier 2",Maharashtra,"Salaried - Government",3.50,62700.00,1.00,2700.00,46.00,1.00,1,181000.00,84,"Vehicle Purchase",No,656,16.55,0.21,0
+APP102790,48,Female,Married,"Tier 3",Rajasthan,"Salaried - PSU",NULL,45100.00,0.00,6800.00,55.10,0.00,4,100000.00,12,"Medical Emergency",No,607,20.94,6.25,0
+APP124427,36,Male,Single,"Tier 3","Andhra Pradesh","Salaried - Government",0.50,22800.00,1.00,1100.00,48.50,2.00,1,134000.00,12,"Medical Emergency",No,679,17.36,0.21,0
+APP117716,37,Male,Married,"Tier 1",Kerala,"Salaried - Private",3.80,72900.00,0.00,14800.00,35.60,0.00,2,156000.00,12,"Vehicle Purchase",No,646,24.53,2.90,0
+APP104972,44,Male,Married,"Tier 1","Andhra Pradesh","Self-Employed Professional",4.20,178600.00,0.00,NULL,30.70,1.00,2,160000.00,36,Wedding,No,659,16.46,1.61,0
+APP107613,30,Female,Married,"Tier 3",Haryana,"Salaried - Private",0.50,55400.00,1.00,NULL,48.50,1.00,2,46000.00,48,"Medical Emergency",No,623,22.56,2.57,0
+APP117238,30,Female,Single,"Tier 2",Haryana,"Self-Employed Professional",0.90,48300.00,0.00,2600.00,26.50,0.00,1,75000.00,36,Education,No,702,12.93,0.09,0
+APP113570,37,Male,Married,"Tier 2",Haryana,"Self-Employed Professional",4.40,31200.00,1.00,9000.00,32.90,1.00,1,254000.00,24,"Debt Consolidation",No,662,16.95,2.83,0
+APP107946,40,Male,Single,"Tier 2",Maharashtra,"Salaried - Government",10.00,45100.00,1.00,10100.00,12.50,1.00,2,102000.00,60,Education,No,701,12.82,1.18,0
+APP105100,27,Male,Single,"Tier 2","Tamil Nadu","Business Owner",5.40,33300.00,1.00,1900.00,85.70,1.00,3,69000.00,36,"Medical Emergency",No,543,25.36,2.61,0
+APP123948,35,Male,Married,"Tier 2","West Bengal","Business Owner",0.60,66100.00,3.00,15300.00,43.40,1.00,0,68000.00,48,Wedding,No,654,16.06,2.16,0
+APP121182,41,Male,Married,"Tier 1","Andhra Pradesh","Salaried - Government",5.30,33000.00,1.00,6600.00,64.70,0.00,3,157000.00,36,"Debt Consolidation",No,572,24.21,22.32,0
+APP100733,33,Female,Married,"Tier 2","West Bengal","Salaried - Private",1.60,24100.00,1.00,2100.00,56.20,1.00,0,184000.00,12,"Business Expansion",No,711,15.83,0.19,0
+APP118404,33,Male,Married,"Tier 2",Kerala,"Salaried - Private",10.80,19800.00,2.00,4900.00,68.20,1.00,2,167000.00,12,"Vehicle Purchase",Yes,576,25.71,3.27,0
+APP103848,43,Male,Married,"Tier 3",Karnataka,"Salaried - Private",1.20,46200.00,0.00,15200.00,52.70,3.00,2,332000.00,24,Wedding,No,538,25.48,24.76,0
+APP122714,38,Other,Married,"Tier 3","Tamil Nadu","Salaried - Government",0.50,24300.00,1.00,7800.00,35.40,1.00,3,33000.00,12,"Home Renovation",Yes,539,24.56,9.21,0
+APP109888,26,Male,Single,"Tier 1","Uttar Pradesh","Salaried - Private",10.90,53500.00,0.00,18900.00,60.60,4.00,0,160000.00,36,Wedding,Yes,547,19.86,6.11,0
+APP104405,46,Male,Married,"Tier 3",Rajasthan,"Salaried - Private",0.80,54900.00,1.00,17900.00,33.20,2.00,1,171000.00,36,"Home Renovation",No,560,24.23,7.36,0
+APP122683,26,Female,Married,"Tier 2",Kerala,"Salaried - PSU",0.50,25100.00,3.00,6700.00,68.60,1.00,2,219000.00,48,"Home Renovation",No,520,25.12,37.54,0
+APP103352,42,Male,Single,"Tier 1",Telangana,"Salaried - Private",10.80,159800.00,3.00,26600.00,34.80,1.00,2,129000.00,24,Education,No,700,15.83,0.60,0
+APP115191,35,Female,Single,"Tier 1",Karnataka,"Salaried - Private",2.00,31700.00,0.00,5700.00,47.80,2.00,2,52000.00,84,"Personal Expense",No,617,22.34,1.06,0
+APP115694,36,Male,Married,"Tier 1",Maharashtra,"Salaried - Private",4.00,33500.00,0.00,1200.00,2.10,1.00,1,107000.00,72,"Vehicle Purchase",No,687,19.02,0.10,0
+APP119946,21,Male,Married,"Tier 1",Kerala,"Business Owner",0.80,25700.00,1.00,6200.00,45.30,2.00,2,258000.00,48,"Medical Emergency",No,531,19.88,38.93,0
+APP114354,25,Male,Married,"Tier 1","Uttar Pradesh","Salaried - Private",7.30,64400.00,0.00,11800.00,32.80,1.00,1,72000.00,60,"Debt Consolidation",No,685,18.32,0.43,0
+APP121742,23,Male,Single,"Tier 2",Bihar,"Salaried - Government",0.50,17200.00,1.00,5100.00,23.10,3.00,0,100000.00,72,"Debt Consolidation",No,640,19.86,1.97,0
+APP118353,34,Male,Divorced,"Tier 1",Haryana,"Salaried - Private",3.00,47800.00,1.00,2500.00,62.50,5.00,2,310000.00,24,"Business Expansion",Yes,562,21.38,1.36,0
+APP117580,38,Male,Single,"Tier 2",Maharashtra,"Salaried - Private",12.30,59300.00,3.00,9100.00,50.40,1.00,2,51000.00,60,Education,No,616,25.95,0.91,0
+APP122488,37,Male,Single,"Tier 2",Rajasthan,"Salaried - Private",5.70,15700.00,1.00,4300.00,25.10,0.00,0,106000.00,12,Education,No,657,16.47,1.20,0
+APP114092,31,Female,Married,"Tier 1",Punjab,"Salaried - Private",1.00,30100.00,1.00,4700.00,46.20,2.00,4,34000.00,36,"Vehicle Purchase",No,568,21.43,13.52,0
+APP120523,38,Male,Married,"Tier 3","Delhi NCR","Salaried - Private",0.50,23900.00,1.00,6900.00,25.50,2.00,0,107000.00,60,"Debt Consolidation",No,578,19.45,2.63,0
+APP103492,32,Male,Married,"Tier 2","Delhi NCR","Salaried - Private",0.90,44800.00,0.00,5100.00,39.30,5.00,0,232000.00,60,"Business Expansion",No,660,19.69,0.29,0
+APP119349,43,Male,Married,"Tier 1","Uttar Pradesh","Salaried - PSU",4.50,20600.00,1.00,5300.00,37.10,1.00,0,321000.00,60,"Personal Expense",No,617,23.72,4.76,0
+APP115657,24,Male,Married,"Tier 3","Uttar Pradesh","Salaried - PSU",0.50,16300.00,1.00,2200.00,49.50,0.00,2,148000.00,48,"Personal Expense",No,612,25.82,4.26,0
+APP103589,30,Male,Married,"Tier 2",Haryana,"Salaried - Private",1.30,53500.00,2.00,12700.00,32.50,2.00,2,125000.00,48,"Vehicle Purchase",No,601,25.54,7.50,1
+APP108124,47,Male,Married,"Tier 3",Kerala,"Self-Employed Professional",5.00,31400.00,0.00,5300.00,6.70,1.00,2,110000.00,36,"Debt Consolidation",Yes,668,15.56,0.08,0
+APP118665,37,Female,Married,"Tier 3","Tamil Nadu","Business Owner",5.10,53300.00,1.00,8000.00,11.50,0.00,0,82000.00,36,"Home Renovation",No,734,15.27,0.12,0
+APP112042,38,Male,Married,"Tier 3",Maharashtra,"Self-Employed Professional",14.60,36600.00,2.00,4800.00,32.20,0.00,0,290000.00,72,"Vehicle Purchase",No,754,15.05,0.11,0
+APP108504,25,Male,Widowed,"Tier 2","West Bengal","Salaried - PSU",1.70,25700.00,1.00,7900.00,25.40,1.00,0,122000.00,36,Wedding,No,652,15.27,1.76,0
+APP118724,33,Male,Single,"Tier 1",Bihar,"Self-Employed Professional",8.70,129900.00,4.00,47900.00,77.20,2.00,2,112000.00,36,"Personal Expense",No,532,19.05,15.52,0
+APP106253,30,Male,Married,"Tier 1",Kerala,"Salaried - Private",0.50,69400.00,1.00,21800.00,46.00,3.00,2,118000.00,24,Wedding,No,522,23.50,19.19,1
+APP117244,40,Female,Single,"Tier 3",Haryana,"Salaried - Private",1.00,26900.00,0.00,2400.00,26.60,3.00,0,67000.00,60,"Vehicle Purchase",No,645,21.91,0.09,0
+APP112331,38,Male,Married,"Tier 2",Telangana,"Salaried - Government",8.80,18200.00,0.00,4000.00,14.70,1.00,2,145000.00,12,"Personal Expense",No,633,21.24,0.88,0
+APP120198,44,Male,Married,"Tier 2",Bihar,"Salaried - Private",3.60,19400.00,1.00,6100.00,10.10,2.00,2,88000.00,48,Education,No,567,22.63,25.94,1
+APP100866,23,Male,Married,"Tier 2",Rajasthan,"Self-Employed Professional",1.20,71000.00,1.00,10400.00,27.20,0.00,0,155000.00,12,"Personal Expense",No,663,18.08,0.16,0
+APP111506,52,Male,Married,"Tier 1","Tamil Nadu","Business Owner",1.20,111300.00,2.00,33200.00,64.90,2.00,0,131000.00,36,"Personal Expense",Yes,570,20.79,1.07,0
+APP112890,36,Male,Married,"Tier 1","Madhya Pradesh","Salaried - Private",2.20,48000.00,0.00,8000.00,45.90,0.00,1,138000.00,36,Wedding,No,628,22.18,0.59,0
+APP115978,32,Female,Married,"Tier 2","West Bengal","Salaried - Private",1.60,38000.00,1.00,9900.00,5.00,1.00,0,76000.00,84,"Home Renovation",Yes,659,19.07,0.25,0
+APP112758,41,Female,Single,"Tier 3",Telangana,"Salaried - PSU",3.90,18800.00,1.00,4400.00,59.20,1.00,2,59000.00,60,"Personal Expense",No,589,21.19,5.13,0
+APP121916,30,Female,Married,"Tier 3",Rajasthan,"Salaried - Private",0.50,31100.00,0.00,7900.00,64.40,4.00,2,97000.00,12,"Vehicle Purchase",No,463,20.54,26.14,0
+APP109807,43,Male,Married,"Tier 2","Tamil Nadu","Self-Employed Professional",14.30,28000.00,3.00,4300.00,55.50,2.00,2,170000.00,48,Education,Yes,605,25.92,1.60,0
+APP105035,22,Male,Married,"Tier 2",Karnataka,"Salaried - Private",0.50,56600.00,0.00,4900.00,18.00,1.00,2,76000.00,36,Education,No,674,16.83,0.72,0
+APP117518,33,Female,Married,"Tier 2",Rajasthan,"Salaried - Private",8.50,21400.00,2.00,4400.00,35.50,3.00,2,146000.00,36,"Vehicle Purchase",Yes,643,23.47,0.33,0
+APP121078,33,Male,Single,"Tier 3",Bihar,"Salaried - Government",3.70,29200.00,0.00,0.00,29.80,3.00,2,104000.00,60,"Personal Expense",Yes,587,24.31,0.33,0
+APP120181,38,Male,Single,"Tier 1","Madhya Pradesh","Salaried - Private",4.50,42400.00,5.00,13500.00,74.90,2.00,4,271000.00,36,Wedding,No,512,23.70,63.35,0
+APP124661,34,Male,Married,"Tier 2",Karnataka,"Salaried - Private",4.20,50900.00,1.00,3000.00,25.70,2.00,2,97000.00,48,"Medical Emergency",No,666,16.61,0.54,0
+APP112146,34,Male,Married,"Tier 2","Madhya Pradesh","Salaried - PSU",NULL,47400.00,2.00,11100.00,31.70,1.00,0,343000.00,24,Education,No,682,18.25,0.33,0
+APP116541,46,Male,Single,"Tier 1",Rajasthan,"Salaried - Government",0.50,56200.00,0.00,5500.00,60.20,2.00,1,221000.00,48,Education,No,583,20.84,3.34,0
+APP109317,30,Female,Married,"Tier 1","Tamil Nadu","Business Owner",4.10,51800.00,1.00,11400.00,64.10,1.00,2,31000.00,24,"Medical Emergency",No,554,25.54,7.28,0
+APP115820,35,Male,Divorced,"Tier 1",Telangana,"Salaried - PSU",6.70,63800.00,0.00,8000.00,47.90,2.00,2,222000.00,48,"Personal Expense",No,615,23.04,1.52,0
+APP113952,39,Male,Single,"Tier 2","Uttar Pradesh","Business Owner",0.50,25100.00,1.00,8700.00,22.50,1.00,1,218000.00,36,"Vehicle Purchase",No,587,22.79,5.90,0
+APP112058,31,Female,Single,"Tier 2",Maharashtra,"Self-Employed Professional",0.50,147200.00,1.00,49500.00,5.50,3.00,0,507000.00,36,"Home Renovation",No,677,19.97,1.76,0
+APP108091,65,Female,Married,"Tier 2",Karnataka,"Salaried - PSU",6.10,61600.00,2.00,26200.00,60.20,2.00,2,270000.00,12,"Personal Expense",No,514,23.59,23.29,0
+APP123589,21,Female,Single,"Tier 1",Haryana,"Salaried - Private",1.90,55800.00,2.00,5900.00,13.90,1.00,0,210000.00,36,"Medical Emergency",No,750,13.22,0.05,0
+APP124419,42,Male,Single,"Tier 1",Haryana,"Business Owner",2.10,45100.00,1.00,11100.00,47.10,1.00,4,216000.00,48,Education,No,530,21.63,30.40,0
+APP107228,27,Male,Single,"Tier 2",Gujarat,"Self-Employed Professional",8.60,70300.00,1.00,12200.00,24.00,2.00,2,148000.00,36,"Personal Expense",No,583,25.17,2.32,0
+APP122665,42,Female,Married,"Tier 2",Karnataka,"Salaried - Private",0.60,59500.00,1.00,14500.00,58.50,3.00,3,225000.00,36,"Personal Expense",No,504,24.54,27.70,0
+APP113338,41,Female,Married,"Tier 2","Tamil Nadu","Salaried - Private",2.80,52200.00,0.00,3200.00,42.00,0.00,3,231000.00,12,"Medical Emergency",No,628,21.14,0.62,0
+APP109515,21,Female,Married,"Tier 2",Kerala,"Salaried - PSU",2.00,83400.00,0.00,8100.00,26.50,2.00,1,89000.00,36,"Personal Expense",No,640,19.33,0.14,0
+APP122389,34,Female,Married,"Tier 1",Haryana,"Salaried - Private",4.80,57600.00,2.00,21900.00,48.00,0.00,0,104000.00,84,"Personal Expense",No,590,20.23,6.81,0
+APP106549,26,Other,Single,"Tier 1",Kerala,"Salaried - Private",1.20,125000.00,0.00,42400.00,41.00,0.00,0,179000.00,60,"Personal Expense",Yes,594,24.40,0.72,0
+APP105689,27,Male,Married,"Tier 2",Rajasthan,"Salaried - Government",2.50,19000.00,0.00,2700.00,25.00,1.00,1,175000.00,48,"Medical Emergency",No,687,17.21,0.11,0
+APP106515,22,Male,Single,"Tier 1",Kerala,"Salaried - Private",4.10,28800.00,0.00,1900.00,12.30,0.00,1,28000.00,48,"Debt Consolidation",No,675,16.36,0.06,0
+APP115765,36,Female,Married,"Tier 2","Madhya Pradesh","Salaried - Private",8.80,24000.00,2.00,9300.00,68.60,4.00,3,60000.00,24,Education,No,521,25.73,33.56,0
+APP114938,27,Male,Single,"Tier 3",Rajasthan,"Salaried - Private",6.50,21500.00,3.00,3700.00,56.70,0.00,1,123000.00,24,"Business Expansion",No,605,25.26,1.70,0
+APP103609,35,Female,Married,"Tier 2",Bihar,"Salaried - Private",3.30,39800.00,1.00,7200.00,32.50,1.00,0,153000.00,60,"Home Renovation",Yes,661,16.62,0.41,0
+APP107886,29,Female,Married,"Tier 3",Haryana,"Salaried - Private",0.60,39000.00,1.00,11200.00,44.60,3.00,1,229000.00,12,Education,No,536,22.95,9.59,0
+APP112402,21,Male,Single,"Tier 2",Gujarat,"Salaried - Government",1.70,22800.00,3.00,9100.00,64.70,3.00,3,73000.00,60,"Vehicle Purchase",No,527,23.35,49.10,1
+APP102974,36,Female,Single,"Tier 1",Gujarat,"Salaried - Private",1.20,105500.00,1.00,1000.00,25.20,1.00,3,186000.00,24,"Personal Expense",No,635,21.08,1.89,0
+APP101915,21,Female,Single,"Tier 3",Haryana,"Self-Employed Professional",2.60,28200.00,1.00,5200.00,66.90,2.00,0,117000.00,84,"Personal Expense",No,595,21.24,2.71,0
+APP107811,27,Male,Single,"Tier 2",Haryana,"Salaried - Private",9.60,52200.00,1.00,8800.00,55.80,0.00,1,158000.00,36,"Vehicle Purchase",No,611,23.18,2.27,0
+APP109602,43,Male,Married,"Tier 1","Uttar Pradesh","Salaried - Private",3.60,48900.00,1.00,10400.00,28.70,0.00,0,658000.00,60,"Home Renovation",No,755,13.20,0.14,0
+APP114415,45,Female,Married,"Tier 2",Rajasthan,"Salaried - Private",2.70,47300.00,3.00,15300.00,49.10,2.00,3,113000.00,24,Wedding,No,502,20.42,29.77,1
+APP120139,31,Male,Married,"Tier 2","Delhi NCR","Salaried - Government",4.70,34600.00,1.00,7100.00,45.50,1.00,2,180000.00,84,Wedding,No,609,22.93,1.60,0
+APP106095,44,Female,Divorced,"Tier 2","Uttar Pradesh","Salaried - Private",5.50,26600.00,0.00,3000.00,13.40,1.00,1,912000.00,60,"Business Expansion",No,725,15.88,0.72,0
+APP107539,33,Male,Divorced,"Tier 2",Telangana,"Salaried - Private",1.20,57900.00,1.00,13800.00,44.00,0.00,2,163000.00,84,"Personal Expense",No,611,24.31,2.72,0
+APP111816,26,Female,Married,"Tier 2",Maharashtra,"Salaried - Private",7.80,28400.00,0.00,5900.00,71.00,2.00,1,317000.00,36,"Personal Expense",No,634,22.05,2.73,0
+APP110600,45,Female,Divorced,"Tier 2","Uttar Pradesh","Salaried - Private",2.20,33100.00,3.00,8500.00,33.30,0.00,3,78000.00,48,Education,Yes,630,19.97,0.85,0
+APP114798,29,Female,Married,"Tier 3","Uttar Pradesh","Salaried - PSU",11.70,12000.00,2.00,2700.00,72.20,1.00,4,41000.00,60,"Personal Expense",No,536,23.53,7.25,0
+APP120479,41,Female,Married,"Tier 2",Haryana,"Salaried - Government",2.90,48400.00,2.00,12600.00,71.50,3.00,2,91000.00,24,"Business Expansion",No,506,20.30,16.64,0
+APP103710,39,Male,Single,"Tier 3",Kerala,"Salaried - Private",1.40,116300.00,0.00,37100.00,16.10,0.00,0,88000.00,60,"Personal Expense",No,702,15.60,0.46,0
+APP120925,21,Male,Single,"Tier 2",Kerala,"Salaried - PSU",2.20,20300.00,0.00,2000.00,52.30,1.00,2,91000.00,12,Education,No,585,21.53,2.92,0
+APP113609,37,Male,Single,"Tier 2","West Bengal","Salaried - Government",4.60,31600.00,1.00,7300.00,39.80,4.00,0,101000.00,12,"Vehicle Purchase",No,631,22.75,0.57,0
+APP115465,24,Male,Single,"Tier 3",Punjab,"Salaried - Private",0.50,35600.00,0.00,7100.00,35.80,1.00,2,122000.00,60,"Personal Expense",Yes,643,23.47,0.78,0
+APP109994,29,Female,Single,"Tier 1",Karnataka,"Self-Employed Professional",3.40,98300.00,1.00,29000.00,62.80,2.00,3,114000.00,72,"Medical Emergency",Yes,596,19.46,1.07,0
+APP107298,35,Other,Single,"Tier 2","Tamil Nadu","Salaried - Government",7.90,30300.00,0.00,5500.00,50.20,1.00,1,142000.00,36,"Vehicle Purchase",No,574,23.29,4.35,0
+APP119853,30,Male,Married,"Tier 2","Delhi NCR","Salaried - Government",1.30,23100.00,0.00,3100.00,52.90,0.00,4,134000.00,60,"Home Renovation",No,572,25.56,4.71,0
+APP106664,29,Male,Single,"Tier 1",Maharashtra,"Business Owner",3.70,90900.00,0.00,15900.00,51.90,4.00,1,79000.00,48,"Medical Emergency",No,600,24.39,5.73,0
+APP123885,40,Female,Single,"Tier 2","Uttar Pradesh","Salaried - PSU",0.70,39000.00,2.00,10300.00,24.30,0.00,0,213000.00,36,"Personal Expense",Yes,640,24.18,0.91,0
+APP101427,43,Male,Married,"Tier 1","Madhya Pradesh","Salaried - Private",7.60,28400.00,0.00,6900.00,35.00,0.00,1,91000.00,12,"Personal Expense",Yes,680,19.09,0.19,0
+APP103077,21,Female,Married,"Tier 3","Delhi NCR","Business Owner",1.80,18200.00,0.00,200.00,9.80,1.00,0,68000.00,24,"Vehicle Purchase",Yes,749,12.65,0.04,0
+APP117505,35,Female,Married,"Tier 2","Andhra Pradesh","Business Owner",0.50,37200.00,1.00,9400.00,38.80,2.00,5,64000.00,84,"Medical Emergency",No,483,19.39,63.10,1
+APP124838,35,Male,Single,"Tier 1",Maharashtra,"Salaried - PSU",0.50,64400.00,1.00,12400.00,33.20,2.00,3,194000.00,84,"Personal Expense",No,563,20.15,3.02,0
+APP103541,38,Female,Single,"Tier 3",Bihar,"Salaried - Private",1.40,30100.00,1.00,6500.00,55.00,1.00,4,143000.00,48,"Personal Expense",No,485,24.11,40.05,0
+APP108182,39,Female,Married,"Tier 2",Gujarat,"Salaried - Private",1.20,129900.00,0.00,28300.00,41.90,0.00,1,46000.00,24,"Personal Expense",Yes,636,24.39,0.13,0
+APP109212,43,Female,Divorced,"Tier 1","Andhra Pradesh","Business Owner",6.70,109300.00,0.00,0.00,63.80,0.00,3,187000.00,24,"Debt Consolidation",No,633,22.87,2.29,0
+APP101346,38,Male,Married,"Tier 3","Madhya Pradesh","Salaried - Private",1.10,42000.00,2.00,6500.00,49.40,0.00,4,216000.00,36,"Home Renovation",No,599,25.75,4.44,0
+APP109526,34,Female,Married,"Tier 1","Andhra Pradesh","Salaried - Private",0.50,117900.00,0.00,26900.00,61.20,0.00,2,234000.00,72,Wedding,No,556,22.20,3.85,0
+APP104372,25,Female,Married,"Tier 2",Punjab,"Salaried - Private",3.30,78400.00,0.00,13000.00,12.40,1.00,1,303000.00,60,Wedding,No,712,15.44,0.09,0
+APP101889,40,Female,Married,"Tier 2","Uttar Pradesh","Salaried - Private",0.50,80500.00,3.00,21500.00,75.30,2.00,1,90000.00,24,"Debt Consolidation",No,487,23.07,40.75,1
+APP124671,44,Female,Married,"Tier 3",Kerala,"Salaried - Private",2.80,31300.00,0.00,9200.00,71.50,2.00,3,115000.00,36,"Debt Consolidation",No,500,24.10,64.77,1
+APP114378,59,Female,Married,"Tier 1","Madhya Pradesh","Salaried - Private",0.70,85900.00,2.00,26800.00,29.90,2.00,1,207000.00,72,"Home Renovation",No,603,21.44,7.74,1
+APP107198,26,Female,Married,"Tier 2",Punjab,"Salaried - PSU",18.40,38300.00,1.00,4500.00,66.70,2.00,2,106000.00,84,"Vehicle Purchase",No,618,19.26,4.58,0
+APP104894,27,Male,Married,"Tier 1",Gujarat,"Salaried - Government",NULL,42800.00,0.00,7300.00,56.30,0.00,4,226000.00,48,"Personal Expense",No,527,19.66,23.41,1
+APP102905,35,Female,Single,"Tier 1","Andhra Pradesh","Self-Employed Professional",5.90,72200.00,0.00,11000.00,79.80,2.00,2,90000.00,84,"Home Renovation",No,626,25.71,1.25,0
+APP106662,21,Female,Single,"Tier 1","West Bengal","Business Owner",1.10,65700.00,0.00,19400.00,61.10,2.00,4,127000.00,36,"Vehicle Purchase",No,523,24.51,66.37,1
+APP109809,21,Female,Married,"Tier 1","West Bengal","Business Owner",1.50,164400.00,1.00,55600.00,38.10,2.00,1,185000.00,12,"Debt Consolidation",No,603,20.73,3.50,0
+APP105418,33,Male,Widowed,"Tier 2","Madhya Pradesh","Salaried - Private",2.30,24500.00,2.00,5100.00,57.90,3.00,1,129000.00,72,"Personal Expense",No,578,20.16,3.50,0
+APP103547,44,Female,Married,"Tier 3","Andhra Pradesh","Salaried - PSU",2.30,30400.00,0.00,4400.00,52.30,1.00,4,449000.00,36,"Personal Expense",No,528,19.81,25.56,0
+APP112724,36,Female,Married,"Tier 1",Telangana,"Salaried - Private",5.80,33000.00,1.00,11300.00,51.40,3.00,0,115000.00,72,"Business Expansion",No,631,22.62,2.93,0
+APP113553,26,Male,Married,"Tier 1","Madhya Pradesh","Business Owner",1.40,96000.00,0.00,20300.00,0.00,1.00,1,163000.00,72,Wedding,No,664,18.90,0.42,0
+APP124371,48,Male,Married,"Tier 1","Tamil Nadu","Self-Employed Professional",5.20,93500.00,0.00,12900.00,62.00,1.00,2,342000.00,72,"Personal Expense",No,576,21.72,2.24,0
+APP111127,33,Male,Married,"Tier 1","Delhi NCR","Salaried - Private",2.50,40400.00,0.00,12100.00,40.90,1.00,2,514000.00,24,"Vehicle Purchase",Yes,544,20.40,10.98,1
+APP117604,37,Female,Single,"Tier 3",Haryana,"Salaried - Private",11.30,47100.00,2.00,4200.00,8.00,3.00,0,68000.00,72,"Debt Consolidation",No,716,13.78,0.29,0
+APP104744,33,Female,Married,"Tier 3",Kerala,"Salaried - Private",1.30,17800.00,5.00,4000.00,60.40,0.00,3,96000.00,72,"Personal Expense",No,526,20.31,14.36,0
+APP118972,29,Female,Married,"Tier 2",Bihar,"Salaried - Private",12.80,29900.00,1.00,8000.00,3.50,2.00,0,139000.00,12,"Personal Expense",No,726,13.86,0.47,0
+APP101475,34,Male,Married,"Tier 2","Andhra Pradesh","Self-Employed Professional",2.00,122200.00,0.00,14000.00,36.00,1.00,1,112000.00,48,"Personal Expense",No,626,24.88,0.35,0
+APP121161,21,Female,Married,"Tier 2",Telangana,"Business Owner",0.50,73200.00,0.00,12200.00,32.80,2.00,4,233000.00,24,"Medical Emergency",No,590,25.82,11.74,0
+APP100536,30,Male,Married,"Tier 2",Punjab,"Salaried - Private",0.80,33700.00,0.00,5100.00,57.20,1.00,0,156000.00,36,Wedding,Yes,583,19.36,0.82,0
+APP116451,33,Female,Single,"Tier 3","Andhra Pradesh","Salaried - Private",6.20,34500.00,2.00,11600.00,12.80,2.00,1,56000.00,36,"Debt Consolidation",No,672,19.00,0.88,0
+APP116427,30,Male,Married,"Tier 3",Haryana,"Self-Employed Professional",15.30,25600.00,2.00,5600.00,63.00,1.00,0,339000.00,36,"Home Renovation",Yes,671,18.71,0.68,0
+APP115252,36,Male,Married,"Tier 2",Maharashtra,"Self-Employed Professional",1.30,17100.00,3.00,3500.00,58.30,1.00,3,187000.00,36,"Personal Expense",Yes,553,22.08,5.20,0
+APP122275,38,Female,Married,"Tier 1","West Bengal","Salaried - Private",4.60,72500.00,0.00,12100.00,37.70,0.00,0,32000.00,36,"Debt Consolidation",Yes,663,19.80,0.25,0
+APP118872,32,Male,Married,"Tier 3",Karnataka,"Salaried - Government",7.20,12000.00,1.00,2700.00,56.50,0.00,2,61000.00,72,"Personal Expense",No,531,21.52,6.36,0
+APP102885,38,Male,Married,"Tier 2","Tamil Nadu","Salaried - Private",3.00,94100.00,0.00,5700.00,46.80,2.00,2,96000.00,24,"Personal Expense",Yes,625,23.63,0.25,0
+APP114587,30,Female,Single,"Tier 2","Tamil Nadu","Salaried - Government",6.30,23900.00,1.00,6000.00,67.10,0.00,3,112000.00,48,Wedding,No,581,23.35,3.49,0
+APP102842,40,Female,Single,"Tier 1","West Bengal","Salaried - Private",2.00,21400.00,2.00,2100.00,87.90,0.00,1,327000.00,36,"Home Renovation",No,607,20.75,5.70,0
+APP113977,46,Female,Married,"Tier 3","Andhra Pradesh","Self-Employed Professional",1.00,36400.00,0.00,0.00,17.00,0.00,0,292000.00,72,"Personal Expense",No,743,13.35,0.03,0
+APP124634,39,Male,Single,"Tier 3",Rajasthan,"Salaried - Private",1.70,42500.00,1.00,9400.00,19.70,0.00,0,42000.00,12,"Debt Consolidation",No,747,15.27,0.07,0
+APP107117,25,Female,Married,"Tier 3","West Bengal","Self-Employed Professional",5.60,40300.00,1.00,7000.00,50.70,3.00,1,101000.00,60,"Personal Expense",No,564,23.97,12.82,0
+APP119069,31,Male,Married,"Tier 2",Punjab,"Salaried - Private",3.90,23100.00,2.00,8100.00,47.10,1.00,1,49000.00,84,Wedding,No,625,25.83,2.74,0
+APP110761,36,Male,Married,"Tier 2","West Bengal","Salaried - Private",8.20,27100.00,2.00,8100.00,66.80,0.00,2,140000.00,48,"Debt Consolidation",No,597,20.18,4.82,0
+APP110840,31,Male,Married,"Tier 2","Andhra Pradesh","Salaried - Private",1.10,44900.00,2.00,16200.00,49.10,1.00,2,173000.00,48,"Business Expansion",No,538,21.22,20.64,0
+APP121479,61,Male,Married,"Tier 2","West Bengal","Salaried - Private",7.60,31200.00,0.00,6100.00,79.00,2.00,2,127000.00,48,"Debt Consolidation",No,598,21.30,1.38,0
+APP113620,30,Male,Single,"Tier 1",Punjab,"Salaried - Private",4.60,39900.00,1.00,4900.00,41.50,0.00,1,60000.00,48,"Business Expansion",No,644,20.80,0.32,0
+APP121393,34,Male,Married,"Tier 3","Uttar Pradesh","Salaried - Government",17.80,22300.00,5.00,7000.00,59.70,2.00,1,194000.00,84,Education,Yes,601,23.11,5.72,0
+APP107303,34,Female,Single,"Tier 2",Haryana,"Self-Employed Professional",0.60,56000.00,1.00,15700.00,49.80,1.00,0,86000.00,48,"Personal Expense",No,597,22.58,3.62,0
+APP105325,50,Male,Widowed,"Tier 1",Kerala,"Salaried - Private",1.60,38500.00,1.00,12300.00,26.20,0.00,1,261000.00,24,"Medical Emergency",Yes,610,22.09,2.70,0
+APP124696,54,Male,Married,"Tier 3","Tamil Nadu","Salaried - Government",0.50,90200.00,1.00,19800.00,22.40,2.00,0,224000.00,36,"Home Renovation",No,607,20.82,1.79,0
+APP103673,21,Male,Single,"Tier 2",Kerala,"Salaried - Private",1.80,71000.00,1.00,14200.00,28.60,1.00,2,168000.00,12,Education,No,576,23.26,5.07,0
+APP116674,32,Female,Married,"Tier 1",Gujarat,"Salaried - Private",0.50,67600.00,1.00,6300.00,40.30,1.00,3,146000.00,12,Education,No,635,20.68,0.60,0
+APP112365,40,Male,Married,"Tier 3",Haryana,"Salaried - Private",NULL,30800.00,2.00,2400.00,52.80,3.00,2,103000.00,12,"Business Expansion",No,623,19.56,1.44,0
+APP108274,45,Male,Widowed,"Tier 1",Punjab,"Salaried - Government",1.00,19600.00,2.00,5800.00,66.60,0.00,0,136000.00,36,"Business Expansion",No,499,21.53,10.59,0
+APP100959,39,Male,Married,"Tier 2",Telangana,"Salaried - PSU",2.50,26100.00,2.00,9700.00,22.70,3.00,0,103000.00,24,"Business Expansion",No,642,25.01,2.18,0
+APP112396,21,Other,Married,"Tier 1",Rajasthan,"Self-Employed Professional",0.50,29500.00,1.00,2800.00,36.20,0.00,2,153000.00,60,Wedding,No,604,23.14,1.69,0
+APP101818,39,Male,Married,"Tier 1","Delhi NCR","Self-Employed Professional",7.20,66400.00,0.00,6600.00,60.60,1.00,4,147000.00,24,Wedding,Yes,571,23.07,2.04,0
+APP114279,28,Male,Married,"Tier 1","Uttar Pradesh","Self-Employed Professional",1.80,94500.00,0.00,11300.00,58.10,0.00,0,400000.00,72,"Home Renovation",No,668,15.90,0.37,0
+APP117917,38,Male,Married,"Tier 3","Uttar Pradesh","Self-Employed Professional",5.60,12000.00,0.00,0.00,19.10,1.00,0,117000.00,24,"Personal Expense",No,781,12.26,0.07,0
+APP105076,39,Male,Married,"Tier 1",Gujarat,"Business Owner",2.20,52700.00,1.00,13200.00,56.30,1.00,3,86000.00,48,"Home Renovation",No,530,22.74,8.99,0
+APP116790,22,Male,Married,"Tier 3",Gujarat,"Salaried - Government",2.90,45200.00,1.00,15100.00,31.90,2.00,2,186000.00,48,"Home Renovation",No,581,20.08,9.57,0
+APP101747,38,Male,Married,"Tier 2",Rajasthan,"Salaried - Private",3.40,65500.00,1.00,NULL,7.10,3.00,0,161000.00,60,"Debt Consolidation",No,683,19.74,0.20,0
+APP100323,42,Female,Married,"Tier 1",Telangana,"Salaried - PSU",0.70,75400.00,0.00,10600.00,58.50,0.00,6,541000.00,60,Education,Yes,517,21.07,11.93,0
+APP110296,32,Female,Single,"Tier 2","Madhya Pradesh","Salaried - Private",0.80,122000.00,1.00,37700.00,59.20,1.00,1,79000.00,36,"Home Renovation",No,642,19.79,1.80,0
+APP112750,30,Male,Married,"Tier 3","Delhi NCR","Self-Employed Professional",1.90,45500.00,2.00,8500.00,29.20,2.00,2,89000.00,48,"Personal Expense",Yes,593,23.98,1.44,0
+APP110012,39,Male,Married,"Tier 2","Uttar Pradesh","Salaried - Government",3.80,41900.00,0.00,5300.00,32.90,1.00,1,143000.00,60,"Home Renovation",No,673,15.10,1.21,0
+APP119762,27,Male,Single,"Tier 2",Haryana,"Self-Employed Professional",NULL,56400.00,1.00,18600.00,42.90,1.00,1,100000.00,60,"Personal Expense",Yes,641,20.88,0.35,0
+APP122707,47,Male,Single,"Tier 2","Madhya Pradesh","Salaried - Private",13.60,28800.00,0.00,6000.00,9.30,1.00,4,82000.00,24,"Medical Emergency",No,632,21.75,3.29,0
+APP103784,51,Female,Single,"Tier 1","Uttar Pradesh","Salaried - Government",7.70,44700.00,2.00,8600.00,6.60,1.00,1,320000.00,72,Wedding,No,651,15.06,4.20,0
+APP120798,31,Male,Single,"Tier 3",Rajasthan,"Salaried - PSU",4.50,16000.00,2.00,3700.00,49.10,2.00,3,104000.00,36,Wedding,No,562,25.32,13.51,0
+APP123768,50,Male,Married,"Tier 1",Punjab,"Salaried - Government",1.90,111800.00,0.00,15500.00,51.50,0.00,1,220000.00,72,Education,No,585,24.61,1.31,0
+APP108483,45,Male,Married,"Tier 2",Gujarat,"Salaried - Private",6.10,111500.00,0.00,28600.00,57.70,2.00,1,67000.00,36,"Personal Expense",No,564,25.64,5.40,0
+APP124716,58,Male,Married,"Tier 1",Haryana,"Salaried - PSU",2.70,145900.00,1.00,44800.00,68.90,1.00,2,91000.00,12,"Personal Expense",No,541,19.39,5.32,0
+APP113836,48,Male,Married,"Tier 2","Tamil Nadu","Business Owner",15.00,64600.00,0.00,0.00,20.30,0.00,1,404000.00,36,"Business Expansion",Yes,756,13.29,0.05,0
+APP102281,35,Male,Single,"Tier 1",Maharashtra,"Salaried - PSU",6.70,157500.00,0.00,2900.00,69.30,2.00,2,516000.00,48,"Vehicle Purchase",No,580,22.05,1.40,0
+APP113514,24,Male,Married,"Tier 3",Kerala,"Self-Employed Professional",0.50,37500.00,1.00,11800.00,68.00,2.00,2,358000.00,48,Wedding,Yes,552,21.55,4.92,1
+APP121714,26,Female,Married,"Tier 1","Tamil Nadu","Salaried - Government",1.20,64400.00,3.00,9200.00,59.00,0.00,0,37000.00,24,"Home Renovation",No,641,22.51,0.28,0
+APP124101,35,Male,Single,"Tier 2","Tamil Nadu","Salaried - PSU",0.80,73400.00,0.00,11700.00,15.60,0.00,1,78000.00,36,"Personal Expense",No,687,16.63,0.35,0
+APP118999,42,Female,Married,"Tier 3",Punjab,"Salaried - Private",1.80,70900.00,2.00,26400.00,31.60,0.00,2,100000.00,48,"Personal Expense",No,543,25.69,8.71,0
+APP110462,44,Male,Married,"Tier 3",Kerala,"Salaried - PSU",1.50,24000.00,0.00,5600.00,31.50,2.00,1,255000.00,36,Wedding,Yes,591,25.70,1.98,0
+APP124825,38,Male,Divorced,"Tier 2","Madhya Pradesh","Self-Employed Professional",4.50,69500.00,2.00,5700.00,48.40,1.00,1,194000.00,24,"Personal Expense",Yes,636,23.06,0.26,0
+APP106815,35,Male,Married,"Tier 2","Delhi NCR","Salaried - Private",1.90,33800.00,1.00,5000.00,53.70,0.00,1,228000.00,24,"Personal Expense",Yes,587,24.35,0.74,0
+APP116798,27,Female,Single,"Tier 1",Maharashtra,"Salaried - Private",9.10,43200.00,1.00,8500.00,43.60,0.00,2,68000.00,60,"Vehicle Purchase",No,602,24.31,3.51,0
+APP107955,21,Female,Married,"Tier 1","Uttar Pradesh","Salaried - Private",1.10,45800.00,3.00,16600.00,63.50,1.00,1,254000.00,60,"Debt Consolidation",No,569,22.10,7.57,0
+APP104293,47,Male,Single,"Tier 3",Punjab,"Salaried - Private",2.20,40500.00,0.00,7000.00,54.50,1.00,3,48000.00,48,"Medical Emergency",No,578,20.02,3.04,0
+APP106244,49,Female,Single,"Tier 3",Gujarat,"Salaried - Private",4.40,30000.00,0.00,6900.00,41.60,1.00,2,96000.00,24,Wedding,No,631,22.68,3.01,0
+APP122931,24,Male,Single,"Tier 2","Andhra Pradesh","Salaried - Private",6.00,78400.00,0.00,NULL,23.90,1.00,0,178000.00,36,"Business Expansion",No,719,13.49,0.82,0
+APP104519,21,Male,Single,"Tier 1","West Bengal","Self-Employed Professional",3.50,81900.00,0.00,7500.00,55.20,2.00,1,315000.00,36,"Vehicle Purchase",No,640,25.12,0.81,0
+APP115259,33,Male,Married,"Tier 3",Karnataka,"Salaried - Private",6.50,17200.00,2.00,4400.00,59.40,1.00,4,423000.00,36,"Debt Consolidation",Yes,526,24.17,36.56,0
+APP120014,39,Female,Married,"Tier 1","Tamil Nadu","Salaried - Private",1.20,25900.00,2.00,4500.00,75.30,3.00,2,292000.00,36,Wedding,No,580,20.38,25.42,0
+APP103843,52,Female,Widowed,"Tier 2",Karnataka,"Salaried - Private",4.60,30900.00,0.00,7100.00,20.90,4.00,1,337000.00,48,"Home Renovation",No,649,24.74,4.60,0
+APP123908,37,Female,Divorced,"Tier 2","Uttar Pradesh","Salaried - Government",1.20,12000.00,2.00,2800.00,43.10,2.00,2,343000.00,36,"Home Renovation",No,546,24.14,41.38,0
+APP122927,37,Male,Single,"Tier 2",Telangana,"Salaried - Private",1.40,30700.00,1.00,10900.00,54.90,1.00,1,388000.00,72,Wedding,No,605,19.32,13.33,0
+APP102851,48,Male,Single,"Tier 1","Delhi NCR","Salaried - Private",0.90,32900.00,0.00,4900.00,22.70,0.00,1,253000.00,36,"Medical Emergency",No,745,13.22,0.07,0
+APP112570,37,Male,Divorced,"Tier 1","Madhya Pradesh","Business Owner",11.00,63200.00,1.00,11800.00,12.20,0.00,1,52000.00,12,"Personal Expense",No,686,18.86,0.98,0
+APP113073,47,Male,Single,"Tier 2",Maharashtra,"Salaried - PSU",3.80,50000.00,1.00,11000.00,67.00,0.00,5,101000.00,24,"Business Expansion",No,552,24.37,9.75,0
+APP105815,31,Female,Single,"Tier 1",Maharashtra,"Self-Employed Professional",1.30,142000.00,1.00,21800.00,39.10,1.00,2,106000.00,36,"Personal Expense",No,591,20.71,2.52,0
+APP112591,43,Male,Married,"Tier 1","Uttar Pradesh","Salaried - PSU",12.50,52000.00,1.00,11600.00,32.00,1.00,2,177000.00,48,"Home Renovation",No,659,17.59,0.39,0
+APP108157,21,Female,Widowed,"Tier 3",Rajasthan,"Salaried - Private",0.50,33700.00,1.00,4800.00,47.90,3.00,3,101000.00,36,"Vehicle Purchase",No,568,20.91,3.63,0
+APP109153,39,Male,Married,"Tier 2","Tamil Nadu","Self-Employed Professional",3.00,71900.00,0.00,12500.00,84.10,1.00,4,152000.00,84,"Medical Emergency",No,551,25.79,7.06,1
+APP106379,34,Male,Married,"Tier 3","Tamil Nadu","Salaried - PSU",NULL,17200.00,2.00,2800.00,32.10,0.00,1,163000.00,60,"Business Expansion",No,638,23.45,2.15,0
+APP115443,34,Male,Married,"Tier 1",Gujarat,"Self-Employed Professional",1.40,195000.00,0.00,50500.00,8.20,2.00,0,174000.00,60,"Medical Emergency",No,678,18.18,0.93,0
+APP100397,37,Male,Single,"Tier 3","Andhra Pradesh","Business Owner",0.60,70700.00,0.00,8900.00,46.20,2.00,1,75000.00,36,"Medical Emergency",No,638,25.66,0.61,0
+APP106878,35,Male,Married,"Tier 1",Karnataka,"Business Owner",3.60,50200.00,0.00,9600.00,46.90,0.00,1,249000.00,60,"Personal Expense",No,643,23.01,0.95,0
+APP121803,43,Male,Single,"Tier 2",Maharashtra,"Self-Employed Professional",5.20,23600.00,0.00,4000.00,75.30,0.00,1,170000.00,24,Education,No,571,23.60,4.86,0
+APP101201,31,Male,Married,"Tier 2",Karnataka,"Salaried - Private",0.50,80200.00,3.00,23300.00,25.90,1.00,0,194000.00,48,"Personal Expense",Yes,676,16.13,0.15,0
+APP106384,40,Male,Married,"Tier 3",Kerala,"Salaried - Government",1.00,17100.00,1.00,2600.00,14.00,0.00,0,111000.00,60,"Personal Expense",No,701,13.29,0.18,0
+APP108550,37,Female,Married,"Tier 2",Telangana,"Business Owner",2.50,42500.00,0.00,7600.00,22.30,2.00,0,76000.00,72,"Medical Emergency",No,712,15.11,0.24,0
+APP100516,41,Male,Married,"Tier 3",Rajasthan,"Salaried - Private",0.50,23500.00,0.00,NULL,49.10,2.00,2,375000.00,60,"Personal Expense",No,665,17.64,1.03,0
+APP103588,28,Female,Married,"Tier 3",Punjab,"Salaried - Government",5.10,25000.00,1.00,0.00,7.00,1.00,2,44000.00,12,"Personal Expense",No,677,17.64,0.34,0
+APP102250,26,Female,Married,"Tier 2","Uttar Pradesh","Salaried - Private",0.50,26600.00,1.00,7100.00,3.60,2.00,0,151000.00,36,"Home Renovation",No,659,17.34,0.62,0
+APP118161,34,Female,Divorced,"Tier 1","West Bengal","Salaried - Private",0.80,28300.00,0.00,4600.00,0.00,3.00,0,84000.00,24,"Home Renovation",No,645,25.31,0.44,0
+APP101457,36,Male,Single,"Tier 1",Maharashtra,"Salaried - Private",2.30,54400.00,1.00,11600.00,51.20,1.00,1,166000.00,36,Education,No,624,19.56,3.51,0
+APP104556,38,Male,Married,"Tier 1",Bihar,"Salaried - Private",2.70,48800.00,2.00,3600.00,55.90,2.00,4,141000.00,60,"Home Renovation",No,516,24.42,8.86,0
+APP107516,42,Female,Married,"Tier 2","Madhya Pradesh","Salaried - Private",1.70,79200.00,0.00,5400.00,35.60,4.00,1,134000.00,36,"Business Expansion",No,607,22.93,1.16,0
+APP120975,42,Female,Married,"Tier 3",Gujarat,"Salaried - Private",7.30,12400.00,0.00,700.00,58.00,0.00,1,275000.00,36,"Home Renovation",Yes,621,19.07,2.56,0
+APP118688,46,Female,Married,"Tier 2","Andhra Pradesh","Salaried - PSU",1.00,20300.00,1.00,3600.00,35.20,1.00,3,51000.00,48,"Personal Expense",Yes,611,21.09,1.38,0
+APP113758,35,Female,Married,"Tier 2",Kerala,"Salaried - Government",0.60,85600.00,0.00,15900.00,20.70,0.00,1,70000.00,48,"Medical Emergency",No,683,18.60,0.20,0
+APP103351,39,Male,Single,"Tier 2",Maharashtra,"Salaried - Private",0.90,95000.00,1.00,17300.00,40.20,0.00,1,129000.00,60,Wedding,Yes,656,19.32,0.16,0
+APP119137,48,Female,Single,"Tier 1",Haryana,"Salaried - Private",3.80,76400.00,1.00,20700.00,47.70,0.00,4,134000.00,12,"Personal Expense",Yes,550,24.56,4.24,0
+APP102168,28,Male,Single,"Tier 1","Madhya Pradesh","Salaried - Private",0.50,41200.00,2.00,9100.00,18.20,0.00,1,175000.00,24,"Home Renovation",No,601,25.22,2.18,0
+APP122511,36,Male,Single,"Tier 1",Kerala,"Business Owner",0.70,234900.00,0.00,46500.00,46.50,1.00,1,168000.00,24,Education,No,564,20.14,9.27,0
+APP105474,37,Female,Married,"Tier 1","Andhra Pradesh","Self-Employed Professional",11.60,67500.00,0.00,13300.00,40.20,0.00,1,177000.00,48,Education,No,624,24.80,1.43,0
+APP112136,36,Female,Married,"Tier 1","Andhra Pradesh","Salaried - Private",4.60,60100.00,2.00,19600.00,27.10,1.00,1,126000.00,72,"Personal Expense",No,608,21.68,1.40,0
+APP106599,46,Male,Married,"Tier 3","Madhya Pradesh","Self-Employed Professional",1.60,82100.00,0.00,20500.00,21.60,4.00,0,66000.00,84,Wedding,No,617,25.11,0.49,0
+APP117355,45,Female,Married,"Tier 3",Kerala,"Salaried - Private",21.10,74500.00,0.00,3200.00,39.20,3.00,1,119000.00,48,Wedding,No,705,13.21,0.37,0
+APP103189,23,Female,Married,"Tier 1","Uttar Pradesh","Salaried - Government",NULL,36800.00,2.00,7800.00,37.50,2.00,1,35000.00,24,"Vehicle Purchase",No,648,25.54,1.23,0
+APP101056,36,Male,Single,"Tier 2",Punjab,"Salaried - PSU",0.70,31500.00,0.00,7900.00,49.10,1.00,2,47000.00,36,"Debt Consolidation",No,554,23.64,6.90,0
+APP116811,21,Male,Married,"Tier 1",Bihar,"Salaried - Private",2.90,62200.00,3.00,11900.00,65.00,2.00,3,104000.00,24,"Home Renovation",No,575,21.45,7.39,0
+APP120027,40,Female,Married,"Tier 1",Rajasthan,"Salaried - Private",3.90,40600.00,2.00,10400.00,56.30,0.00,1,111000.00,84,"Medical Emergency",No,578,22.36,1.78,0
+APP113169,49,Male,Married,"Tier 2","Madhya Pradesh","Salaried - PSU",2.70,101300.00,0.00,13200.00,19.20,1.00,1,138000.00,24,"Personal Expense",No,622,23.18,0.54,0
+APP110772,48,Male,Widowed,"Tier 2",Punjab,"Salaried - Private",2.00,27700.00,2.00,6700.00,29.20,2.00,1,83000.00,60,"Personal Expense",No,536,19.71,10.58,0
+APP108240,24,Female,Divorced,"Tier 2","Andhra Pradesh","Salaried - Government",5.60,35900.00,2.00,13100.00,25.20,0.00,2,149000.00,36,"Medical Emergency",Yes,579,19.06,2.74,0
+APP104520,25,Male,Married,"Tier 2",Haryana,"Salaried - Private",2.50,44700.00,0.00,9300.00,74.40,2.00,7,69000.00,60,Wedding,No,463,19.92,85.34,1
+APP105098,26,Female,Married,"Tier 2","Tamil Nadu","Salaried - Government",6.60,84000.00,0.00,5000.00,35.70,1.00,0,143000.00,24,"Medical Emergency",No,663,19.85,0.05,0
+APP113365,36,Female,Married,"Tier 3","Andhra Pradesh","Salaried - PSU",10.60,27600.00,0.00,4500.00,34.30,4.00,2,91000.00,48,Wedding,No,626,24.51,4.83,0
+APP114417,30,Male,Single,"Tier 1",Karnataka,"Salaried - Private",0.80,42100.00,3.00,7800.00,66.10,0.00,4,206000.00,24,Wedding,No,547,22.77,16.94,0
+APP115794,37,Female,Divorced,"Tier 3",Gujarat,"Salaried - Private",0.50,45300.00,2.00,12500.00,32.30,2.00,2,268000.00,24,Education,No,631,21.42,5.35,0
+APP124238,29,Male,Divorced,"Tier 2",Gujarat,"Business Owner",NULL,32500.00,0.00,2400.00,46.30,2.00,6,200000.00,12,Wedding,No,520,19.32,15.22,0
+APP103634,33,Female,Widowed,"Tier 1","West Bengal","Salaried - Private",0.50,37400.00,0.00,9000.00,20.40,3.00,0,136000.00,24,Wedding,Yes,662,15.34,0.99,0
+APP107841,21,Male,Married,"Tier 1","West Bengal","Salaried - Private",8.80,94600.00,0.00,14000.00,43.20,1.00,1,254000.00,36,Wedding,Yes,633,19.29,0.15,0
+APP119587,47,Male,Single,"Tier 3","Andhra Pradesh","Business Owner",1.40,32400.00,3.00,8900.00,55.20,3.00,0,45000.00,24,"Personal Expense",Yes,597,23.15,3.57,0
+APP123284,29,Male,Married,"Tier 1",Gujarat,"Self-Employed Professional",1.00,35200.00,0.00,10600.00,76.30,5.00,2,55000.00,36,"Vehicle Purchase",No,480,23.39,24.94,1
+APP100852,43,Female,Married,"Tier 3",Gujarat,"Salaried - Private",2.20,42700.00,3.00,10800.00,54.20,1.00,1,127000.00,12,"Vehicle Purchase",No,596,19.12,4.20,0
+APP120728,41,Male,Single,"Tier 2",Gujarat,"Business Owner",17.70,67500.00,0.00,14900.00,32.30,1.00,3,44000.00,36,"Home Renovation",No,725,12.57,0.63,0
+APP118008,25,Male,Married,"Tier 1",Rajasthan,"Business Owner",3.80,41500.00,2.00,10000.00,78.50,1.00,2,228000.00,12,"Business Expansion",No,482,22.29,30.78,0
+APP112431,33,Female,Married,"Tier 2","Tamil Nadu","Salaried - Private",4.30,21200.00,1.00,5100.00,42.20,0.00,3,168000.00,60,"Vehicle Purchase",Yes,546,22.37,5.07,0
+APP106069,26,Male,Divorced,"Tier 3",Gujarat,"Business Owner",12.80,17500.00,0.00,2800.00,62.30,1.00,1,239000.00,84,"Personal Expense",No,636,19.04,3.91,1
+APP124526,57,Male,Married,"Tier 2",Bihar,"Salaried - Private",10.10,165800.00,1.00,41200.00,51.50,1.00,2,58000.00,36,"Debt Consolidation",No,535,23.93,5.90,0
+APP106874,24,Male,Single,"Tier 2",Karnataka,"Salaried - Private",5.20,21000.00,3.00,3600.00,47.30,2.00,0,125000.00,48,Education,Yes,649,23.83,0.12,0
+APP124185,22,Male,Married,"Tier 1",Rajasthan,"Salaried - Government",4.00,46600.00,0.00,6500.00,94.70,2.00,2,59000.00,24,"Personal Expense",No,552,20.66,7.65,0
+APP124555,34,Female,Married,"Tier 1","Uttar Pradesh","Salaried - Private",5.40,63600.00,1.00,15700.00,70.80,2.00,2,340000.00,12,"Debt Consolidation",No,539,21.28,12.04,0
+APP105117,33,Female,Widowed,"Tier 1",Bihar,"Salaried - Private",2.20,43800.00,3.00,7800.00,78.40,4.00,3,253000.00,36,"Vehicle Purchase",Yes,520,24.24,17.33,1
+APP119634,43,Male,Married,"Tier 3","Andhra Pradesh","Business Owner",3.90,17700.00,2.00,6800.00,61.90,3.00,1,177000.00,12,Wedding,No,588,19.16,20.76,0
+APP115666,40,Male,Single,"Tier 2",Kerala,"Self-Employed Professional",2.70,170000.00,0.00,7100.00,47.20,1.00,1,95000.00,36,Wedding,No,701,15.31,0.09,0
+APP102559,48,Male,Widowed,"Tier 1","Tamil Nadu","Salaried - PSU",3.30,65700.00,3.00,20300.00,86.10,1.00,2,60000.00,48,Education,No,467,21.25,21.05,0
+APP123919,30,Female,Married,"Tier 2","Tamil Nadu","Salaried - Private",0.80,38400.00,0.00,10900.00,50.50,0.00,1,139000.00,48,"Vehicle Purchase",Yes,576,21.88,2.55,0
+APP102748,33,Male,Married,"Tier 3",Gujarat,"Salaried - Private",1.60,33800.00,2.00,15900.00,18.00,1.00,1,96000.00,24,"Home Renovation",Yes,628,20.81,3.95,0
+APP111988,25,Male,Divorced,"Tier 1",Gujarat,"Self-Employed Professional",5.60,94600.00,4.00,34200.00,49.80,2.00,1,46000.00,36,"Personal Expense",No,568,22.97,10.76,0
+APP118927,21,Male,Single,"Tier 3",Karnataka,"Salaried - Private",7.20,17800.00,1.00,6100.00,10.70,2.00,2,85000.00,48,Education,No,679,19.02,2.24,0
+APP106210,29,Female,Married,"Tier 3",Kerala,"Salaried - Private",0.50,21700.00,3.00,4400.00,67.60,1.00,1,66000.00,36,"Debt Consolidation",No,496,24.87,16.78,0
+APP109942,23,Male,Married,"Tier 3",Karnataka,"Salaried - Private",2.20,31900.00,1.00,5500.00,39.40,3.00,2,167000.00,12,Wedding,Yes,587,19.67,1.18,0
+APP120537,39,Male,Single,"Tier 3",Karnataka,"Business Owner",4.50,112100.00,2.00,19100.00,31.00,1.00,2,67000.00,72,"Business Expansion",No,582,25.83,2.54,0
+APP123808,35,Male,Single,"Tier 1",Telangana,"Business Owner",0.90,61600.00,1.00,8400.00,18.20,3.00,4,138000.00,24,"Medical Emergency",No,589,22.35,7.24,0
+APP110628,24,Female,Married,"Tier 3","West Bengal","Self-Employed Professional",0.50,20000.00,0.00,4000.00,19.90,3.00,0,65000.00,48,"Business Expansion",No,637,20.23,0.85,0
+APP117288,36,Male,Divorced,"Tier 1",Gujarat,"Salaried - Private",2.40,106400.00,3.00,35000.00,49.40,0.00,2,220000.00,24,"Home Renovation",No,573,22.82,4.85,0
+APP105923,24,Female,Single,"Tier 1",Haryana,"Salaried - PSU",0.50,33400.00,1.00,4500.00,58.20,1.00,0,168000.00,36,"Debt Consolidation",Yes,713,12.52,0.18,0
+APP118216,32,Male,Married,"Tier 1",Kerala,"Salaried - Private",0.70,186500.00,1.00,39900.00,50.60,1.00,1,92000.00,24,Wedding,No,608,23.36,1.76,0
+APP108900,54,Male,Married,"Tier 1","Madhya Pradesh","Salaried - Private",NULL,44600.00,0.00,3100.00,88.80,4.00,5,69000.00,36,"Debt Consolidation",No,460,22.35,36.72,0
+APP118006,36,Male,Single,"Tier 1",Telangana,"Self-Employed Professional",2.50,75000.00,1.00,18300.00,17.90,0.00,1,278000.00,72,Education,No,697,15.98,0.32,0
+APP121113,37,Female,Married,"Tier 1",Haryana,"Salaried - Government",1.10,54000.00,1.00,20200.00,48.30,0.00,0,141000.00,24,Wedding,No,618,23.77,2.15,0
+APP104442,35,Male,Single,"Tier 2",Karnataka,"Salaried - Government",6.50,52100.00,3.00,13200.00,78.90,1.00,0,171000.00,36,"Personal Expense",Yes,613,23.27,0.29,0
+APP102346,33,Male,Single,"Tier 1",Karnataka,"Salaried - Government",5.20,76200.00,2.00,13600.00,35.60,3.00,2,139000.00,12,"Personal Expense",No,630,21.34,2.48,0
+APP102325,40,Male,Married,"Tier 2",Haryana,"Salaried - Government",0.70,49600.00,2.00,12900.00,31.30,0.00,1,127000.00,60,Wedding,No,629,19.77,1.34,0
+APP100283,39,Male,Married,"Tier 1",Bihar,"Salaried - Private",1.10,53600.00,0.00,13300.00,66.80,1.00,1,123000.00,60,"Personal Expense",No,562,22.44,7.15,0
+APP118358,28,Male,Single,"Tier 1","Uttar Pradesh","Self-Employed Professional",0.70,80000.00,2.00,13500.00,19.00,1.00,2,88000.00,48,"Medical Emergency",No,640,23.91,1.15,0
+APP124768,39,Female,Married,"Tier 3",Telangana,"Self-Employed Professional",3.60,67100.00,1.00,14200.00,40.60,0.00,2,155000.00,60,"Medical Emergency",No,570,20.90,7.34,0
+APP121299,45,Male,Married,"Tier 2","West Bengal","Business Owner",3.90,42400.00,1.00,4500.00,37.50,2.00,2,255000.00,60,Wedding,No,632,21.86,1.97,0
+APP120019,32,Male,Married,"Tier 2","Tamil Nadu","Salaried - Private",1.00,41600.00,1.00,9500.00,44.20,2.00,0,104000.00,60,"Home Renovation",No,613,20.01,1.22,0
+APP101684,29,Female,Married,"Tier 1",Maharashtra,"Self-Employed Professional",13.60,75900.00,0.00,11100.00,46.30,2.00,1,125000.00,36,"Medical Emergency",No,636,22.20,0.73,0
+APP106625,34,Male,Single,"Tier 2",Gujarat,"Business Owner",2.40,24900.00,1.00,3600.00,46.10,1.00,1,115000.00,72,Education,No,637,24.24,0.65,0
+APP117008,50,Male,Married,"Tier 2","Tamil Nadu","Salaried - Government",3.10,22700.00,2.00,2400.00,21.70,3.00,0,207000.00,48,Wedding,No,705,12.54,0.08,0
+APP104410,48,Female,Single,"Tier 2","Uttar Pradesh","Self-Employed Professional",5.20,127100.00,2.00,23700.00,37.20,2.00,6,237000.00,48,"Personal Expense",No,561,24.41,16.14,0
+APP108141,45,Female,Married,"Tier 1","Tamil Nadu","Salaried - Government",5.40,24900.00,2.00,2200.00,83.60,0.00,0,66000.00,12,"Debt Consolidation",No,607,19.23,0.41,0
+APP108858,31,Male,Married,"Tier 1",Karnataka,"Self-Employed Professional",0.50,72800.00,2.00,22700.00,24.90,0.00,1,357000.00,48,Education,No,719,15.15,0.34,0
+APP123986,42,Male,Married,"Tier 3",Bihar,"Salaried - Private",0.50,72000.00,0.00,24600.00,21.00,1.00,1,162000.00,84,"Debt Consolidation",No,619,22.19,4.04,0
+APP111242,36,Female,Married,"Tier 2",Karnataka,"Salaried - Private",NULL,24800.00,0.00,600.00,39.80,2.00,0,212000.00,72,"Medical Emergency",No,653,16.64,0.79,0
+APP116425,28,Male,Married,"Tier 2",Bihar,"Salaried - PSU",2.20,44000.00,1.00,10100.00,32.90,1.00,0,180000.00,48,"Vehicle Purchase",No,684,15.88,0.42,0
+APP109653,41,Male,Married,"Tier 3",Karnataka,"Salaried - Private",11.70,17900.00,0.00,1000.00,34.10,2.00,2,58000.00,60,"Debt Consolidation",No,589,21.07,1.46,0
+APP112034,21,Male,Married,"Tier 3",Kerala,"Salaried - Government",5.40,36400.00,2.00,8200.00,60.50,1.00,3,136000.00,60,Education,No,559,25.99,5.84,0
+APP122809,26,Male,Married,"Tier 2",Gujarat,"Salaried - Private",9.70,48300.00,0.00,7600.00,39.10,3.00,1,112000.00,60,"Personal Expense",No,646,20.02,0.79,0
+APP121134,26,Male,Widowed,"Tier 3",Karnataka,"Salaried - Private",1.10,26600.00,0.00,4200.00,36.10,2.00,2,337000.00,84,"Home Renovation",No,622,24.45,2.86,0
+APP112273,46,Male,Married,"Tier 1",Karnataka,"Self-Employed Professional",5.00,103300.00,1.00,23200.00,35.70,2.00,2,223000.00,36,"Business Expansion",No,584,22.45,4.58,1
+APP110228,21,Female,Single,"Tier 2","Madhya Pradesh","Salaried - Private",1.20,25900.00,1.00,8200.00,7.10,1.00,3,156000.00,72,Wedding,No,611,19.76,7.67,0
+APP100963,34,Female,Married,"Tier 3","West Bengal","Self-Employed Professional",0.50,34700.00,1.00,2400.00,16.80,1.00,1,88000.00,12,"Personal Expense",No,691,19.53,0.06,0
+APP121216,48,Female,Single,"Tier 2","Uttar Pradesh","Salaried - PSU",3.40,51300.00,1.00,13100.00,39.70,2.00,1,134000.00,24,Education,No,605,24.12,3.73,0
+APP112536,30,Male,Single,"Tier 2",Telangana,"Salaried - Private",0.50,42000.00,0.00,11000.00,39.50,0.00,4,67000.00,60,"Home Renovation",No,524,22.51,9.43,0
+APP101103,40,Female,Married,"Tier 2",Bihar,"Business Owner",0.50,23300.00,1.00,4600.00,51.20,1.00,1,89000.00,36,"Business Expansion",No,590,25.00,1.08,0
+APP121251,53,Female,Single,"Tier 1",Maharashtra,"Salaried - Government",12.70,40300.00,0.00,5300.00,8.30,0.00,0,241000.00,12,"Medical Emergency",Yes,707,14.32,0.02,0
+APP112606,37,Male,Divorced,"Tier 3","West Bengal","Business Owner",12.20,31300.00,1.00,7000.00,23.70,3.00,1,405000.00,24,Wedding,No,616,22.12,15.44,0
+APP103277,21,Female,Married,"Tier 2","Andhra Pradesh","Salaried - Private",5.80,51000.00,1.00,9400.00,36.50,2.00,1,132000.00,24,"Vehicle Purchase",No,677,18.00,0.65,0
+APP100626,31,Female,Married,"Tier 1","Madhya Pradesh","Salaried - Private",2.40,91700.00,1.00,19400.00,18.40,1.00,0,78000.00,48,"Debt Consolidation",No,615,21.84,0.37,0
+APP119985,26,Female,Widowed,"Tier 2",Haryana,"Salaried - Private",0.50,49800.00,2.00,5500.00,42.50,1.00,1,211000.00,60,"Home Renovation",Yes,628,22.73,0.62,0
+APP110981,34,Male,Married,"Tier 1","Tamil Nadu","Business Owner",3.10,50400.00,2.00,16100.00,40.40,1.00,2,94000.00,60,"Personal Expense",No,569,25.01,14.32,0
+APP116804,24,Male,Single,"Tier 1",Maharashtra,"Self-Employed Professional",7.10,50500.00,1.00,7400.00,40.80,3.00,4,112000.00,24,"Home Renovation",Yes,641,23.38,0.94,0
+APP106847,21,Male,Married,"Tier 2",Karnataka,"Self-Employed Professional",7.50,35200.00,1.00,8900.00,43.60,1.00,2,178000.00,60,"Debt Consolidation",No,628,24.81,1.68,0
+APP106308,46,Female,Married,"Tier 3","Delhi NCR","Salaried - PSU",5.30,40100.00,1.00,9000.00,66.20,1.00,3,265000.00,24,Wedding,No,646,23.83,1.47,0
+APP105934,21,Female,Divorced,"Tier 2",Gujarat,"Salaried - Government",1.50,42000.00,0.00,5000.00,56.00,1.00,1,154000.00,36,"Home Renovation",Yes,635,19.85,1.02,0
+APP115559,23,Male,Single,"Tier 2",Rajasthan,"Salaried - Private",2.80,37900.00,1.00,3400.00,61.90,4.00,5,248000.00,60,"Home Renovation",No,536,25.82,13.04,0
+APP120987,33,Male,Married,"Tier 2","Delhi NCR","Self-Employed Professional",0.60,25000.00,0.00,5900.00,34.70,1.00,5,141000.00,36,"Personal Expense",No,588,24.91,9.91,0
+APP119449,50,Male,Married,"Tier 2",Punjab,"Salaried - PSU",6.60,83600.00,1.00,19900.00,70.60,2.00,2,242000.00,36,"Medical Emergency",No,547,21.61,9.76,0
+APP113978,34,Female,Single,"Tier 2","Andhra Pradesh","Salaried - Government",0.50,12000.00,1.00,2600.00,44.20,1.00,2,81000.00,48,"Home Renovation",No,605,22.69,6.38,0
+APP123684,31,Male,Married,"Tier 1","Uttar Pradesh","Salaried - Private",3.20,91200.00,0.00,9400.00,74.70,2.00,0,427000.00,48,Wedding,No,628,19.42,0.46,0
+APP122121,39,Male,Single,"Tier 2",Karnataka,"Salaried - PSU",1.20,23900.00,1.00,7700.00,67.30,1.00,0,178000.00,24,"Debt Consolidation",No,545,22.31,7.17,0
+APP103463,23,Male,Single,"Tier 2","Tamil Nadu","Salaried - Private",4.80,12000.00,2.00,2500.00,6.80,2.00,2,67000.00,24,"Vehicle Purchase",No,668,15.05,3.46,0
+APP110752,34,Male,Single,"Tier 3",Rajasthan,"Salaried - Private",1.10,17200.00,0.00,2000.00,39.90,2.00,2,199000.00,48,"Home Renovation",No,591,20.81,3.62,0
+APP108743,23,Male,Married,"Tier 1",Karnataka,"Salaried - Private",6.30,127400.00,0.00,31900.00,44.50,2.00,0,107000.00,36,"Business Expansion",No,567,24.36,2.65,0
+APP110670,29,Male,Married,"Tier 2",Karnataka,"Salaried - Private",1.30,59100.00,2.00,14400.00,81.80,0.00,1,273000.00,24,"Medical Emergency",Yes,628,20.01,1.91,0
+APP111924,34,Male,Married,"Tier 2",Bihar,"Salaried - Private",4.30,76300.00,2.00,21500.00,49.80,4.00,1,260000.00,36,"Home Renovation",No,546,20.69,17.89,0
+APP110422,25,Male,Single,"Tier 1",Karnataka,"Salaried - Private",0.50,68700.00,1.00,25300.00,28.30,0.00,1,67000.00,84,"Vehicle Purchase",No,568,22.38,8.54,0
+APP105496,30,Other,Married,"Tier 1","Uttar Pradesh","Salaried - Private",2.60,51800.00,0.00,11900.00,24.90,0.00,0,70000.00,24,Wedding,Yes,631,22.33,0.40,0
+APP110372,23,Male,Married,"Tier 1",Bihar,"Salaried - Private",0.50,163600.00,2.00,59700.00,11.40,3.00,1,381000.00,60,"Home Renovation",No,586,23.18,4.36,0
+APP102084,44,Female,Married,"Tier 3","Delhi NCR","Business Owner",5.20,40500.00,0.00,5200.00,35.40,0.00,0,181000.00,72,Education,Yes,734,15.08,0.03,0
+APP104084,44,Male,Divorced,"Tier 3",Rajasthan,"Salaried - Private",2.80,69300.00,1.00,12900.00,36.50,2.00,1,239000.00,60,"Vehicle Purchase",No,611,19.97,1.11,0
+APP106830,33,Male,Married,"Tier 2","Uttar Pradesh","Business Owner",0.50,158600.00,1.00,65600.00,43.90,2.00,1,109000.00,36,Education,Yes,592,24.43,2.27,0
+APP108528,33,Female,Single,"Tier 1",Bihar,"Salaried - Private",4.70,49300.00,1.00,2700.00,51.20,1.00,2,106000.00,48,"Personal Expense",No,643,23.98,0.61,0
+APP102009,41,Male,Married,"Tier 1",Karnataka,"Salaried - Private",1.70,40500.00,0.00,13400.00,46.30,0.00,1,224000.00,12,"Home Renovation",No,559,19.50,10.70,0
+APP118518,31,Male,Married,"Tier 2",Kerala,"Self-Employed Professional",17.80,76900.00,2.00,13800.00,48.80,0.00,3,110000.00,36,"Personal Expense",No,648,25.36,0.47,0
+APP100259,23,Male,Single,"Tier 2",Gujarat,"Salaried - Private",2.10,35300.00,1.00,13200.00,29.60,1.00,3,126000.00,48,"Debt Consolidation",No,568,23.48,13.07,0
+APP113287,44,Male,Married,"Tier 1","Madhya Pradesh","Salaried - Private",4.30,137400.00,0.00,31700.00,8.00,1.00,0,311000.00,12,"Debt Consolidation",No,707,15.19,0.20,0
+APP107907,22,Other,Single,"Tier 3","Tamil Nadu","Salaried - Private",7.20,30200.00,1.00,5900.00,24.60,NULL,1,127000.00,36,Wedding,No,614,24.72,1.48,0
+APP123670,35,Male,Married,"Tier 2",Gujarat,"Salaried - Private",3.70,40900.00,0.00,14400.00,35.50,1.00,0,1322000.00,24,"Home Renovation",No,568,19.31,49.87,0
+APP120190,44,Male,Married,"Tier 2","Madhya Pradesh","Salaried - Government",1.20,28600.00,0.00,3200.00,62.30,0.00,4,462000.00,12,Wedding,No,566,23.69,8.58,0
+APP122302,35,Female,Single,"Tier 1",Kerala,"Salaried - Government",3.50,30500.00,1.00,4400.00,73.40,2.00,1,193000.00,36,"Personal Expense",No,611,19.12,2.49,0
+APP122502,58,Male,Married,"Tier 1","Andhra Pradesh","Business Owner",1.70,113000.00,2.00,31000.00,39.00,1.00,1,168000.00,36,"Personal Expense",No,633,23.33,2.18,0
+APP121589,33,Male,Married,"Tier 2","Uttar Pradesh","Salaried - PSU",6.70,85300.00,2.00,NULL,40.30,2.00,0,172000.00,12,"Debt Consolidation",No,579,19.02,2.49,0
+APP114982,36,Male,Widowed,"Tier 2","Madhya Pradesh","Salaried - Private",3.50,36100.00,2.00,6000.00,45.70,2.00,1,165000.00,48,"Vehicle Purchase",No,600,20.72,2.19,0
+APP109826,23,Male,Single,"Tier 2",Telangana,"Salaried - Government",2.30,49400.00,0.00,8700.00,15.20,1.00,2,163000.00,48,"Vehicle Purchase",No,691,17.36,0.30,0
+APP101940,24,Male,Married,"Tier 1",Punjab,"Self-Employed Professional",6.20,44500.00,0.00,10600.00,13.90,2.00,0,230000.00,60,"Personal Expense",No,712,13.04,0.46,0
+APP110244,46,Female,Married,"Tier 2",Maharashtra,"Business Owner",3.50,51000.00,3.00,16600.00,66.00,0.00,2,150000.00,24,Education,No,533,22.65,49.35,0
+APP113838,32,Male,Married,"Tier 3",Bihar,"Business Owner",0.50,33600.00,0.00,4700.00,53.40,1.00,4,130000.00,24,"Medical Emergency",No,608,25.88,5.23,0
+APP123119,39,Male,Married,"Tier 2",Haryana,"Salaried - Private",3.00,32500.00,2.00,9300.00,43.80,0.00,1,191000.00,24,"Medical Emergency",No,585,25.34,6.39,1
+APP119407,48,Male,Married,"Tier 1",Rajasthan,"Salaried - Private",0.90,91900.00,2.00,27500.00,39.40,5.00,1,376000.00,48,Education,No,546,21.54,20.13,0
+APP111316,21,Female,Single,"Tier 2",Haryana,"Salaried - Private",5.20,48300.00,0.00,11700.00,8.10,0.00,1,134000.00,24,"Personal Expense",No,644,25.38,0.73,0
+APP122548,32,Female,Married,"Tier 2","Madhya Pradesh","Salaried - Private",3.90,126900.00,1.00,34000.00,19.70,2.00,0,58000.00,36,"Personal Expense",No,709,14.58,0.40,0
+APP103686,24,Male,Single,"Tier 2",Gujarat,"Salaried - Private",1.00,12000.00,1.00,1600.00,15.20,2.00,1,270000.00,12,"Medical Emergency",Yes,676,19.62,0.88,0
+APP116510,35,Male,Married,"Tier 2","Madhya Pradesh","Salaried - Private",0.50,30500.00,0.00,5500.00,17.40,3.00,3,564000.00,24,"Personal Expense",No,601,22.61,46.78,0
+APP116543,35,Female,Married,"Tier 3",Rajasthan,"Self-Employed Professional",1.90,64200.00,1.00,12800.00,36.80,0.00,1,239000.00,72,"Vehicle Purchase",Yes,658,15.34,0.67,0
+APP121460,33,Male,Single,"Tier 1","Uttar Pradesh","Salaried - PSU",17.10,15100.00,2.00,2400.00,31.10,4.00,1,137000.00,48,"Personal Expense",No,652,15.05,1.96,0
+APP108341,35,Female,Married,"Tier 3",Punjab,"Salaried - Private",2.50,23400.00,0.00,4700.00,59.80,1.00,4,234000.00,48,"Home Renovation",No,580,20.13,9.88,0
+APP108010,39,Male,Married,"Tier 1",Kerala,"Salaried - Private",0.50,57100.00,1.00,17300.00,58.40,0.00,4,104000.00,36,"Medical Emergency",No,472,22.34,56.84,0
+APP105929,37,Male,Married,"Tier 2","Delhi NCR","Salaried - PSU",18.60,78700.00,2.00,28000.00,63.60,1.00,3,246000.00,84,"Business Expansion",No,575,25.74,17.69,0
+APP110063,39,Male,Divorced,"Tier 3",Rajasthan,"Salaried - Private",1.20,39200.00,1.00,8700.00,32.10,0.00,1,198000.00,36,"Debt Consolidation",No,667,19.64,0.82,0
+APP102136,37,Female,Married,"Tier 1",Gujarat,"Business Owner",0.50,57700.00,0.00,3900.00,41.50,3.00,0,43000.00,60,"Medical Emergency",Yes,631,19.82,0.30,0
+APP120853,33,Male,Single,"Tier 1","Tamil Nadu","Salaried - PSU",2.30,31500.00,0.00,7300.00,56.60,1.00,2,62000.00,12,Education,No,555,23.73,11.99,0
+APP117895,31,Female,Single,"Tier 2","Madhya Pradesh","Salaried - Private",4.30,61900.00,1.00,9900.00,85.20,0.00,0,208000.00,12,Wedding,No,573,22.54,1.54,0
+APP101834,40,Male,Divorced,"Tier 2",Gujarat,"Salaried - Private",0.50,19900.00,0.00,4700.00,39.10,0.00,1,186000.00,36,Education,No,622,21.52,3.42,0
+APP111063,38,Female,Married,"Tier 1","Andhra Pradesh","Salaried - Private",2.60,30200.00,1.00,11000.00,38.40,1.00,1,167000.00,24,Wedding,No,607,23.34,5.69,0
+APP107090,26,Female,Married,"Tier 1",Maharashtra,"Salaried - Private",5.10,57800.00,0.00,14200.00,15.40,1.00,2,115000.00,36,Wedding,Yes,619,19.13,1.59,0
+APP116397,41,Female,Single,"Tier 1","Delhi NCR","Self-Employed Professional",0.50,61800.00,2.00,19800.00,9.00,1.00,1,103000.00,24,Wedding,No,648,21.92,0.99,0
+APP107706,51,Male,Single,"Tier 2",Haryana,"Salaried - Government",4.30,34100.00,0.00,10900.00,45.80,0.00,4,65000.00,60,Wedding,No,550,25.72,41.27,1
+APP100099,27,Female,Married,"Tier 1","Delhi NCR","Salaried - Private",4.70,164900.00,2.00,29400.00,57.80,NULL,1,211000.00,36,"Vehicle Purchase",Yes,607,21.13,0.38,0
+APP123463,57,Male,Married,"Tier 3",Karnataka,"Salaried - Private",1.90,12000.00,1.00,1900.00,63.70,3.00,1,191000.00,48,"Medical Emergency",No,547,19.35,24.51,0
+APP113019,36,Female,Married,"Tier 1","Madhya Pradesh","Salaried - Private",NULL,39200.00,1.00,4700.00,10.40,1.00,2,130000.00,36,"Vehicle Purchase",No,641,19.05,0.48,0
+APP113995,40,Male,Married,"Tier 1",Bihar,"Salaried - Private",0.50,53100.00,1.00,3900.00,60.50,0.00,6,203000.00,60,"Home Renovation",No,504,23.56,31.82,0
+APP104157,47,Male,Married,"Tier 2","Delhi NCR","Salaried - Private",2.50,41700.00,1.00,18100.00,50.90,0.00,2,330000.00,60,"Personal Expense",No,518,19.10,35.95,1
+APP107719,22,Male,Married,"Tier 1",Gujarat,"Self-Employed Professional",2.70,34300.00,3.00,6800.00,36.60,0.00,1,110000.00,36,"Medical Emergency",Yes,652,16.02,0.23,0
+APP120579,46,Female,Married,"Tier 1",Punjab,"Business Owner",7.40,23300.00,2.00,3500.00,16.70,0.00,2,277000.00,24,"Medical Emergency",No,669,17.58,2.78,0
+APP105627,21,Male,Married,"Tier 1","Tamil Nadu","Business Owner",4.30,62400.00,0.00,9200.00,19.30,3.00,1,160000.00,24,"Business Expansion",Yes,695,18.95,0.24,0
+APP108158,35,Male,Married,"Tier 2","Uttar Pradesh","Salaried - PSU",2.50,20600.00,1.00,3300.00,75.40,1.00,2,164000.00,12,"Personal Expense",No,578,19.99,7.41,0
+APP104596,32,Male,Single,"Tier 2","West Bengal","Salaried - Private",6.10,107200.00,2.00,34300.00,67.60,2.00,2,124000.00,36,"Business Expansion",Yes,554,20.58,8.70,0
+APP108818,33,Female,Single,"Tier 2","Tamil Nadu","Salaried - PSU",0.80,53600.00,1.00,10200.00,43.80,2.00,1,265000.00,24,"Personal Expense",No,659,17.67,1.42,0
+APP123360,52,Male,Divorced,"Tier 2",Punjab,"Self-Employed Professional",2.40,48600.00,1.00,8100.00,31.60,3.00,0,192000.00,48,"Personal Expense",Yes,660,18.31,0.25,0
+APP108757,46,Female,Single,"Tier 2","Uttar Pradesh","Business Owner",8.70,59800.00,1.00,9000.00,40.40,0.00,0,75000.00,48,"Personal Expense",Yes,685,19.45,0.15,0
+APP124532,24,Female,Single,"Tier 3","Andhra Pradesh","Self-Employed Professional",1.40,26900.00,3.00,NULL,64.50,0.00,1,151000.00,36,Education,Yes,475,25.18,15.53,0
+APP122280,42,Male,Married,"Tier 3",Haryana,"Salaried - Private",1.70,71900.00,1.00,10500.00,33.90,1.00,1,133000.00,12,Education,Yes,604,21.06,0.55,0
+APP124440,53,Male,Married,"Tier 2","Delhi NCR","Salaried - Private",0.70,30100.00,1.00,4100.00,34.80,1.00,2,76000.00,36,"Debt Consolidation",No,617,21.87,2.37,0
+APP108993,48,Male,Single,"Tier 3",Haryana,"Salaried - Private",3.50,68500.00,0.00,8900.00,32.00,1.00,2,221000.00,60,"Personal Expense",No,636,23.67,1.20,0
+APP110321,32,Male,Married,"Tier 2","Tamil Nadu","Self-Employed Professional",1.50,45000.00,2.00,10400.00,57.50,0.00,3,161000.00,60,"Medical Emergency",No,607,23.40,2.90,0
+APP115797,26,Female,Married,"Tier 3",Kerala,"Business Owner",5.20,22100.00,2.00,4500.00,36.70,3.00,1,141000.00,36,"Home Renovation",Yes,639,23.12,0.46,0
+APP103265,39,Female,Married,"Tier 2",Kerala,"Salaried - Private",0.50,81500.00,2.00,18900.00,3.60,1.00,1,40000.00,72,"Medical Emergency",Yes,692,17.45,0.11,0
+APP118242,32,Male,Single,"Tier 3","West Bengal","Salaried - PSU",7.70,20700.00,1.00,4800.00,35.80,0.00,2,147000.00,36,"Debt Consolidation",No,649,19.06,0.76,0
+APP106561,21,Female,Single,"Tier 2","West Bengal","Salaried - Private",4.90,47900.00,0.00,6900.00,2.40,0.00,0,194000.00,36,"Personal Expense",No,734,14.72,0.29,0
+APP116276,37,Male,Single,"Tier 1",Telangana,"Salaried - Private",3.80,62200.00,0.00,7400.00,19.30,2.00,2,165000.00,36,"Business Expansion",No,705,12.56,0.63,0
+APP115832,23,Male,Married,"Tier 2",Haryana,"Salaried - PSU",3.30,38500.00,1.00,6900.00,45.90,1.00,2,616000.00,12,"Personal Expense",No,577,25.41,16.11,0
+APP109489,24,Female,Married,"Tier 3",Gujarat,"Business Owner",1.50,44500.00,2.00,10200.00,57.60,0.00,5,117000.00,24,Education,No,551,24.39,29.66,1
+APP120889,40,Male,Married,"Tier 2",Gujarat,"Self-Employed Professional",4.40,25000.00,2.00,7500.00,61.00,3.00,0,78000.00,48,"Business Expansion",Yes,551,22.61,4.18,0
+APP106692,24,Male,Married,"Tier 2",Haryana,"Salaried - Private",6.30,40700.00,0.00,7500.00,39.30,1.00,4,117000.00,12,"Home Renovation",No,670,19.70,0.62,0
+APP119052,43,Male,Divorced,"Tier 2",Karnataka,"Salaried - Government",NULL,21200.00,0.00,2700.00,67.30,2.00,3,45000.00,84,"Medical Emergency",No,591,20.56,2.10,0
+APP121957,40,Male,Divorced,"Tier 2",Rajasthan,"Self-Employed Professional",11.30,41000.00,1.00,9500.00,24.10,0.00,2,56000.00,60,"Business Expansion",No,673,19.00,0.84,0
+APP106390,34,Female,Married,"Tier 1",Gujarat,"Salaried - Government",7.10,22300.00,1.00,4600.00,33.00,0.00,0,103000.00,84,"Home Renovation",No,686,19.04,0.12,0
+APP120833,42,Male,Married,"Tier 1","Delhi NCR","Salaried - Government",0.50,22800.00,0.00,2000.00,67.10,2.00,2,145000.00,48,"Medical Emergency",Yes,576,22.15,0.61,0
+APP100346,30,Male,Married,"Tier 2","Delhi NCR","Salaried - Government",2.40,36100.00,0.00,2500.00,26.60,2.00,0,120000.00,48,Education,No,768,13.39,0.06,0
+APP108203,28,Female,Married,"Tier 2","Madhya Pradesh","Business Owner",0.90,42100.00,0.00,11000.00,79.00,0.00,0,62000.00,60,"Vehicle Purchase",No,614,19.15,1.34,0
+APP119102,30,Male,Single,"Tier 1",Bihar,"Salaried - Private",7.20,97400.00,2.00,30200.00,42.90,3.00,2,63000.00,24,"Business Expansion",No,536,23.72,6.15,0
+APP109853,40,Male,Married,"Tier 3","Andhra Pradesh","Salaried - Government",3.20,75200.00,0.00,21900.00,31.40,1.00,0,120000.00,48,"Vehicle Purchase",No,632,21.96,1.13,0
+APP111973,45,Female,Married,"Tier 1",Telangana,"Salaried - Private",4.00,382500.00,0.00,64100.00,46.20,3.00,1,330000.00,24,"Medical Emergency",No,713,12.55,0.17,0
+APP100250,32,Male,Married,"Tier 3",Bihar,"Salaried - PSU",0.50,30800.00,2.00,5100.00,65.40,0.00,0,192000.00,24,Education,No,668,17.00,0.30,0
+APP100718,32,Male,Married,"Tier 1",Bihar,"Business Owner",18.90,66200.00,0.00,NULL,56.50,2.00,0,87000.00,48,"Medical Emergency",No,652,15.81,0.13,0
+APP124465,27,Male,Married,"Tier 3",Maharashtra,"Salaried - PSU",0.50,48600.00,0.00,6300.00,31.30,2.00,0,229000.00,24,"Home Renovation",Yes,642,25.93,0.27,0
+APP104097,42,Female,Married,"Tier 1",Kerala,"Salaried - Government",3.10,41800.00,2.00,10600.00,50.30,1.00,2,75000.00,24,"Vehicle Purchase",No,534,19.65,10.80,0
+APP122646,46,Female,Married,"Tier 3","West Bengal","Salaried - Private",1.80,12800.00,1.00,3000.00,56.10,0.00,0,109000.00,84,"Debt Consolidation",Yes,629,22.60,0.89,0
+APP118638,33,Female,Single,"Tier 2",Gujarat,"Salaried - Private",4.20,29600.00,0.00,3700.00,63.00,0.00,1,118000.00,24,"Medical Emergency",Yes,638,21.72,0.23,0
+APP123824,43,Female,Married,"Tier 3",Karnataka,"Business Owner",8.60,21300.00,2.00,3600.00,5.90,1.00,0,143000.00,12,Education,Yes,671,17.83,0.23,0
+APP109355,31,Male,Married,"Tier 1",Karnataka,"Salaried - Private",6.20,41900.00,1.00,6800.00,50.10,0.00,2,118000.00,24,"Vehicle Purchase",No,589,20.89,3.27,0
+APP110229,37,Male,Married,"Tier 1","Andhra Pradesh","Salaried - Private",3.90,78100.00,1.00,10400.00,54.30,1.00,2,32000.00,72,Wedding,Yes,630,25.86,0.55,0
+APP118183,43,Female,Married,"Tier 2",Rajasthan,"Self-Employed Professional",2.20,72400.00,0.00,14100.00,14.30,1.00,0,371000.00,60,"Business Expansion",No,727,14.79,0.12,0
+APP120045,46,Male,Divorced,"Tier 1",Maharashtra,"Salaried - Private",5.20,84800.00,1.00,17700.00,46.00,0.00,3,80000.00,12,"Medical Emergency",Yes,619,20.19,0.61,0
+APP108029,36,Male,Married,"Tier 2","Tamil Nadu","Salaried - Private",0.60,136800.00,0.00,26200.00,58.30,1.00,0,115000.00,24,"Medical Emergency",Yes,638,20.56,0.28,0
+APP123261,40,Female,Married,"Tier 1",Gujarat,"Salaried - Private",0.50,44700.00,0.00,3400.00,28.20,1.00,1,188000.00,48,"Personal Expense",No,617,23.92,0.73,0
+APP111753,27,Male,Single,"Tier 1","Tamil Nadu","Salaried - Government",3.70,38500.00,0.00,7500.00,87.20,2.00,1,166000.00,12,"Personal Expense",No,502,25.91,23.75,0
+APP107536,63,Female,Married,"Tier 2","Andhra Pradesh","Self-Employed Professional",3.50,33900.00,0.00,NULL,44.40,0.00,0,195000.00,24,"Business Expansion",No,703,13.29,0.09,0
+APP112650,35,Male,Married,"Tier 2",Telangana,"Salaried - Private",6.40,31500.00,1.00,6500.00,85.90,2.00,3,221000.00,36,"Personal Expense",No,507,22.37,20.90,0
+APP101972,36,Male,Single,"Tier 1",Kerala,"Business Owner",3.20,52300.00,1.00,11900.00,36.30,1.00,0,111000.00,36,"Home Renovation",No,654,17.58,0.97,0
+APP104564,40,Male,Married,"Tier 3","Delhi NCR","Salaried - Private",6.30,34200.00,0.00,1900.00,51.80,0.00,3,259000.00,60,"Vehicle Purchase",No,661,18.49,0.60,0
+APP117945,25,Male,Married,"Tier 2","Andhra Pradesh","Salaried - Private",0.50,43300.00,2.00,13300.00,32.00,0.00,2,227000.00,72,Education,No,591,20.82,7.59,0
+APP104950,45,Male,Single,"Tier 2","Delhi NCR","Salaried - Private",6.70,124600.00,0.00,9200.00,56.90,2.00,1,68000.00,72,"Personal Expense",No,652,18.04,0.28,0
+APP113199,26,Male,Single,"Tier 2",Gujarat,"Salaried - Private",3.60,19100.00,2.00,5000.00,52.60,3.00,4,95000.00,60,"Personal Expense",Yes,514,20.55,9.99,1
+APP109889,28,Female,Single,"Tier 1","Tamil Nadu","Business Owner",1.00,15500.00,4.00,2900.00,48.00,3.00,3,60000.00,36,"Personal Expense",No,580,20.80,11.30,0
+APP111214,26,Female,Married,"Tier 2","Delhi NCR","Salaried - Private",2.60,35500.00,1.00,7500.00,65.40,0.00,1,323000.00,36,"Debt Consolidation",No,580,20.56,5.27,0
+APP100075,41,Male,Married,"Tier 1","Andhra Pradesh","Self-Employed Professional",3.60,99600.00,0.00,17800.00,20.20,3.00,0,167000.00,72,Wedding,No,695,15.71,0.51,0
+APP101147,32,Male,Married,"Tier 1","Uttar Pradesh","Salaried - Government",3.30,41200.00,0.00,11500.00,38.80,2.00,2,197000.00,48,Wedding,No,544,24.03,31.77,1
+APP122394,37,Male,Widowed,"Tier 1",Maharashtra,"Salaried - Government",2.70,40800.00,3.00,9500.00,37.40,2.00,0,181000.00,48,"Business Expansion",No,674,17.66,0.82,0
+APP108022,42,Female,Married,"Tier 1",Bihar,"Self-Employed Professional",1.50,125700.00,0.00,28900.00,43.20,5.00,1,51000.00,24,"Debt Consolidation",No,556,19.96,2.14,0
+APP124901,33,Male,Married,"Tier 3",Telangana,"Salaried - Private",4.50,29600.00,3.00,10900.00,20.00,0.00,1,465000.00,12,Wedding,Yes,635,19.14,4.01,0
+APP100034,41,Other,Married,"Tier 2","Uttar Pradesh","Business Owner",5.80,33400.00,1.00,6800.00,31.60,1.00,1,397000.00,60,"Personal Expense",Yes,631,19.37,5.21,0
+APP104579,42,Female,Single,"Tier 3","Delhi NCR","Salaried - Private",4.00,52500.00,0.00,5200.00,60.20,3.00,5,407000.00,60,"Personal Expense",No,499,21.31,41.22,0
+APP102209,31,Female,Married,"Tier 2","West Bengal","Self-Employed Professional",5.10,35800.00,0.00,7200.00,19.40,1.00,0,232000.00,36,Education,No,646,22.22,2.02,0
+APP120041,47,Male,Married,"Tier 2","Uttar Pradesh","Salaried - Private",14.40,69400.00,1.00,5500.00,59.50,2.00,0,63000.00,24,Wedding,Yes,676,18.82,0.04,0
+APP108156,33,Male,Divorced,"Tier 2",Gujarat,"Salaried - Private",4.90,39700.00,2.00,15700.00,55.90,0.00,2,260000.00,60,"Debt Consolidation",No,542,23.58,18.95,0
+APP117789,25,Male,Married,"Tier 3",Karnataka,"Salaried - Private",NULL,17900.00,1.00,6500.00,56.10,1.00,2,240000.00,36,"Medical Emergency",No,553,19.14,17.56,0
+APP105114,50,Male,Married,"Tier 3",Karnataka,"Business Owner",0.50,39500.00,0.00,4700.00,31.70,2.00,0,133000.00,36,"Vehicle Purchase",No,659,17.99,0.84,0
+APP116069,28,Male,Widowed,"Tier 2",Telangana,"Salaried - Private",1.30,36600.00,0.00,3700.00,42.40,2.00,1,176000.00,48,"Personal Expense",Yes,667,18.25,0.18,0
+APP109300,34,Male,Divorced,"Tier 3",Rajasthan,"Salaried - PSU",6.80,16600.00,0.00,5100.00,83.00,1.00,1,336000.00,84,"Home Renovation",No,561,23.36,38.61,0
+APP107363,46,Male,Single,"Tier 2",Gujarat,"Salaried - Private",6.60,31000.00,1.00,8600.00,34.10,1.00,1,96000.00,36,Wedding,No,612,25.79,2.92,0
+APP124843,40,Male,Married,"Tier 3","Delhi NCR","Business Owner",1.60,43800.00,1.00,6400.00,38.90,3.00,3,256000.00,24,Wedding,No,566,19.01,12.58,0
+APP105053,28,Female,Married,"Tier 3",Haryana,"Salaried - PSU",4.30,40200.00,0.00,7300.00,0.00,2.00,0,25000.00,12,"Personal Expense",No,712,12.54,0.16,0
+APP114264,45,Female,Divorced,"Tier 3",Punjab,"Salaried - PSU",1.20,22100.00,3.00,8700.00,52.60,1.00,2,109000.00,60,Wedding,No,508,21.84,31.09,0
+APP110579,36,Male,Married,"Tier 2",Kerala,"Salaried - Private",0.50,62700.00,0.00,18000.00,25.80,2.00,2,189000.00,48,"Vehicle Purchase",No,646,21.39,5.79,0
+APP111921,27,Female,Married,"Tier 2","Andhra Pradesh","Salaried - Private",4.60,57300.00,2.00,14200.00,57.90,3.00,1,468000.00,48,"Home Renovation",Yes,545,20.24,5.71,0
+APP118948,39,Female,Married,"Tier 1",Bihar,"Salaried - Government",13.00,70500.00,1.00,15800.00,7.70,1.00,0,110000.00,48,Education,No,703,12.77,0.11,0
+APP113010,37,Female,Single,"Tier 2","Tamil Nadu","Salaried - Government",0.90,35800.00,1.00,6400.00,42.00,4.00,1,68000.00,12,"Personal Expense",No,671,18.14,0.60,0
+APP108582,26,Female,Married,"Tier 3",Punjab,"Self-Employed Professional",4.70,106900.00,3.00,30400.00,87.80,0.00,3,114000.00,84,"Personal Expense",No,494,23.81,41.79,1
+APP115801,21,Male,Single,"Tier 3",Gujarat,"Salaried - Private",0.80,38600.00,2.00,8600.00,69.80,0.00,3,148000.00,36,"Home Renovation",No,591,24.15,2.75,0
+APP109188,33,Male,Single,"Tier 1",Gujarat,"Salaried - Government",8.00,22400.00,3.00,4600.00,51.30,0.00,1,73000.00,24,Education,No,626,19.02,1.36,0
+APP103548,28,Female,Single,"Tier 2","Madhya Pradesh","Salaried - Private",8.90,14200.00,2.00,4600.00,17.30,0.00,1,129000.00,48,"Business Expansion",No,685,17.94,0.56,0
+APP122421,32,Male,Married,"Tier 1",Maharashtra,"Salaried - Private",5.70,41500.00,2.00,7000.00,27.90,1.00,1,100000.00,36,"Home Renovation",No,629,20.11,2.05,0
+APP101743,23,Female,Single,"Tier 2",Karnataka,"Salaried - Private",2.70,75600.00,1.00,23400.00,37.10,4.00,3,52000.00,48,"Home Renovation",No,515,22.64,21.73,0
+APP115737,33,Male,Single,"Tier 2",Kerala,"Business Owner",10.60,64100.00,1.00,17500.00,67.20,1.00,2,92000.00,24,"Debt Consolidation",No,557,21.97,10.91,1
+APP121091,27,Male,Married,"Tier 3","Uttar Pradesh","Salaried - PSU",3.30,19600.00,1.00,4200.00,26.60,1.00,0,178000.00,48,"Debt Consolidation",No,653,17.18,0.82,0
+APP105090,38,Male,Married,"Tier 1","Andhra Pradesh","Business Owner",2.30,100600.00,0.00,13000.00,53.90,3.00,1,151000.00,48,Wedding,No,660,15.53,0.09,0
+APP113958,31,Female,Widowed,"Tier 3",Gujarat,"Business Owner",1.70,35100.00,0.00,7600.00,20.10,1.00,0,122000.00,12,Education,No,587,23.12,2.86,0
+APP103706,33,Male,Single,"Tier 2",Haryana,"Salaried - Private",8.80,55200.00,0.00,NULL,29.10,2.00,0,44000.00,72,"Personal Expense",No,654,15.56,0.66,0
+APP109684,28,Male,Married,"Tier 1","Madhya Pradesh","Salaried - Government",0.90,33900.00,1.00,7800.00,37.50,3.00,0,131000.00,72,"Home Renovation",Yes,645,20.28,0.49,0
+APP102388,45,Male,Single,"Tier 2",Telangana,"Salaried - Government",5.00,26300.00,0.00,2400.00,32.20,2.00,0,161000.00,36,"Personal Expense",No,675,15.40,0.44,0
+APP113197,28,Other,Single,"Tier 3","Madhya Pradesh","Business Owner",1.60,28400.00,0.00,5800.00,31.00,1.00,1,73000.00,84,"Vehicle Purchase",No,615,19.41,4.35,0
+APP124628,21,Male,Single,"Tier 3",Rajasthan,"Self-Employed Professional",1.10,12000.00,2.00,4000.00,67.30,2.00,2,648000.00,24,Education,No,546,21.16,88.80,1
+APP103953,31,Male,Single,"Tier 2",Maharashtra,"Salaried - Private",2.20,35200.00,0.00,10000.00,55.30,1.00,1,153000.00,36,Wedding,Yes,546,23.19,3.42,0
+APP114524,34,Male,Divorced,"Tier 2",Maharashtra,"Salaried - PSU",7.00,36700.00,1.00,9300.00,15.20,1.00,1,108000.00,72,"Personal Expense",No,722,14.93,0.16,0
+APP105742,40,Female,Widowed,"Tier 2",Karnataka,"Salaried - Private",1.20,41300.00,1.00,3400.00,47.50,5.00,0,413000.00,36,"Debt Consolidation",Yes,669,19.72,0.15,0
+APP102516,35,Female,Married,"Tier 3",Haryana,"Salaried - Private",7.70,47700.00,4.00,11500.00,38.70,0.00,2,284000.00,36,"Home Renovation",No,635,23.61,4.59,0
+APP109774,33,Male,Married,"Tier 2","Delhi NCR","Salaried - Private",4.30,23300.00,0.00,7100.00,25.10,2.00,0,69000.00,36,"Home Renovation",Yes,621,25.99,1.10,0
+APP104068,34,Male,Single,"Tier 3",Kerala,"Salaried - Private",1.90,40900.00,2.00,8400.00,17.30,3.00,2,115000.00,60,"Medical Emergency",No,617,21.70,2.96,1
+APP115582,32,Female,Widowed,"Tier 3",Haryana,"Salaried - Private",6.00,46100.00,0.00,7400.00,52.40,2.00,1,75000.00,24,Education,No,589,19.66,1.90,0
+APP118379,25,Male,Married,"Tier 2",Maharashtra,"Self-Employed Professional",4.50,25200.00,1.00,5300.00,11.60,0.00,1,210000.00,24,Wedding,No,651,15.11,0.39,0
+APP123754,29,Male,Single,"Tier 3","West Bengal","Self-Employed Professional",NULL,53200.00,1.00,4200.00,17.70,2.00,0,153000.00,24,"Home Renovation",No,694,17.38,0.19,0
+APP112281,38,Female,Married,"Tier 2",Maharashtra,"Salaried - Private",3.40,44100.00,0.00,9600.00,65.20,0.00,2,62000.00,60,"Personal Expense",No,602,21.22,1.26,0
+APP117957,38,Female,Widowed,"Tier 2","Delhi NCR","Self-Employed Professional",1.50,53500.00,3.00,16300.00,62.20,1.00,2,115000.00,48,"Medical Emergency",No,531,20.47,16.88,0
+APP107515,34,Female,Widowed,"Tier 2",Punjab,"Salaried - Private",2.40,29500.00,0.00,4000.00,0.00,3.00,1,90000.00,24,"Personal Expense",No,651,16.83,2.23,0
+APP103222,21,Male,Married,"Tier 2","West Bengal","Salaried - PSU",NULL,62700.00,0.00,19900.00,48.60,0.00,2,138000.00,36,"Personal Expense",No,568,22.79,6.45,0
+APP118817,35,Male,Single,"Tier 1","Andhra Pradesh","Salaried - Private",5.40,32700.00,2.00,4700.00,5.50,2.00,0,186000.00,24,"Personal Expense",No,722,15.60,0.08,0
+APP118036,34,Female,Married,"Tier 1",Punjab,"Business Owner",0.50,27900.00,1.00,2600.00,34.10,2.00,1,139000.00,24,Education,No,614,20.62,3.01,0
+APP114499,57,Male,Single,"Tier 2",Bihar,"Salaried - Private",7.90,123900.00,1.00,49700.00,54.90,2.00,0,35000.00,60,"Debt Consolidation",No,600,24.74,6.88,0
+APP115548,21,Male,Divorced,"Tier 1",Kerala,"Salaried - Private",4.80,76600.00,1.00,13100.00,28.90,0.00,0,177000.00,12,"Business Expansion",No,714,15.87,0.06,0
+APP115725,24,Female,Married,"Tier 1",Kerala,"Salaried - Private",0.50,133600.00,1.00,27200.00,42.10,0.00,1,56000.00,60,"Debt Consolidation",No,635,24.49,1.04,0
+APP121731,47,Male,Divorced,"Tier 2","Madhya Pradesh","Salaried - Private",4.80,14900.00,1.00,3800.00,53.00,1.00,3,265000.00,48,Wedding,Yes,547,20.67,20.72,1
+APP124595,29,Male,Married,"Tier 3",Kerala,"Salaried - Private",0.50,25900.00,0.00,3800.00,20.80,1.00,0,160000.00,84,"Medical Emergency",No,622,22.31,2.37,0
+APP114228,45,Male,Single,"Tier 2","West Bengal","Salaried - Private",0.50,22600.00,2.00,400.00,37.80,1.00,0,137000.00,24,"Home Renovation",No,668,18.76,0.20,0
+APP105787,27,Female,Married,"Tier 1",Maharashtra,"Salaried - PSU",0.50,62400.00,0.00,6100.00,65.90,2.00,1,442000.00,84,"Vehicle Purchase",No,562,19.63,1.90,0
+APP106503,42,Male,Single,"Tier 3","Madhya Pradesh","Salaried - Government",12.10,12000.00,0.00,3800.00,18.00,2.00,0,209000.00,36,"Personal Expense",No,665,19.15,7.28,0
+APP104973,21,Female,Married,"Tier 1","West Bengal","Salaried - PSU",NULL,37500.00,0.00,7700.00,41.40,3.00,1,97000.00,24,"Medical Emergency",No,599,23.19,2.35,0
+APP115505,59,Female,Married,"Tier 3",Haryana,"Salaried - Government",1.20,81600.00,0.00,16000.00,50.90,0.00,4,277000.00,48,Wedding,No,640,23.48,1.45,0
+APP114930,51,Male,Married,"Tier 2",Rajasthan,"Salaried - Private",8.40,45200.00,1.00,13200.00,41.40,1.00,0,257000.00,48,"Medical Emergency",No,619,19.07,1.07,0
+APP120547,46,Female,Single,"Tier 1","Uttar Pradesh","Salaried - Private",7.90,73300.00,1.00,20100.00,20.60,1.00,0,76000.00,24,Wedding,No,719,13.97,0.07,0
+APP116488,45,Female,Single,"Tier 2",Bihar,"Salaried - Private",2.40,20000.00,1.00,3700.00,28.00,4.00,3,172000.00,12,"Debt Consolidation",No,587,22.55,4.73,0
+APP118760,43,Male,Married,"Tier 1",Bihar,"Self-Employed Professional",14.30,121600.00,1.00,24500.00,72.30,1.00,1,132000.00,72,"Vehicle Purchase",No,582,24.49,1.43,0
+APP105883,34,Female,Married,"Tier 1",Gujarat,"Salaried - Government",0.50,44200.00,1.00,100.00,68.60,2.00,4,224000.00,72,"Personal Expense",Yes,509,23.47,8.18,1
+APP117477,50,Male,Single,"Tier 2","Delhi NCR","Self-Employed Professional",6.30,33500.00,1.00,13900.00,54.00,2.00,1,93000.00,36,"Personal Expense",No,610,20.81,3.74,0
+APP121838,44,Male,Married,"Tier 2",Haryana,"Self-Employed Professional",0.50,65500.00,1.00,10900.00,0.00,1.00,1,245000.00,72,Wedding,No,722,14.54,0.19,0
+APP106173,24,Female,Single,"Tier 1",Gujarat,"Salaried - Private",3.10,55300.00,1.00,10300.00,55.60,0.00,1,56000.00,84,Wedding,No,588,23.08,2.79,0
+APP103274,21,Female,Married,"Tier 1","West Bengal","Salaried - Private",3.40,20300.00,1.00,0.00,45.40,0.00,2,438000.00,24,"Vehicle Purchase",No,671,16.56,0.87,0
+APP122479,39,Female,Single,"Tier 1","Delhi NCR","Self-Employed Professional",0.60,130000.00,2.00,39700.00,35.00,2.00,2,75000.00,12,"Personal Expense",No,514,21.89,17.61,1
+APP121513,26,Male,Single,"Tier 1",Gujarat,"Salaried - Government",5.90,53800.00,0.00,5400.00,46.30,2.00,1,95000.00,36,Wedding,No,693,15.74,0.16,0
+APP104273,52,Male,Married,"Tier 3","Uttar Pradesh","Salaried - Private",2.70,14700.00,2.00,3300.00,44.60,NULL,1,153000.00,48,"Personal Expense",No,620,22.64,4.94,0
+APP102767,51,Female,Single,"Tier 2",Maharashtra,"Business Owner",5.80,39800.00,0.00,8300.00,27.70,0.00,1,100000.00,48,"Medical Emergency",No,654,17.18,1.93,1
+APP102587,48,Male,Married,"Tier 1",Punjab,"Business Owner",0.90,175800.00,1.00,47300.00,67.90,0.00,3,89000.00,24,"Business Expansion",Yes,568,19.08,1.79,0
+APP110948,21,Female,Married,"Tier 1","Uttar Pradesh","Business Owner",3.20,85000.00,1.00,5300.00,0.00,1.00,1,76000.00,60,"Business Expansion",Yes,682,16.76,0.38,0
+APP114887,37,Male,Single,"Tier 2","Tamil Nadu","Salaried - Private",0.70,48500.00,0.00,9000.00,8.50,4.00,1,66000.00,60,Wedding,No,740,12.75,0.21,0
+APP112831,41,Female,Married,"Tier 1","Tamil Nadu","Salaried - PSU",6.30,101100.00,1.00,21800.00,60.50,2.00,2,183000.00,84,Wedding,No,554,22.68,7.26,1
+APP101483,38,Male,Single,"Tier 1",Maharashtra,"Self-Employed Professional",0.70,66200.00,2.00,8100.00,60.70,1.00,3,78000.00,36,"Personal Expense",No,594,23.88,3.01,0
+APP121841,36,Female,Married,"Tier 3","Tamil Nadu","Self-Employed Professional",13.30,60500.00,1.00,5700.00,40.80,4.00,1,82000.00,36,"Medical Emergency",No,689,15.09,0.11,0
+APP100052,22,Male,Single,"Tier 1",Punjab,"Self-Employed Professional",0.50,23500.00,2.00,8500.00,22.00,0.00,0,98000.00,48,"Personal Expense",Yes,692,16.02,0.42,0
+APP115387,47,Female,Married,"Tier 1",Karnataka,"Salaried - Private",6.40,85500.00,2.00,35200.00,53.00,0.00,1,190000.00,12,Education,No,562,21.09,6.07,0
+APP115778,29,Female,Married,"Tier 1",Punjab,"Business Owner",3.10,101100.00,0.00,28500.00,21.50,1.00,2,50000.00,72,"Personal Expense",No,655,18.45,0.70,0
+APP110596,38,Male,Married,"Tier 2",Rajasthan,"Salaried - Government",0.60,71000.00,2.00,17700.00,45.30,1.00,4,176000.00,48,"Debt Consolidation",No,565,21.80,4.99,0
+APP103047,40,Male,Single,"Tier 3","Delhi NCR","Business Owner",5.80,50100.00,3.00,8800.00,82.70,1.00,5,325000.00,48,"Medical Emergency",No,438,20.72,63.00,1
+APP105533,36,Male,Single,"Tier 2","Tamil Nadu","Salaried - Private",14.10,28200.00,3.00,6500.00,27.20,0.00,1,304000.00,84,"Medical Emergency",No,652,17.42,0.57,0
+APP123479,53,Male,Married,"Tier 1",Kerala,"Salaried - Private",3.60,91900.00,1.00,12200.00,44.00,1.00,1,37000.00,36,Wedding,No,659,19.11,0.36,0
+APP107569,40,Female,Married,"Tier 1",Bihar,"Salaried - PSU",0.50,41000.00,0.00,8600.00,54.30,5.00,2,50000.00,48,"Business Expansion",No,642,25.24,3.19,0
+APP120983,21,Male,Married,"Tier 2",Kerala,"Salaried - Government",18.00,21100.00,3.00,5100.00,58.20,0.00,2,118000.00,60,"Vehicle Purchase",No,583,24.11,3.93,0
+APP118629,43,Female,Married,"Tier 1",Kerala,"Business Owner",14.60,100800.00,3.00,24600.00,64.30,2.00,1,132000.00,48,"Vehicle Purchase",No,589,19.59,2.64,0
+APP101456,56,Female,Widowed,"Tier 2",Telangana,"Business Owner",3.50,41800.00,2.00,15700.00,53.80,1.00,0,114000.00,84,Education,No,616,22.40,6.53,0
+APP117552,49,Male,Married,"Tier 3",Telangana,"Self-Employed Professional",1.20,44400.00,3.00,11700.00,11.00,1.00,1,27000.00,48,Education,No,659,16.48,0.96,0
+APP114726,39,Male,Single,"Tier 3","Tamil Nadu","Salaried - Government",0.50,45600.00,0.00,9500.00,42.50,1.00,0,184000.00,48,"Personal Expense",No,659,15.85,0.66,0
+APP108679,37,Male,Married,"Tier 2",Rajasthan,"Salaried - Private",0.50,38400.00,2.00,6500.00,30.50,0.00,2,98000.00,60,"Home Renovation",No,607,25.10,0.56,0
+APP115879,21,Female,Married,"Tier 2","Andhra Pradesh","Salaried - Government",7.10,14500.00,0.00,5700.00,50.80,0.00,0,102000.00,24,"Home Renovation",No,591,23.24,10.09,0
+APP111346,27,Male,Single,"Tier 1",Kerala,"Salaried - Private",0.50,71300.00,0.00,19300.00,68.20,2.00,0,417000.00,24,Wedding,No,613,22.99,4.52,0
+APP122976,58,Male,Married,"Tier 1",Telangana,"Self-Employed Professional",5.90,114000.00,1.00,24800.00,46.50,1.00,0,146000.00,60,"Debt Consolidation",Yes,709,14.48,0.10,0
+APP124610,40,Male,Married,"Tier 3","Andhra Pradesh","Salaried - Private",0.50,13900.00,2.00,3100.00,46.40,2.00,2,131000.00,36,"Home Renovation",No,571,21.38,19.17,0
+APP105478,43,Female,Single,"Tier 2","West Bengal","Self-Employed Professional",0.80,27200.00,1.00,7900.00,37.10,1.00,1,196000.00,24,"Medical Emergency",No,648,23.78,1.47,0
+APP112630,40,Female,Married,"Tier 1",Punjab,"Salaried - Government",1.80,71600.00,3.00,32100.00,48.00,0.00,2,381000.00,48,Wedding,No,530,23.68,32.00,0
+APP104679,25,Female,Married,"Tier 3",Rajasthan,"Salaried - PSU",1.30,17600.00,1.00,3900.00,65.00,0.00,1,207000.00,60,"Medical Emergency",No,560,21.06,14.23,0
+APP118393,31,Male,Divorced,"Tier 3","West Bengal","Salaried - Private",0.50,21500.00,0.00,5000.00,17.80,1.00,1,85000.00,60,"Medical Emergency",No,693,16.79,0.15,0
+APP115168,41,Male,Widowed,"Tier 3","Andhra Pradesh","Salaried - Private",4.60,38200.00,2.00,5800.00,29.10,2.00,2,251000.00,48,"Home Renovation",No,647,22.10,1.79,0
+APP100194,25,Other,Single,"Tier 3","Madhya Pradesh","Business Owner",3.80,43900.00,1.00,14000.00,49.90,0.00,1,71000.00,24,"Medical Emergency",No,616,21.83,1.61,0
+APP122754,35,Male,Single,"Tier 3","West Bengal","Self-Employed Professional",1.10,25900.00,1.00,5000.00,22.30,1.00,0,90000.00,48,Education,No,653,17.48,0.14,0
+APP119184,25,Male,Married,"Tier 2",Punjab,"Salaried - Government",4.40,52800.00,1.00,8200.00,69.70,1.00,2,109000.00,72,"Personal Expense",No,566,22.72,4.04,0
+APP110465,38,Male,Single,"Tier 2","Tamil Nadu","Business Owner",7.70,53300.00,1.00,3700.00,65.40,2.00,4,284000.00,60,"Personal Expense",No,543,20.81,15.60,0
+APP105514,31,Male,Married,"Tier 3",Kerala,"Self-Employed Professional",1.00,42700.00,1.00,9600.00,31.80,4.00,0,156000.00,12,"Personal Expense",Yes,582,23.00,1.38,0
+APP108639,28,Male,Single,"Tier 1","Andhra Pradesh","Business Owner",3.10,23300.00,1.00,2600.00,14.00,5.00,0,96000.00,24,"Personal Expense",No,727,15.14,0.32,0
+APP109886,30,Female,Married,"Tier 1",Karnataka,"Salaried - PSU",0.50,24600.00,0.00,5200.00,38.10,1.00,3,76000.00,48,"Debt Consolidation",Yes,579,24.56,1.65,0
+APP118818,29,Female,Divorced,"Tier 2",Bihar,"Self-Employed Professional",5.90,44500.00,1.00,11600.00,42.80,0.00,0,148000.00,24,"Personal Expense",No,644,22.46,1.45,0
+APP113061,41,Male,Single,"Tier 2",Kerala,"Business Owner",5.00,71000.00,2.00,1900.00,19.10,0.00,1,492000.00,48,"Medical Emergency",No,729,15.38,0.15,0
+APP114214,21,Male,Divorced,"Tier 2","West Bengal","Salaried - Private",5.30,39300.00,1.00,9100.00,40.50,0.00,0,234000.00,24,"Medical Emergency",Yes,635,20.53,0.44,0
+APP109313,33,Female,Married,"Tier 1",Gujarat,"Business Owner",0.50,38300.00,0.00,12400.00,43.10,2.00,3,401000.00,36,Wedding,No,554,19.43,26.38,0
+APP106490,44,Male,Married,"Tier 1",Kerala,"Salaried - Government",1.60,73200.00,3.00,20500.00,35.60,1.00,2,303000.00,60,"Debt Consolidation",No,575,24.38,6.60,1
+APP123057,47,Male,Married,"Tier 3","Madhya Pradesh","Self-Employed Professional",0.70,35600.00,2.00,6100.00,22.40,2.00,1,42000.00,12,"Debt Consolidation",No,674,17.79,0.48,0
+APP103740,21,Other,Single,"Tier 2",Maharashtra,"Salaried - Private",0.90,39300.00,1.00,8500.00,58.50,0.00,1,75000.00,48,"Business Expansion",No,606,22.47,1.97,0
+APP118231,27,Female,Divorced,"Tier 2",Haryana,"Business Owner",3.10,48600.00,2.00,20300.00,91.10,1.00,1,243000.00,36,Education,No,548,22.51,12.66,0
+APP110280,32,Male,Married,"Tier 3",Punjab,"Salaried - PSU",2.10,41800.00,0.00,9800.00,34.10,1.00,0,278000.00,36,"Personal Expense",No,661,19.71,0.49,0
+APP120242,46,Male,Married,"Tier 1","Madhya Pradesh","Salaried - Private",4.40,59600.00,1.00,13200.00,63.80,0.00,3,107000.00,60,"Debt Consolidation",No,614,20.95,4.21,0
+APP103096,47,Male,Married,"Tier 2","Andhra Pradesh","Salaried - Private",0.90,46200.00,1.00,12200.00,51.70,3.00,0,99000.00,36,"Debt Consolidation",No,603,19.91,2.11,0
+APP115256,42,Female,Married,"Tier 2","Madhya Pradesh","Salaried - PSU",6.50,68500.00,2.00,16700.00,39.90,0.00,1,185000.00,24,"Medical Emergency",No,618,20.36,1.16,0
+APP100230,22,Male,Married,"Tier 1","Madhya Pradesh","Business Owner",5.40,92200.00,0.00,19200.00,8.90,2.00,1,250000.00,36,"Home Renovation",No,670,15.15,1.18,0
+APP124151,32,Female,Widowed,"Tier 2","Uttar Pradesh","Salaried - PSU",6.40,54200.00,1.00,19300.00,19.20,1.00,2,80000.00,72,Education,Yes,611,21.48,1.36,0
+APP100501,43,Male,Divorced,"Tier 2","Uttar Pradesh","Self-Employed Professional",0.50,210100.00,0.00,51900.00,51.20,1.00,3,157000.00,36,Wedding,No,503,24.33,34.73,0
+APP122862,24,Female,Married,"Tier 2",Haryana,"Salaried - Private",11.80,16800.00,0.00,1400.00,24.00,1.00,0,206000.00,48,Wedding,No,704,12.57,0.16,0
+APP105683,27,Female,Married,"Tier 1","Uttar Pradesh","Salaried - Private",3.80,30800.00,4.00,4500.00,26.80,0.00,1,70000.00,24,Wedding,No,686,19.22,0.06,0
+APP108883,49,Male,Single,"Tier 2",Punjab,"Business Owner",5.20,64700.00,1.00,9800.00,5.90,3.00,1,104000.00,48,"Vehicle Purchase",No,689,16.44,0.29,0
+APP105802,41,Female,Divorced,"Tier 2",Rajasthan,"Salaried - PSU",1.70,57300.00,3.00,NULL,4.60,1.00,0,306000.00,12,"Business Expansion",No,586,19.97,4.08,0
+APP103035,39,Female,Divorced,"Tier 2",Telangana,"Salaried - Government",3.00,25100.00,1.00,10200.00,55.70,0.00,3,69000.00,36,"Personal Expense",No,516,19.90,56.03,0
+APP109401,43,Female,Single,"Tier 2",Rajasthan,"Business Owner",1.70,115200.00,0.00,9500.00,36.80,1.00,1,84000.00,84,"Medical Emergency",Yes,653,15.75,0.10,0
+APP123480,44,Male,Married,"Tier 1","West Bengal","Salaried - Government",1.50,57600.00,1.00,15600.00,44.90,7.00,0,70000.00,24,Education,No,591,25.71,4.86,0
+APP104991,34,Male,Divorced,"Tier 3",Kerala,"Business Owner",1.30,12000.00,0.00,3000.00,53.80,3.00,2,102000.00,60,"Personal Expense",No,547,22.51,24.46,0
+APP106522,45,Male,Divorced,"Tier 3",Bihar,"Salaried - Private",21.30,19800.00,1.00,4400.00,17.10,0.00,0,77000.00,24,Wedding,Yes,782,12.61,0.02,0
+APP106888,35,Male,Single,"Tier 3",Telangana,"Salaried - Private",3.30,22100.00,2.00,5400.00,67.80,4.00,4,162000.00,36,Wedding,No,498,23.81,29.40,0
+APP120707,21,Male,Married,"Tier 1",Kerala,"Salaried - Private",1.20,32300.00,0.00,6100.00,23.60,1.00,1,67000.00,36,"Medical Emergency",No,687,18.14,0.19,0
+APP105927,43,Female,Single,"Tier 2",Kerala,"Salaried - Private",9.00,53400.00,1.00,7700.00,50.60,2.00,1,187000.00,12,"Personal Expense",No,623,23.78,2.63,0
+APP101114,36,Male,Married,"Tier 3","West Bengal","Salaried - Private",2.50,70000.00,0.00,11300.00,34.60,1.00,1,59000.00,24,"Personal Expense",No,588,22.66,0.77,0
+APP117548,40,Male,Single,"Tier 1",Punjab,"Salaried - Government",3.30,67500.00,2.00,18200.00,22.10,2.00,1,326000.00,24,Education,Yes,636,21.45,0.39,0
+APP117475,21,Female,Married,"Tier 1",Telangana,"Salaried - Private",4.50,71800.00,1.00,18800.00,54.60,4.00,2,95000.00,60,"Personal Expense",No,552,22.60,25.26,0
+APP107304,35,Female,Single,"Tier 2",Rajasthan,"Self-Employed Professional",0.60,72300.00,3.00,23500.00,23.40,5.00,2,293000.00,60,"Personal Expense",No,632,20.02,2.05,0
+APP106726,45,Male,Married,"Tier 1",Telangana,"Business Owner",3.10,140600.00,1.00,17100.00,4.20,3.00,2,112000.00,48,"Medical Emergency",No,632,25.63,2.13,0
+APP115973,33,Female,Married,"Tier 1","Madhya Pradesh","Salaried - Private",3.60,28600.00,1.00,7800.00,27.60,1.00,1,221000.00,60,Education,No,587,24.28,9.33,0
+APP115983,38,Male,Widowed,"Tier 3","Andhra Pradesh","Salaried - Government",2.30,28900.00,1.00,5200.00,25.30,1.00,0,218000.00,72,"Medical Emergency",No,683,18.76,0.36,0
+APP101246,31,Male,Married,"Tier 2","Delhi NCR","Salaried - Government",6.90,17700.00,0.00,6100.00,11.90,2.00,3,48000.00,48,"Business Expansion",No,580,23.83,15.20,1
+APP103488,36,Male,Married,"Tier 1","Uttar Pradesh","Salaried - PSU",4.70,27600.00,0.00,2400.00,18.30,1.00,1,73000.00,36,"Personal Expense",No,694,15.55,0.41,0
+APP115593,24,Female,Single,"Tier 3","Tamil Nadu","Salaried - Government",3.10,30600.00,1.00,8900.00,61.90,2.00,2,217000.00,48,"Vehicle Purchase",No,566,23.74,23.18,1
+APP120061,25,Female,Married,"Tier 1",Kerala,"Business Owner",2.50,96600.00,0.00,7500.00,42.70,0.00,0,143000.00,24,"Business Expansion",No,630,20.53,0.68,0
+APP115818,35,Male,Married,"Tier 1",Maharashtra,"Salaried - Private",1.90,48400.00,0.00,10100.00,60.20,2.00,1,310000.00,36,"Personal Expense",No,558,25.43,4.08,0
+APP106128,47,Male,Single,"Tier 2",Haryana,"Salaried - Private",0.80,123900.00,0.00,25600.00,40.10,1.00,3,108000.00,84,"Home Renovation",No,576,19.63,20.09,0
+APP100428,23,Male,Married,"Tier 1",Kerala,"Salaried - Private",1.50,35400.00,0.00,8000.00,24.40,2.00,1,81000.00,36,"Business Expansion",No,629,25.46,3.12,0
+APP104178,21,Male,Married,"Tier 1",Maharashtra,"Salaried - PSU",2.80,148800.00,3.00,37700.00,15.60,0.00,0,108000.00,36,Wedding,No,684,18.61,0.40,0
+APP123427,30,Male,Married,"Tier 1",Maharashtra,"Business Owner",5.00,69400.00,3.00,11600.00,56.60,1.00,0,157000.00,36,Wedding,No,695,15.23,0.28,0
+APP110712,44,Male,Single,"Tier 1",Karnataka,"Salaried - PSU",2.90,55100.00,0.00,12100.00,34.60,1.00,3,352000.00,24,"Business Expansion",No,525,20.56,41.70,1
+APP119529,36,Male,Married,"Tier 3",Telangana,"Salaried - Private",7.00,26200.00,0.00,4300.00,47.40,0.00,1,530000.00,48,"Personal Expense",No,634,19.17,3.42,0
+APP111712,56,Male,Single,"Tier 3",Rajasthan,"Business Owner",8.00,34100.00,2.00,6800.00,60.00,1.00,1,131000.00,48,"Personal Expense",No,612,19.22,3.33,0
+APP104724,37,Female,Married,"Tier 3",Haryana,"Salaried - Government",9.60,31800.00,0.00,3100.00,35.10,3.00,1,191000.00,48,"Vehicle Purchase",Yes,713,14.15,0.07,0
+APP102119,42,Other,Married,"Tier 3",Haryana,"Self-Employed Professional",0.60,21000.00,0.00,3400.00,34.80,0.00,1,51000.00,36,"Vehicle Purchase",No,620,20.42,1.26,0
+APP120400,35,Female,Single,"Tier 2","Uttar Pradesh","Salaried - Private",0.50,23800.00,1.00,NULL,37.50,1.00,0,65000.00,48,Wedding,No,652,15.85,0.46,0
+APP111178,48,Female,Married,"Tier 2","Delhi NCR","Business Owner",4.70,221500.00,2.00,50100.00,68.50,1.00,2,442000.00,48,"Business Expansion",No,603,24.40,5.83,0
+APP119186,45,Female,Married,"Tier 1",Rajasthan,"Salaried - Private",5.20,20800.00,2.00,6900.00,59.60,1.00,1,132000.00,60,"Medical Emergency",Yes,487,24.93,25.16,0
+APP100280,39,Male,Married,"Tier 1","Delhi NCR","Self-Employed Professional",6.90,43100.00,0.00,11000.00,35.20,1.00,2,105000.00,12,"Personal Expense",No,542,24.80,5.10,0
+APP110815,26,Male,Single,"Tier 1","Madhya Pradesh","Business Owner",12.90,53200.00,1.00,7500.00,38.00,2.00,1,125000.00,48,"Medical Emergency",No,607,23.19,1.71,0
+APP116463,25,Female,Married,"Tier 2","West Bengal","Salaried - Private",3.50,55600.00,0.00,14600.00,17.60,4.00,1,142000.00,48,"Business Expansion",No,650,18.56,6.03,0
+APP108542,33,Male,Married,"Tier 3",Punjab,"Salaried - Private",0.50,45900.00,0.00,6200.00,17.30,1.00,1,56000.00,60,"Debt Consolidation",No,696,18.44,0.16,0
+APP120709,32,Male,Married,"Tier 1",Karnataka,"Salaried - Private",2.20,22800.00,2.00,3700.00,34.40,1.00,4,242000.00,48,Wedding,No,563,19.63,8.72,0
+APP111693,52,Male,Single,"Tier 1","Delhi NCR","Salaried - Private",0.50,68700.00,1.00,16100.00,16.40,2.00,0,69000.00,48,"Business Expansion",No,702,15.20,0.24,0
+APP107671,46,Female,Married,"Tier 2","Delhi NCR","Salaried - Private",0.50,88300.00,0.00,11900.00,44.40,0.00,1,395000.00,12,"Medical Emergency",No,603,21.02,0.84,0
+APP121602,37,Female,Married,"Tier 2",Telangana,"Salaried - Private",4.60,45800.00,2.00,12600.00,51.20,1.00,2,262000.00,36,"Medical Emergency",No,558,22.72,14.91,0
+APP109962,41,Female,Married,"Tier 1",Rajasthan,"Salaried - PSU",1.90,66500.00,3.00,22400.00,52.80,0.00,3,43000.00,72,Wedding,No,531,25.47,21.09,0
+APP119448,33,Male,Single,"Tier 1","Andhra Pradesh","Salaried - Government",7.10,22700.00,0.00,6000.00,79.10,1.00,2,165000.00,24,"Business Expansion",No,515,23.84,35.13,0
+APP118584,28,Female,Divorced,"Tier 2",Haryana,"Business Owner",1.80,14400.00,0.00,600.00,42.90,1.00,2,46000.00,24,"Personal Expense",No,658,15.97,0.60,0
+APP104489,32,Male,Single,"Tier 1",Bihar,"Salaried - Private",5.60,51300.00,0.00,12400.00,36.20,1.00,0,183000.00,60,"Debt Consolidation",No,626,22.22,0.99,0
+APP109197,50,Male,Married,"Tier 3",Rajasthan,"Salaried - Private",0.60,28300.00,1.00,7600.00,40.20,1.00,3,69000.00,48,Wedding,No,601,19.68,3.90,0
+APP107840,35,Female,Single,"Tier 3","Madhya Pradesh","Business Owner",1.50,16600.00,2.00,5100.00,27.60,3.00,0,285000.00,72,"Medical Emergency",No,572,22.91,34.47,0
+APP100640,22,Male,Married,"Tier 3",Punjab,"Self-Employed Professional",5.20,17800.00,1.00,4100.00,53.00,3.00,1,45000.00,60,Wedding,No,591,21.16,2.16,0
+APP119987,40,Male,Married,"Tier 1","West Bengal","Business Owner",0.50,68700.00,1.00,12800.00,55.50,0.00,0,258000.00,36,"Personal Expense",No,647,23.09,0.87,0
+APP116595,35,Male,Single,"Tier 3","West Bengal","Business Owner",0.80,35700.00,0.00,4200.00,47.90,NULL,1,430000.00,24,Wedding,No,652,18.85,0.68,0
+APP123262,42,Male,Divorced,"Tier 2","Andhra Pradesh","Salaried - Private",15.90,34800.00,3.00,9800.00,56.00,2.00,1,119000.00,12,"Personal Expense",No,600,21.27,2.25,0
+APP113649,38,Female,Married,"Tier 3",Kerala,"Salaried - Private",1.00,18900.00,2.00,3400.00,66.90,3.00,2,90000.00,36,"Medical Emergency",No,573,24.59,4.07,0
+APP119073,32,Female,Single,"Tier 2",Punjab,"Salaried - Government",1.10,42500.00,0.00,3500.00,19.60,1.00,1,86000.00,36,"Medical Emergency",Yes,664,16.13,0.09,0
+APP106235,33,Other,Married,"Tier 1",Maharashtra,"Self-Employed Professional",0.90,95500.00,2.00,26900.00,56.30,0.00,1,94000.00,48,"Vehicle Purchase",Yes,601,21.85,0.48,0
+APP102859,27,Female,Married,"Tier 3",Gujarat,"Business Owner",1.10,24300.00,1.00,3700.00,55.70,0.00,1,151000.00,12,"Home Renovation",No,632,25.22,1.77,0
+APP106557,33,Male,Married,"Tier 3",Maharashtra,"Salaried - PSU",8.40,27600.00,1.00,3500.00,41.30,1.00,3,30000.00,72,"Medical Emergency",No,633,25.85,3.42,0
+APP112463,59,Male,Single,"Tier 2","West Bengal","Salaried - PSU",11.70,83200.00,0.00,11100.00,13.30,1.00,0,133000.00,12,"Medical Emergency",Yes,733,14.13,0.06,0
+APP103643,29,Male,Single,"Tier 1",Punjab,"Salaried - Government",18.00,26200.00,1.00,4000.00,28.20,4.00,1,145000.00,24,"Home Renovation",No,646,25.98,1.05,0
+APP104303,30,Female,Single,"Tier 1",Karnataka,"Salaried - Private",2.00,42600.00,0.00,6500.00,34.40,2.00,1,93000.00,60,"Vehicle Purchase",Yes,567,22.85,1.62,0
+APP116622,49,Male,Married,"Tier 2",Bihar,"Self-Employed Professional",3.70,71000.00,1.00,17900.00,49.60,1.00,4,135000.00,36,"Personal Expense",No,572,19.84,5.94,0
+APP120371,23,Female,Married,"Tier 1","West Bengal","Salaried - PSU",4.40,65400.00,2.00,14200.00,13.60,3.00,0,187000.00,12,Wedding,No,708,15.83,0.19,0
+APP104715,50,Male,Married,"Tier 1",Rajasthan,"Salaried - Private",1.30,60200.00,1.00,3700.00,5.90,1.00,1,206000.00,36,"Personal Expense",No,713,13.75,0.11,0
+APP102981,49,Male,Divorced,"Tier 1",Bihar,"Self-Employed Professional",8.60,100100.00,3.00,23300.00,54.90,2.00,1,110000.00,36,Education,No,616,23.98,1.72,0
+APP107627,21,Male,Married,"Tier 3","Madhya Pradesh","Self-Employed Professional",0.50,39400.00,2.00,8900.00,56.40,2.00,5,383000.00,72,"Vehicle Purchase",No,499,25.67,66.97,1
+APP114649,37,Male,Married,"Tier 1","Delhi NCR","Self-Employed Professional",4.40,94400.00,2.00,13400.00,64.00,1.00,2,176000.00,48,"Debt Consolidation",Yes,574,21.46,1.01,0
+APP111075,21,Male,Married,"Tier 3","Tamil Nadu","Business Owner",8.80,24500.00,1.00,1200.00,56.00,0.00,2,345000.00,24,"Medical Emergency",No,660,15.98,0.80,0
+APP124248,52,Male,Married,"Tier 3",Kerala,"Business Owner",1.80,46200.00,2.00,14100.00,14.20,3.00,0,151000.00,24,"Business Expansion",No,721,13.95,1.36,0
+APP107721,37,Female,Married,"Tier 1",Haryana,"Salaried - PSU",1.40,46000.00,2.00,10000.00,69.00,2.00,2,172000.00,24,"Home Renovation",No,525,19.33,14.99,0
+APP119906,39,Female,Married,"Tier 3","Uttar Pradesh","Salaried - Private",8.10,61000.00,1.00,18200.00,62.90,2.00,2,291000.00,24,Wedding,No,565,21.63,11.45,0
+APP119569,21,Male,Single,"Tier 2",Kerala,"Business Owner",6.00,29600.00,0.00,6300.00,43.40,2.00,2,128000.00,48,"Personal Expense",No,628,22.77,1.15,0
+APP118426,28,Male,Married,"Tier 1",Punjab,"Salaried - Private",1.60,54800.00,3.00,18100.00,70.10,2.00,3,70000.00,36,Education,No,500,22.84,36.48,1
+APP109992,30,Female,Married,"Tier 2",Rajasthan,"Salaried - Private",1.40,86800.00,1.00,21400.00,3.30,0.00,0,82000.00,72,Wedding,No,668,16.65,0.32,0
+APP122527,41,Other,Single,"Tier 1","Andhra Pradesh","Salaried - Private",9.10,56100.00,1.00,20000.00,55.10,3.00,3,102000.00,48,Wedding,No,596,25.69,10.75,0
+APP106316,34,Male,Single,"Tier 2","Delhi NCR","Salaried - Private",0.60,23700.00,2.00,4300.00,49.60,0.00,1,241000.00,24,"Home Renovation",No,642,19.28,3.49,0
+APP106600,43,Male,Single,"Tier 2","West Bengal","Salaried - PSU",11.40,36100.00,2.00,8800.00,40.80,2.00,3,468000.00,84,Wedding,Yes,571,21.17,6.87,0
+APP124871,35,Male,Single,"Tier 3",Bihar,"Self-Employed Professional",3.40,30000.00,2.00,7700.00,66.00,2.00,4,292000.00,12,Education,No,510,24.54,54.40,0
+APP112218,30,Male,Single,"Tier 2","Delhi NCR","Salaried - Private",3.10,29500.00,0.00,8700.00,7.50,2.00,2,105000.00,24,"Personal Expense",Yes,618,22.89,1.98,1
+APP118746,36,Female,Married,"Tier 2","Uttar Pradesh","Salaried - Government",3.60,69700.00,1.00,15000.00,8.20,2.00,2,335000.00,36,"Debt Consolidation",Yes,686,18.63,0.27,0
+APP106433,49,Female,Single,"Tier 1",Kerala,"Self-Employed Professional",6.70,99900.00,1.00,25800.00,57.30,4.00,4,234000.00,12,"Medical Emergency",No,545,26.00,18.81,1
+APP117210,35,Female,Married,"Tier 2","Madhya Pradesh","Salaried - Government",3.10,24100.00,0.00,300.00,35.10,1.00,2,145000.00,36,Education,No,672,16.70,0.53,0
+APP121516,33,Male,Single,"Tier 2","Andhra Pradesh","Salaried - Private",6.30,69800.00,0.00,2700.00,35.50,2.00,1,75000.00,36,"Medical Emergency",No,752,15.99,0.04,0
+APP111644,26,Male,Married,"Tier 2","Tamil Nadu","Business Owner",7.30,48900.00,0.00,8500.00,56.60,2.00,3,71000.00,60,Education,Yes,560,20.67,2.66,0
+APP115004,39,Female,Divorced,"Tier 1",Maharashtra,"Salaried - Private",8.30,52000.00,0.00,9200.00,42.80,3.00,0,73000.00,72,"Business Expansion",Yes,621,19.34,0.96,0
+APP120791,53,Male,Divorced,"Tier 1",Gujarat,"Self-Employed Professional",0.50,86900.00,0.00,15500.00,45.70,2.00,1,77000.00,48,"Personal Expense",No,603,23.51,2.89,0
+APP108082,46,Male,Divorced,"Tier 1",Rajasthan,"Salaried - Private",15.40,35300.00,2.00,9100.00,31.40,0.00,1,106000.00,60,Education,No,641,24.94,0.98,0
+APP116306,26,Other,Married,"Tier 1","Madhya Pradesh","Salaried - Private",2.00,37900.00,0.00,4500.00,12.50,0.00,0,421000.00,48,"Personal Expense",Yes,687,19.63,0.11,0
+APP118674,53,Male,Married,"Tier 2",Kerala,"Self-Employed Professional",2.20,42000.00,0.00,7000.00,62.90,2.00,2,140000.00,12,"Debt Consolidation",No,539,25.29,6.55,0
+APP108687,30,Other,Single,"Tier 3",Gujarat,"Salaried - Private",1.50,14500.00,0.00,2400.00,53.60,1.00,2,110000.00,36,Wedding,No,569,22.71,4.78,1
+APP124752,31,Male,Married,"Tier 1","West Bengal","Self-Employed Professional",5.60,27100.00,1.00,3600.00,40.00,3.00,1,119000.00,12,"Personal Expense",No,690,15.58,0.15,0
+APP111727,34,Male,Single,"Tier 3","Tamil Nadu","Salaried - Government",12.00,13800.00,0.00,1700.00,48.00,1.00,3,203000.00,24,Wedding,No,612,23.16,3.94,0
+APP115755,39,Male,Married,"Tier 1","Tamil Nadu","Salaried - Private",11.50,60100.00,3.00,14500.00,46.30,1.00,2,93000.00,60,Education,No,607,22.77,4.76,0
+APP115396,34,Male,Married,"Tier 1",Kerala,"Business Owner",4.30,135200.00,1.00,25100.00,31.70,0.00,1,115000.00,72,"Personal Expense",No,651,18.52,0.94,0
+APP119042,38,Male,Married,"Tier 1",Karnataka,"Salaried - Private",2.70,134700.00,1.00,27000.00,66.90,0.00,4,111000.00,48,"Debt Consolidation",No,484,19.76,29.37,0
+APP105671,38,Other,Married,"Tier 3",Kerala,"Salaried - Government",2.00,35500.00,2.00,11900.00,52.50,0.00,2,63000.00,36,"Home Renovation",No,531,25.59,17.39,0
+APP109578,32,Female,Single,"Tier 2",Kerala,"Salaried - Private",1.90,72700.00,0.00,24200.00,0.00,1.00,0,117000.00,60,Education,Yes,653,17.68,0.32,0
+APP102619,50,Male,Single,"Tier 3",Karnataka,"Salaried - Private",1.50,98700.00,0.00,16700.00,49.40,3.00,1,305000.00,36,"Home Renovation",No,645,23.06,1.32,0
+APP117463,36,Female,Widowed,"Tier 3",Gujarat,"Salaried - Private",8.00,72300.00,1.00,15100.00,0.00,1.00,4,147000.00,36,Education,No,618,23.73,2.92,0
+APP107685,21,Male,Married,"Tier 2",Maharashtra,"Self-Employed Professional",4.20,23700.00,2.00,800.00,15.10,3.00,1,208000.00,60,"Home Renovation",Yes,660,16.95,0.22,0
+APP109712,24,Male,Single,"Tier 2",Punjab,"Self-Employed Professional",0.50,42600.00,1.00,5600.00,14.80,1.00,3,140000.00,48,"Personal Expense",Yes,708,15.16,0.40,0
+APP102195,21,Male,Widowed,"Tier 2",Telangana,"Salaried - Private",4.30,28000.00,1.00,8000.00,34.90,1.00,1,433000.00,36,"Home Renovation",No,589,22.06,5.84,0
+APP113421,23,Female,Married,"Tier 2","Delhi NCR","Salaried - Private",7.70,48000.00,2.00,8900.00,81.20,2.00,2,587000.00,48,"Personal Expense",Yes,575,19.25,1.91,0
+APP110506,37,Female,Married,"Tier 1",Kerala,"Salaried - Private",2.80,62900.00,3.00,19500.00,73.80,2.00,2,159000.00,48,"Medical Emergency",No,549,22.49,19.86,0
+APP100752,26,Male,Divorced,"Tier 2","Delhi NCR","Self-Employed Professional",0.50,15700.00,0.00,4800.00,37.70,0.00,0,151000.00,36,Education,No,650,17.64,0.77,0
+APP105199,33,Female,Single,"Tier 3","West Bengal","Salaried - Private",3.20,18200.00,0.00,2800.00,74.90,0.00,2,68000.00,72,"Vehicle Purchase",No,545,20.96,4.43,0
+APP124522,31,Male,Single,"Tier 3",Punjab,"Salaried - Government",8.70,13500.00,0.00,1200.00,70.40,NULL,2,141000.00,48,"Personal Expense",No,557,25.50,10.24,0
+APP109963,45,Male,Married,"Tier 3",Haryana,"Salaried - Private",0.80,29200.00,0.00,4300.00,52.00,0.00,0,79000.00,36,Wedding,No,668,17.87,0.23,0
+APP116992,44,Other,Single,"Tier 2","Delhi NCR","Salaried - Government",1.10,52800.00,0.00,4300.00,23.10,0.00,1,117000.00,36,"Home Renovation",No,615,25.98,1.66,0
+APP104397,31,Male,Single,"Tier 1","Tamil Nadu","Salaried - Government",5.20,58500.00,1.00,9300.00,57.60,2.00,2,161000.00,24,"Personal Expense",No,577,24.48,9.74,0
+APP104936,37,Male,Single,"Tier 1",Haryana,"Salaried - Private",3.40,127600.00,1.00,12300.00,83.90,1.00,6,153000.00,60,"Personal Expense",Yes,497,20.35,11.34,0
+APP122091,34,Male,Married,"Tier 3","West Bengal","Business Owner",6.40,153600.00,0.00,18400.00,49.90,2.00,3,90000.00,48,"Home Renovation",Yes,560,22.75,1.44,0
+APP102579,47,Male,Single,"Tier 2",Haryana,"Salaried - Private",2.70,70200.00,0.00,12600.00,17.50,2.00,0,193000.00,36,"Debt Consolidation",No,674,16.64,0.21,0
+APP122284,29,Male,Married,"Tier 3","Tamil Nadu","Salaried - Government",2.00,12700.00,1.00,3800.00,31.20,1.00,0,74000.00,48,Wedding,No,659,18.12,0.89,0
+APP117183,34,Male,Divorced,"Tier 2",Kerala,"Salaried - Government",2.00,16700.00,2.00,3600.00,75.60,3.00,4,134000.00,36,"Home Renovation",No,468,19.24,63.23,1
+APP119782,55,Female,Divorced,"Tier 2",Rajasthan,"Salaried - Private",4.50,115600.00,0.00,25500.00,18.20,1.00,1,159000.00,72,Education,No,700,15.80,0.64,0
+APP105762,30,Male,Married,"Tier 1",Maharashtra,"Salaried - Government",1.40,34400.00,0.00,8800.00,13.00,0.00,1,207000.00,12,"Personal Expense",No,730,15.60,1.03,0
+APP110210,24,Female,Single,"Tier 3",Bihar,"Self-Employed Professional",5.30,69200.00,1.00,11600.00,9.80,2.00,1,119000.00,48,"Home Renovation",No,676,18.51,0.34,0
+APP100199,34,Male,Married,"Tier 2","West Bengal","Salaried - Private",0.50,69700.00,2.00,21500.00,82.60,0.00,5,182000.00,36,"Debt Consolidation",Yes,470,25.42,39.09,1
+APP109022,54,Female,Married,"Tier 2",Kerala,"Salaried - PSU",1.20,32100.00,1.00,NULL,68.30,4.00,3,149000.00,36,Wedding,No,588,20.60,16.49,0
+APP101052,36,Male,Married,"Tier 3","Uttar Pradesh","Salaried - Private",5.00,21000.00,0.00,3500.00,2.10,0.00,0,143000.00,24,"Debt Consolidation",No,623,23.32,0.43,0
+APP116327,44,Male,Single,"Tier 2",Rajasthan,"Salaried - PSU",2.30,40500.00,1.00,14500.00,25.80,1.00,1,88000.00,24,"Home Renovation",No,642,24.14,0.96,0
+APP114329,34,Female,Married,"Tier 1",Punjab,"Self-Employed Professional",9.00,195500.00,0.00,41400.00,24.10,1.00,4,175000.00,48,"Medical Emergency",No,605,19.93,4.54,0
+APP108518,36,Female,Divorced,"Tier 1",Punjab,"Salaried - Private",6.20,106200.00,0.00,3200.00,55.40,1.00,1,183000.00,36,"Home Renovation",No,597,25.26,1.64,0
+APP104384,42,Male,Divorced,"Tier 1",Punjab,"Salaried - Private",12.30,44300.00,1.00,12600.00,40.00,1.00,0,176000.00,12,"Home Renovation",No,707,12.87,0.30,0
+APP110168,35,Female,Married,"Tier 2",Maharashtra,"Salaried - Government",6.00,53200.00,1.00,10700.00,31.10,1.00,0,257000.00,60,"Debt Consolidation",No,734,13.98,0.11,0
+APP118662,35,Male,Married,"Tier 3","Madhya Pradesh","Salaried - Private",1.40,36400.00,1.00,8400.00,48.70,1.00,0,152000.00,24,Education,Yes,624,20.61,0.26,0
+APP106214,42,Male,Single,"Tier 2",Haryana,"Salaried - Private",2.00,58400.00,1.00,10700.00,48.10,0.00,3,65000.00,60,"Personal Expense",No,558,19.64,6.74,0
+APP116078,23,Female,Single,"Tier 2","Uttar Pradesh","Salaried - Private",8.40,32700.00,2.00,11300.00,48.90,1.00,3,343000.00,48,"Vehicle Purchase",Yes,584,25.43,2.85,0
+APP100512,36,Male,Single,"Tier 2",Punjab,"Business Owner",1.30,41400.00,0.00,6100.00,7.60,0.00,0,73000.00,36,"Medical Emergency",No,749,12.87,0.06,0
+APP101190,49,Male,Widowed,"Tier 2","Andhra Pradesh","Business Owner",0.50,71600.00,2.00,13700.00,5.40,4.00,0,261000.00,36,"Personal Expense",No,647,21.69,1.15,0
+APP109331,28,Female,Widowed,"Tier 1","Andhra Pradesh","Self-Employed Professional",3.00,24400.00,3.00,8800.00,45.30,0.00,1,85000.00,72,Wedding,No,622,25.66,7.03,0
+APP116922,33,Male,Married,"Tier 1",Karnataka,"Salaried - Private",3.10,23000.00,0.00,3200.00,16.20,4.00,0,57000.00,36,"Personal Expense",No,635,23.48,0.57,0
+APP103942,27,Male,Married,"Tier 3",Maharashtra,"Salaried - Private",2.30,61100.00,0.00,10500.00,17.50,1.00,0,46000.00,12,"Debt Consolidation",No,678,15.94,0.53,0
+APP113035,57,Male,Married,"Tier 2",Bihar,"Self-Employed Professional",1.90,82500.00,1.00,20700.00,57.10,3.00,0,196000.00,84,"Vehicle Purchase",No,607,25.31,0.62,0
+APP117975,36,Female,Married,"Tier 3",Punjab,"Business Owner",1.40,32000.00,0.00,4500.00,36.10,1.00,3,59000.00,36,"Debt Consolidation",Yes,578,20.19,2.41,0
+APP111610,23,Male,Married,"Tier 3",Rajasthan,"Business Owner",15.70,12000.00,0.00,3900.00,0.00,2.00,1,170000.00,48,"Home Renovation",No,775,14.62,0.41,0
+APP115789,40,Male,Married,"Tier 1","Uttar Pradesh","Salaried - Government",1.20,99000.00,0.00,22300.00,49.80,1.00,3,197000.00,60,Wedding,Yes,573,22.17,3.16,0
+APP108316,39,Male,Married,"Tier 1",Telangana,"Salaried - Private",2.40,30200.00,2.00,8200.00,81.30,3.00,3,333000.00,60,"Home Renovation",Yes,516,20.96,22.64,0
+APP101202,39,Male,Married,"Tier 2","Tamil Nadu","Business Owner",5.30,40600.00,0.00,7600.00,32.90,0.00,0,96000.00,60,"Business Expansion",No,649,22.73,1.15,0
+APP101347,28,Male,Single,"Tier 2","Delhi NCR","Self-Employed Professional",0.90,19600.00,0.00,3600.00,11.70,1.00,1,128000.00,60,Wedding,No,681,17.54,0.44,0
+APP112244,33,Male,Married,"Tier 2","Andhra Pradesh","Business Owner",7.00,62700.00,1.00,4800.00,30.30,1.00,0,128000.00,36,Education,No,727,13.55,0.12,0
+APP112725,52,Male,Single,"Tier 1",Bihar,"Self-Employed Professional",1.20,142400.00,0.00,42600.00,6.70,NULL,0,242000.00,60,"Debt Consolidation",No,672,17.82,0.54,0
+APP115005,37,Male,Married,"Tier 2",Punjab,"Salaried - Government",0.50,21100.00,1.00,1200.00,40.20,2.00,2,83000.00,48,"Debt Consolidation",No,583,24.70,0.79,0
+APP109594,31,Male,Married,"Tier 2",Haryana,"Salaried - Private",1.70,22400.00,1.00,8200.00,56.10,1.00,1,182000.00,24,"Home Renovation",No,597,19.62,3.76,0
+APP119910,40,Male,Single,"Tier 1","Delhi NCR","Salaried - Private",18.80,37000.00,2.00,3500.00,57.80,0.00,1,153000.00,60,Education,No,610,22.98,0.65,0
+APP122259,27,Female,Divorced,"Tier 1",Punjab,"Salaried - Government",3.60,103600.00,0.00,13700.00,49.20,1.00,2,57000.00,60,"Home Renovation",No,626,23.44,2.47,0
+APP100147,34,Female,Single,"Tier 1",Bihar,"Salaried - Private",0.50,65000.00,2.00,22200.00,17.50,2.00,2,290000.00,12,Wedding,No,537,23.88,19.98,1
+APP117808,30,Female,Married,"Tier 2",Kerala,"Salaried - Private",1.80,22400.00,1.00,5800.00,25.30,2.00,1,226000.00,36,"Personal Expense",Yes,645,24.28,0.66,0
+APP114760,45,Female,Married,"Tier 1","Uttar Pradesh","Salaried - PSU",6.40,66300.00,1.00,8100.00,40.80,1.00,2,288000.00,36,"Vehicle Purchase",No,624,22.25,1.07,0
+APP124607,42,Male,Single,"Tier 2",Karnataka,"Salaried - Government",0.80,25800.00,1.00,3600.00,51.60,3.00,1,105000.00,12,"Medical Emergency",No,572,19.90,2.26,0
+APP118331,26,Male,Married,"Tier 2","West Bengal","Salaried - Government",3.70,64900.00,1.00,10100.00,63.10,3.00,0,275000.00,60,"Personal Expense",No,591,22.23,2.14,0
+APP110741,33,Female,Single,"Tier 3",Gujarat,"Salaried - Private",0.50,19500.00,2.00,5000.00,4.50,0.00,1,97000.00,48,"Home Renovation",Yes,672,17.62,0.19,0
+APP102533,36,Male,Widowed,"Tier 2",Kerala,"Salaried - Private",2.40,72800.00,1.00,17300.00,47.30,1.00,1,66000.00,36,"Home Renovation",No,586,25.67,5.46,0
+APP117810,42,Male,Married,"Tier 3",Telangana,"Salaried - Private",NULL,17000.00,2.00,2600.00,55.60,1.00,3,124000.00,36,"Personal Expense",Yes,672,19.55,0.14,0
+APP101122,28,Male,Married,"Tier 1",Bihar,"Salaried - Private",7.00,38400.00,2.00,11200.00,31.90,0.00,2,164000.00,60,"Medical Emergency",Yes,635,25.83,1.72,0
+APP114479,45,Female,Divorced,"Tier 2",Rajasthan,"Salaried - Government",4.40,32900.00,0.00,1200.00,0.00,2.00,1,276000.00,36,Education,No,736,12.61,0.08,0
+APP121470,33,Female,Single,"Tier 2",Karnataka,"Business Owner",4.00,30800.00,2.00,6000.00,52.60,2.00,4,127000.00,24,"Debt Consolidation",Yes,546,24.00,13.84,0
+APP122815,39,Male,Married,"Tier 1","West Bengal","Salaried - Government",6.60,33000.00,3.00,7900.00,31.30,0.00,3,90000.00,48,"Medical Emergency",No,651,15.26,1.34,0
+APP104547,46,Female,Married,"Tier 1","Andhra Pradesh","Business Owner",3.00,66600.00,1.00,17100.00,53.30,2.00,0,85000.00,36,"Personal Expense",No,591,24.32,2.72,0
+APP105551,34,Male,Married,"Tier 2","West Bengal","Salaried - Private",10.60,69000.00,0.00,12000.00,47.30,3.00,0,251000.00,48,"Personal Expense",Yes,659,17.15,0.19,0
+APP121190,21,Male,Married,"Tier 3",Rajasthan,"Salaried - Private",4.40,29300.00,0.00,9000.00,65.00,2.00,1,357000.00,36,"Medical Emergency",No,534,21.83,17.69,0
+APP108337,34,Male,Single,"Tier 1","Madhya Pradesh","Business Owner",5.90,103700.00,1.00,15300.00,0.00,0.00,0,62000.00,36,"Medical Emergency",No,800,11.62,0.01,0
+APP105584,30,Male,Married,"Tier 1","Delhi NCR","Salaried - PSU",3.90,41700.00,1.00,5100.00,30.60,0.00,0,157000.00,48,"Debt Consolidation",No,711,13.34,0.11,0
+APP108703,46,Male,Married,"Tier 1","Uttar Pradesh","Business Owner",0.50,95100.00,1.00,26700.00,46.80,1.00,3,89000.00,84,"Personal Expense",No,521,19.35,15.01,0
+APP103595,57,Other,Married,"Tier 1",Punjab,"Salaried - Private",0.90,132100.00,1.00,5900.00,2.50,2.00,1,173000.00,24,"Personal Expense",No,687,16.55,0.16,0
+APP122981,34,Female,Married,"Tier 2","Madhya Pradesh","Business Owner",15.80,34800.00,3.00,4800.00,65.10,4.00,2,82000.00,24,Education,No,580,23.55,4.59,1
+APP109150,36,Female,Widowed,"Tier 1",Telangana,"Salaried - Private",1.70,89400.00,1.00,16100.00,16.60,1.00,1,199000.00,36,"Home Renovation",Yes,695,19.96,0.05,0
+APP112044,25,Female,Single,"Tier 2","Delhi NCR","Salaried - Private",0.90,31000.00,0.00,8100.00,41.40,0.00,5,135000.00,84,"Home Renovation",No,562,19.22,12.27,0
+APP123285,37,Male,Married,"Tier 2","Madhya Pradesh","Self-Employed Professional",2.90,20600.00,0.00,5900.00,0.00,1.00,0,145000.00,36,Education,No,641,24.47,2.00,0
+APP105045,47,Male,Single,"Tier 1",Kerala,"Salaried - Private",10.00,30600.00,4.00,8300.00,70.80,1.00,5,368000.00,36,"Home Renovation",No,520,24.81,34.12,0
+APP119783,39,Male,Divorced,"Tier 1",Kerala,"Salaried - Private",10.30,36000.00,2.00,7900.00,51.60,1.00,2,99000.00,12,"Home Renovation",No,637,22.56,0.63,0
+APP123563,51,Male,Married,"Tier 2",Telangana,"Self-Employed Professional",3.40,121500.00,0.00,24400.00,19.50,2.00,1,156000.00,36,"Debt Consolidation",No,616,25.01,1.21,0
+APP114750,37,Female,Married,"Tier 2",Punjab,"Salaried - PSU",10.10,37200.00,0.00,7000.00,23.00,4.00,1,169000.00,84,"Business Expansion",No,654,15.90,2.64,0
+APP107348,40,Female,Single,"Tier 2","Madhya Pradesh","Business Owner",3.00,40300.00,1.00,6600.00,31.00,1.00,0,62000.00,24,"Personal Expense",No,710,15.08,0.63,0
+APP111031,40,Male,Married,"Tier 2",Punjab,"Salaried - Private",6.20,68300.00,0.00,20100.00,10.90,3.00,1,111000.00,36,"Medical Emergency",No,591,24.67,5.01,0
+APP104534,35,Female,Married,"Tier 3",Rajasthan,"Salaried - PSU",2.50,46300.00,0.00,4700.00,38.40,0.00,1,68000.00,60,"Vehicle Purchase",No,611,22.84,0.97,0
+APP114332,34,Female,Single,"Tier 3","Uttar Pradesh","Salaried - PSU",6.40,27500.00,1.00,8300.00,47.50,0.00,1,98000.00,36,"Personal Expense",Yes,622,25.46,0.84,0
+APP122184,37,Other,Married,"Tier 2",Bihar,"Salaried - Private",0.50,65100.00,1.00,12100.00,25.70,1.00,1,94000.00,48,"Business Expansion",No,640,22.49,0.50,0
+APP106279,21,Female,Married,"Tier 1",Gujarat,"Salaried - Private",4.90,35100.00,0.00,7700.00,41.30,3.00,1,179000.00,24,"Home Renovation",No,627,21.88,2.90,0
+APP109072,39,Male,Married,"Tier 1",Telangana,"Salaried - Government",7.20,31900.00,0.00,7400.00,43.40,1.00,1,42000.00,36,"Personal Expense",No,620,25.05,1.08,0
+APP103844,36,Male,Single,"Tier 2","Andhra Pradesh","Salaried - Private",1.60,102500.00,1.00,13800.00,66.70,1.00,2,130000.00,24,"Personal Expense",No,512,25.40,4.28,0
+APP115546,34,Male,Married,"Tier 1","West Bengal","Business Owner",15.70,56700.00,0.00,8000.00,10.30,0.00,0,66000.00,60,Wedding,Yes,794,11.44,0.01,0
+APP120391,42,Male,Single,"Tier 2","West Bengal","Salaried - Private",7.30,42700.00,1.00,9000.00,45.50,1.00,0,118000.00,60,"Personal Expense",No,626,24.33,0.41,0
+APP119903,34,Male,Single,"Tier 2",Rajasthan,"Salaried - Private",3.10,118200.00,0.00,14100.00,18.70,0.00,0,80000.00,84,"Home Renovation",Yes,742,15.57,0.01,0
+APP104563,33,Male,Single,"Tier 2",Bihar,"Salaried - Government",1.00,27300.00,2.00,3900.00,42.40,1.00,1,263000.00,36,Wedding,No,663,15.86,1.37,0
+APP123300,27,Female,Single,"Tier 2",Rajasthan,"Salaried - Private",4.10,140600.00,1.00,11400.00,62.00,1.00,2,151000.00,24,"Personal Expense",No,606,23.72,1.68,0
+APP116877,34,Male,Married,"Tier 1","Tamil Nadu","Business Owner",3.60,51300.00,0.00,9200.00,33.00,0.00,3,170000.00,24,"Personal Expense",No,538,21.75,10.96,0
+APP108673,45,Male,Single,"Tier 1",Gujarat,"Self-Employed Professional",4.00,168700.00,1.00,33400.00,17.20,0.00,2,62000.00,24,Wedding,No,628,22.68,1.63,0
+APP124420,33,Male,Married,"Tier 2","West Bengal","Salaried - Private",2.10,97000.00,1.00,23700.00,36.90,4.00,0,59000.00,84,Wedding,No,677,19.77,0.66,0
+APP113194,29,Female,Married,"Tier 2","Tamil Nadu","Salaried - Private",8.00,27100.00,1.00,3300.00,45.30,2.00,0,119000.00,60,"Vehicle Purchase",No,659,19.33,0.60,0
+APP107806,24,Male,Married,"Tier 1",Maharashtra,"Salaried - Private",0.50,82500.00,1.00,9800.00,67.80,0.00,2,104000.00,48,"Personal Expense",No,572,20.87,3.46,0
+APP111374,32,Male,Married,"Tier 2","Andhra Pradesh","Business Owner",4.80,28400.00,1.00,9100.00,51.80,4.00,2,202000.00,72,"Personal Expense",No,520,25.90,49.00,1
+APP110016,37,Female,Married,"Tier 1",Haryana,"Salaried - Private",1.10,66800.00,2.00,7800.00,32.40,0.00,2,194000.00,60,"Debt Consolidation",No,679,19.35,0.48,0
+APP106275,34,Female,Married,"Tier 2","Delhi NCR","Salaried - Private",2.70,47600.00,1.00,8600.00,35.20,0.00,0,52000.00,60,"Debt Consolidation",Yes,692,18.06,0.06,0
+APP104059,34,Female,Married,"Tier 1",Gujarat,"Salaried - Private",0.50,92400.00,1.00,19700.00,37.90,3.00,2,108000.00,48,Education,No,552,21.38,6.16,0
+APP108361,32,Male,Married,"Tier 1","Uttar Pradesh","Self-Employed Professional",4.10,50600.00,1.00,2100.00,46.90,2.00,0,260000.00,36,Wedding,No,642,25.33,0.33,0
+APP113115,47,Male,Single,"Tier 3",Gujarat,"Salaried - Government",2.70,21500.00,0.00,6700.00,41.80,1.00,2,60000.00,24,"Vehicle Purchase",No,595,20.36,16.06,0
+APP112377,41,Male,Married,"Tier 2",Gujarat,"Salaried - Government",3.20,38100.00,3.00,7600.00,49.30,2.00,4,108000.00,84,Education,Yes,523,19.79,17.71,0
+APP119402,34,Male,Married,"Tier 2",Rajasthan,"Business Owner",4.70,43200.00,3.00,17000.00,53.30,2.00,2,192000.00,12,"Personal Expense",Yes,604,22.69,2.40,1
+APP107889,41,Male,Married,"Tier 2","West Bengal","Self-Employed Professional",5.20,27200.00,1.00,5700.00,81.10,0.00,1,131000.00,36,"Personal Expense",No,476,20.76,16.40,0
+APP121728,21,Male,Single,"Tier 1",Rajasthan,"Salaried - Government",2.00,20600.00,4.00,7900.00,33.10,1.00,3,130000.00,60,"Personal Expense",No,500,23.74,21.62,1
+APP120311,22,Female,Married,"Tier 1",Haryana,"Business Owner",0.70,74000.00,1.00,14700.00,36.30,4.00,1,223000.00,24,Wedding,No,615,23.39,3.24,0
+APP113529,30,Female,Married,"Tier 2",Haryana,"Salaried - Government",1.90,36500.00,2.00,11600.00,57.80,4.00,1,104000.00,48,Wedding,No,577,23.07,3.00,0
+APP121351,50,Male,Married,"Tier 3",Bihar,"Salaried - Private",6.10,28200.00,0.00,4900.00,37.50,4.00,0,233000.00,48,"Vehicle Purchase",No,640,25.90,1.22,0
+APP105210,38,Male,Married,"Tier 2","Delhi NCR","Salaried - Private",4.40,50000.00,3.00,21500.00,20.20,1.00,2,80000.00,36,Education,No,580,22.76,13.93,0
+APP108965,44,Male,Married,"Tier 3",Punjab,"Salaried - Private",0.90,25400.00,1.00,7200.00,85.70,2.00,3,157000.00,24,"Personal Expense",No,479,22.77,54.71,1
+APP111406,21,Male,Single,"Tier 2",Maharashtra,"Salaried - PSU",1.20,30400.00,3.00,12700.00,74.80,2.00,1,212000.00,60,Education,No,510,20.98,51.34,1
+APP107085,34,Male,Married,"Tier 1","Tamil Nadu","Business Owner",1.50,85500.00,1.00,34600.00,18.20,1.00,0,257000.00,60,"Vehicle Purchase",No,722,15.33,0.65,0
+APP121028,37,Female,Married,"Tier 1",Karnataka,"Self-Employed Professional",17.30,90100.00,0.00,5900.00,62.40,0.00,1,157000.00,36,"Business Expansion",No,687,15.57,0.10,0
+APP106760,43,Female,Married,"Tier 2","Tamil Nadu","Salaried - Government",2.80,96300.00,2.00,22800.00,41.60,1.00,1,145000.00,36,"Medical Emergency",Yes,596,24.63,0.51,0
+APP101227,30,Male,Single,"Tier 2","Tamil Nadu","Salaried - PSU",0.60,12000.00,1.00,2500.00,59.20,1.00,0,47000.00,72,Education,No,617,19.78,2.18,0
+APP107510,44,Male,Married,"Tier 1",Kerala,"Salaried - Private",5.00,120400.00,4.00,25500.00,60.20,1.00,1,93000.00,72,"Medical Emergency",No,539,23.57,11.39,0
+APP118182,27,Male,Married,"Tier 2",Bihar,"Salaried - Private",18.30,12000.00,1.00,2800.00,33.70,2.00,3,73000.00,36,"Personal Expense",No,660,15.91,3.26,0
+APP117538,36,Male,Married,"Tier 2",Haryana,"Salaried - Private",4.10,52200.00,2.00,7600.00,13.90,1.00,0,312000.00,12,"Debt Consolidation",No,671,17.45,0.33,0
+APP109298,27,Male,Single,"Tier 2","Madhya Pradesh","Salaried - Government",0.50,22500.00,1.00,3500.00,33.60,3.00,3,110000.00,84,Wedding,No,564,20.25,6.82,0
+APP111448,21,Male,Married,"Tier 1",Punjab,"Business Owner",0.50,36000.00,1.00,10600.00,31.90,2.00,3,158000.00,84,Education,No,563,20.36,39.86,0
+APP112811,42,Male,Single,"Tier 1",Maharashtra,"Salaried - Private",2.30,74900.00,1.00,12700.00,50.30,1.00,3,494000.00,24,"Medical Emergency",No,550,21.10,5.17,0
+APP121604,23,Male,Married,"Tier 3","Uttar Pradesh","Salaried - Private",3.40,25400.00,1.00,1900.00,26.40,1.00,0,181000.00,36,"Vehicle Purchase",Yes,706,15.34,0.09,0
+APP115285,32,Male,Married,"Tier 3",Rajasthan,"Salaried - Government",1.40,43700.00,2.00,15600.00,51.70,0.00,4,130000.00,48,"Personal Expense",No,467,20.30,45.28,0
+APP104902,35,Male,Single,"Tier 1",Telangana,"Salaried - Private",5.20,22700.00,1.00,3500.00,33.90,4.00,3,339000.00,36,"Home Renovation",No,596,25.62,12.04,0
+APP110328,28,Male,Married,"Tier 3","Delhi NCR","Salaried - Government",3.10,28900.00,2.00,8800.00,44.20,2.00,4,55000.00,36,"Medical Emergency",No,544,20.67,7.23,0
+APP123807,31,Female,Single,"Tier 2",Haryana,"Business Owner",5.30,50300.00,3.00,9500.00,58.10,3.00,1,332000.00,48,"Personal Expense",No,574,22.18,7.63,0
+APP118715,22,Male,Divorced,"Tier 3",Bihar,"Business Owner",14.30,24300.00,2.00,NULL,61.50,0.00,1,326000.00,48,Wedding,Yes,559,21.36,5.13,0
+APP121917,44,Female,Married,"Tier 3","West Bengal","Salaried - Government",2.70,12300.00,0.00,2500.00,31.40,1.00,2,64000.00,60,"Business Expansion",No,620,23.97,3.80,0
+APP101729,35,Male,Single,"Tier 1",Rajasthan,"Salaried - Private",3.70,165000.00,2.00,46700.00,39.20,0.00,1,334000.00,36,"Home Renovation",No,569,22.34,8.01,0
+APP101336,39,Male,Widowed,"Tier 1",Punjab,"Salaried - Private",3.40,95000.00,1.00,24700.00,62.30,0.00,3,207000.00,72,"Personal Expense",Yes,617,23.64,1.38,0
+APP114272,22,Other,Married,"Tier 2",Rajasthan,"Salaried - Government",1.80,33600.00,1.00,7200.00,59.90,1.00,0,108000.00,36,"Personal Expense",No,617,19.83,1.16,0
+APP119823,32,Male,Married,"Tier 3",Telangana,"Business Owner",3.40,33900.00,0.00,NULL,42.30,0.00,2,308000.00,12,"Personal Expense",Yes,573,23.05,4.15,0
+APP121630,44,Female,Married,"Tier 2","Delhi NCR","Salaried - Private",2.30,34400.00,0.00,1500.00,3.80,0.00,2,242000.00,60,"Medical Emergency",Yes,660,16.03,0.27,0
+APP119189,36,Male,Single,"Tier 3","Madhya Pradesh","Salaried - PSU",1.50,22000.00,0.00,2000.00,29.50,1.00,1,211000.00,24,"Home Renovation",No,677,16.23,0.41,0
+APP103169,24,Male,Married,"Tier 3","West Bengal","Salaried - Private",8.40,32200.00,1.00,3900.00,63.60,4.00,0,222000.00,36,"Debt Consolidation",No,673,19.51,0.70,0
+APP118916,46,Male,Married,"Tier 3",Bihar,"Salaried - Private",4.60,13400.00,0.00,3100.00,52.60,2.00,1,94000.00,12,"Business Expansion",No,493,20.02,18.95,0
+APP119742,32,Female,Married,"Tier 3","West Bengal","Salaried - Government",0.50,31800.00,0.00,3500.00,32.20,1.00,1,101000.00,24,"Medical Emergency",No,668,18.88,0.21,0
+APP116027,42,Male,Married,"Tier 1",Maharashtra,"Salaried - Private",0.90,36800.00,2.00,1500.00,13.80,2.00,2,147000.00,84,Wedding,Yes,682,17.68,0.08,0
+APP124497,40,Male,Single,"Tier 1","Tamil Nadu","Self-Employed Professional",1.20,73000.00,2.00,22600.00,39.10,0.00,2,126000.00,60,"Home Renovation",No,602,23.84,3.50,0
+APP114359,55,Male,Married,"Tier 3",Rajasthan,"Self-Employed Professional",1.50,26800.00,2.00,5700.00,64.60,0.00,3,79000.00,48,Education,No,556,24.74,6.60,0
+APP103302,43,Male,Married,"Tier 1","West Bengal","Salaried - PSU",7.30,42000.00,1.00,13600.00,58.80,0.00,1,112000.00,60,"Personal Expense",No,634,21.49,1.32,0
+APP101288,53,Female,Married,"Tier 1","Uttar Pradesh","Salaried - Private",7.00,178200.00,1.00,27200.00,40.20,2.00,2,77000.00,36,"Personal Expense",No,633,22.06,1.04,0
+APP102874,36,Male,Married,"Tier 2",Bihar,"Salaried - Private",NULL,27600.00,1.00,2900.00,40.90,2.00,2,98000.00,72,"Debt Consolidation",No,671,16.93,0.37,0
+APP107201,42,Female,Married,"Tier 1","Uttar Pradesh","Salaried - Private",1.90,108000.00,0.00,28900.00,21.70,0.00,1,56000.00,48,"Home Renovation",No,684,16.97,0.78,0
+APP105859,47,Male,Single,"Tier 3","Uttar Pradesh","Salaried - Government",4.70,17800.00,1.00,6600.00,26.10,0.00,1,224000.00,48,Education,No,700,13.74,1.46,0
+APP110990,41,Male,Single,"Tier 1",Telangana,"Business Owner",4.20,65600.00,2.00,10800.00,43.90,2.00,1,45000.00,12,"Vehicle Purchase",No,596,25.57,0.64,0
+APP107221,34,Male,Single,"Tier 1",Gujarat,"Self-Employed Professional",10.00,82300.00,4.00,NULL,67.90,3.00,5,95000.00,48,"Personal Expense",No,495,21.42,40.23,1
+APP117452,27,Male,Married,"Tier 2","Madhya Pradesh","Salaried - PSU",6.20,25800.00,0.00,7800.00,0.00,2.00,1,124000.00,60,"Medical Emergency",No,645,19.21,1.92,0
+APP119831,33,Male,Single,"Tier 3","Uttar Pradesh","Salaried - Private",0.60,12000.00,1.00,1700.00,15.20,0.00,0,72000.00,72,"Home Renovation",No,741,13.25,0.08,0
+APP109109,34,Male,Divorced,"Tier 2",Punjab,"Salaried - Government",2.70,49000.00,2.00,13600.00,36.30,1.00,0,145000.00,48,"Vehicle Purchase",Yes,648,19.08,0.56,0
+APP121221,37,Female,Widowed,"Tier 1","Andhra Pradesh","Self-Employed Professional",7.80,39400.00,2.00,5000.00,29.80,2.00,1,402000.00,36,"Vehicle Purchase",No,705,13.55,0.34,0
+APP122321,44,Male,Married,"Tier 2",Gujarat,"Salaried - Private",1.90,13700.00,0.00,2300.00,49.40,1.00,5,77000.00,36,"Personal Expense",No,566,21.67,7.25,0
+APP123869,45,Male,Married,"Tier 3",Kerala,"Salaried - PSU",0.60,18300.00,1.00,4100.00,29.90,2.00,0,81000.00,36,"Vehicle Purchase",No,714,12.65,0.22,0
+APP114510,34,Male,Married,"Tier 1",Rajasthan,"Self-Employed Professional",10.60,54100.00,1.00,12200.00,23.50,3.00,2,122000.00,24,Wedding,No,626,22.00,2.29,0
+APP106921,22,Male,Married,"Tier 1",Haryana,"Salaried - Private",8.50,48300.00,0.00,7900.00,41.80,3.00,0,118000.00,12,Education,No,576,24.08,5.67,0
+APP103050,44,Male,Single,"Tier 3","Andhra Pradesh","Business Owner",20.80,32100.00,2.00,4500.00,56.10,2.00,2,144000.00,48,Education,No,706,15.10,0.15,0
+APP123294,40,Female,Married,"Tier 2",Telangana,"Salaried - Private",12.50,44900.00,1.00,11100.00,63.90,0.00,2,130000.00,36,"Personal Expense",Yes,634,20.57,1.71,0
+APP113002,43,Male,Married,"Tier 3",Kerala,"Salaried - Private",2.90,28100.00,0.00,5800.00,59.60,0.00,2,156000.00,48,"Medical Emergency",No,610,23.31,8.14,0
+APP123306,40,Female,Married,"Tier 2",Telangana,"Salaried - Private",0.60,19500.00,1.00,1900.00,28.40,2.00,0,124000.00,24,"Personal Expense",No,661,18.98,0.23,0
+APP118838,30,Female,Widowed,"Tier 2","Uttar Pradesh","Business Owner",2.00,33300.00,1.00,9200.00,41.60,3.00,0,67000.00,36,Wedding,No,571,24.79,12.51,0
+APP100312,51,Male,Married,"Tier 1","Andhra Pradesh","Business Owner",3.30,344900.00,2.00,117500.00,52.40,1.00,1,72000.00,60,"Home Renovation",No,626,22.48,8.08,0
+APP115538,23,Male,Married,"Tier 3",Maharashtra,"Salaried - Private",3.40,59500.00,1.00,12500.00,62.80,0.00,1,82000.00,72,"Debt Consolidation",No,562,19.14,7.33,0
+APP102751,31,Male,Married,"Tier 1","Delhi NCR","Salaried - Private",1.90,121900.00,1.00,21400.00,55.30,1.00,0,88000.00,84,"Personal Expense",No,626,19.71,0.33,0
+APP122098,32,Male,Single,"Tier 3",Punjab,"Salaried - Private",3.80,14500.00,1.00,5000.00,40.80,0.00,2,95000.00,36,"Home Renovation",No,584,26.00,12.31,0
+APP115939,31,Female,Married,"Tier 3",Kerala,"Salaried - Private",0.90,157500.00,2.00,53800.00,59.60,2.00,0,296000.00,48,Wedding,No,572,24.42,1.21,0
+APP120665,35,Female,Widowed,"Tier 3",Karnataka,"Self-Employed Professional",1.60,110600.00,1.00,8200.00,71.00,1.00,6,201000.00,60,Education,No,504,25.93,24.09,0
+APP124554,45,Female,Married,"Tier 1",Rajasthan,"Self-Employed Professional",3.50,108700.00,2.00,39500.00,60.60,0.00,0,132000.00,24,"Personal Expense",No,599,23.76,4.36,0
+APP106769,22,Female,Single,"Tier 1",Rajasthan,"Salaried - PSU",10.30,68900.00,2.00,11000.00,40.60,4.00,1,210000.00,12,"Debt Consolidation",No,696,17.56,0.48,0
+APP107353,36,Male,Married,"Tier 2",Telangana,"Salaried - PSU",7.10,34000.00,2.00,9500.00,63.40,3.00,0,71000.00,24,"Medical Emergency",No,532,24.70,3.85,0
+APP112898,33,Male,Single,"Tier 2",Karnataka,"Business Owner",23.30,22500.00,0.00,3500.00,51.70,0.00,3,215000.00,48,Education,No,635,21.55,2.48,0
+APP120768,30,Male,Married,"Tier 1",Karnataka,"Salaried - Government",8.60,30700.00,0.00,2300.00,33.50,3.00,1,81000.00,48,"Debt Consolidation",No,711,14.74,0.09,0
+APP123142,56,Female,Married,"Tier 1",Haryana,"Self-Employed Professional",12.00,99700.00,0.00,NULL,16.50,2.00,1,133000.00,24,"Home Renovation",No,711,13.16,0.16,0
+APP119794,31,Male,Single,"Tier 3",Bihar,"Salaried - Private",2.80,16700.00,1.00,3300.00,16.00,0.00,2,60000.00,12,"Debt Consolidation",No,674,16.05,1.15,0
+APP105940,21,Male,Married,"Tier 1",Rajasthan,"Salaried - Private",0.70,168300.00,1.00,25400.00,27.50,0.00,0,150000.00,72,"Home Renovation",No,694,17.33,0.17,0
+APP123227,41,Male,Married,"Tier 2","Andhra Pradesh","Salaried - Private",4.60,32900.00,1.00,6400.00,31.10,1.00,0,100000.00,48,"Medical Emergency",No,667,17.04,0.78,0
+APP119526,21,Male,Married,"Tier 3",Haryana,"Salaried - Private",3.30,19300.00,0.00,1400.00,68.40,1.00,0,93000.00,36,"Personal Expense",Yes,650,15.06,0.04,0
+APP105102,44,Female,Married,"Tier 1","Tamil Nadu","Salaried - Government",5.90,145400.00,1.00,31400.00,48.30,0.00,2,88000.00,24,Education,No,587,21.81,6.54,0
+APP108665,21,Male,Married,"Tier 1",Rajasthan,"Business Owner",0.50,28700.00,0.00,0.00,31.00,0.00,1,118000.00,24,"Business Expansion",No,665,16.27,0.27,0
+APP121439,21,Male,Single,"Tier 1",Maharashtra,"Business Owner",1.60,37200.00,0.00,2000.00,36.50,0.00,2,103000.00,72,"Personal Expense",No,656,16.48,0.29,0
+APP120268,55,Male,Single,"Tier 1",Punjab,"Salaried - Private",3.70,49700.00,1.00,9800.00,42.10,0.00,3,139000.00,48,"Medical Emergency",No,607,24.67,1.29,0
+APP107763,39,Female,Married,"Tier 1",Punjab,"Self-Employed Professional",9.40,87500.00,3.00,23100.00,0.00,1.00,1,135000.00,36,Wedding,No,695,19.41,0.65,0
+APP106091,23,Male,Married,"Tier 1","Tamil Nadu","Salaried - Private",6.70,87300.00,3.00,25700.00,48.50,3.00,1,76000.00,12,Wedding,Yes,579,23.63,1.84,0
+APP104404,34,Male,Single,"Tier 3",Haryana,"Salaried - Private",NULL,107100.00,0.00,26100.00,42.70,0.00,3,238000.00,36,"Business Expansion",No,520,23.22,3.23,0
+APP108241,26,Female,Married,"Tier 2","Delhi NCR","Salaried - Private",0.60,86500.00,1.00,10000.00,20.90,2.00,2,209000.00,24,"Home Renovation",No,604,22.98,0.91,0
+APP107882,36,Male,Single,"Tier 1","Andhra Pradesh","Salaried - Private",3.80,42700.00,1.00,15700.00,68.80,1.00,1,386000.00,60,"Personal Expense",Yes,519,21.52,11.45,0
+APP115793,39,Male,Single,"Tier 3",Kerala,"Salaried - PSU",2.30,16500.00,1.00,3100.00,45.70,1.00,1,219000.00,72,"Vehicle Purchase",No,598,19.93,5.20,0
+APP101911,40,Female,Married,"Tier 1",Bihar,"Salaried - Private",5.10,81900.00,2.00,34100.00,24.00,NULL,0,153000.00,48,"Debt Consolidation",No,590,25.10,3.46,0
+APP123987,26,Female,Divorced,"Tier 3",Gujarat,"Business Owner",0.50,108700.00,0.00,15400.00,37.20,3.00,0,100000.00,60,"Business Expansion",No,614,19.63,0.25,0
+APP114615,31,Female,Married,"Tier 3",Telangana,"Salaried - Private",14.20,40200.00,0.00,4000.00,35.70,1.00,0,71000.00,60,"Home Renovation",No,711,15.81,0.03,0
+APP115783,45,Male,Single,"Tier 3",Gujarat,"Business Owner",2.20,35400.00,5.00,9100.00,55.60,1.00,1,206000.00,12,"Personal Expense",No,589,19.31,2.99,0
+APP117812,36,Male,Single,"Tier 2",Telangana,"Salaried - Private",0.50,56700.00,1.00,11700.00,37.40,2.00,3,51000.00,48,"Medical Emergency",Yes,539,21.31,11.26,0
+APP115923,21,Male,Married,"Tier 2",Gujarat,"Salaried - Private",3.00,48700.00,0.00,13500.00,12.10,0.00,1,306000.00,48,"Business Expansion",No,610,20.30,2.15,0
+APP113340,31,Female,Married,"Tier 1",Karnataka,"Salaried - Private",13.90,70900.00,0.00,13100.00,49.70,1.00,1,143000.00,36,"Home Renovation",No,688,19.09,0.47,0
+APP102359,49,Male,Single,"Tier 2","Uttar Pradesh","Salaried - PSU",3.30,45200.00,3.00,12700.00,45.20,1.00,2,39000.00,24,"Home Renovation",No,642,24.24,1.46,0
+APP120701,31,Male,Married,"Tier 1","Madhya Pradesh","Salaried - Private",1.70,45100.00,3.00,9700.00,39.90,2.00,3,61000.00,12,"Medical Emergency",Yes,547,21.39,2.89,0
+APP103502,41,Male,Married,"Tier 1",Punjab,"Business Owner",1.50,87500.00,3.00,25700.00,44.10,1.00,1,247000.00,12,"Business Expansion",No,595,24.93,1.57,0
+APP124003,38,Male,Single,"Tier 2",Bihar,"Salaried - Private",3.30,30800.00,2.00,8400.00,14.40,1.00,1,173000.00,60,"Debt Consolidation",No,640,25.99,0.71,0
+APP116227,48,Female,Widowed,"Tier 1",Karnataka,"Salaried - Private",2.30,39400.00,0.00,8200.00,48.40,1.00,4,165000.00,72,"Home Renovation",No,502,22.58,20.15,0
+APP115238,25,Male,Divorced,"Tier 1","Delhi NCR","Salaried - Private",8.40,42300.00,1.00,5300.00,42.80,1.00,3,148000.00,12,"Personal Expense",Yes,594,23.40,1.08,0
+APP114192,44,Female,Single,"Tier 1",Bihar,"Business Owner",0.50,99000.00,2.00,4900.00,27.70,0.00,0,220000.00,24,"Personal Expense",No,734,15.95,0.09,0
+APP110657,52,Female,Married,"Tier 3","Andhra Pradesh","Salaried - Private",3.60,39200.00,2.00,12200.00,44.60,2.00,1,92000.00,24,"Debt Consolidation",No,601,25.56,3.03,0
+APP115841,48,Male,Single,"Tier 1","Madhya Pradesh","Salaried - Private",0.80,67400.00,3.00,17100.00,58.00,3.00,4,59000.00,24,"Business Expansion",No,451,19.61,60.09,0
+APP118002,29,Male,Married,"Tier 2",Haryana,"Salaried - PSU",6.20,18400.00,0.00,3600.00,23.80,1.00,0,176000.00,60,"Personal Expense",No,661,16.09,0.75,0
+APP102497,21,Female,Widowed,"Tier 1",Bihar,"Salaried - PSU",0.50,120000.00,0.00,25700.00,55.00,0.00,0,153000.00,36,"Personal Expense",No,599,23.45,0.60,0
+APP114045,38,Male,Single,"Tier 2",Kerala,"Salaried - PSU",4.70,65800.00,3.00,4100.00,67.00,1.00,0,478000.00,48,"Medical Emergency",No,644,23.30,0.32,0
+APP110845,25,Female,Widowed,"Tier 3","Andhra Pradesh","Business Owner",10.80,150700.00,0.00,21900.00,36.70,1.00,1,106000.00,60,"Business Expansion",No,642,24.62,1.09,0
+APP114756,31,Female,Married,"Tier 3","Tamil Nadu","Business Owner",12.60,20300.00,1.00,5700.00,34.40,1.00,0,160000.00,48,"Personal Expense",Yes,637,19.39,0.90,0
+APP107672,44,Male,Married,"Tier 2",Maharashtra,"Salaried - Private",8.40,25000.00,1.00,5400.00,48.10,0.00,2,65000.00,24,"Vehicle Purchase",No,538,24.75,11.69,0
+APP116242,45,Male,Married,"Tier 1",Telangana,"Salaried - Private",0.50,77800.00,0.00,18600.00,21.00,1.00,1,97000.00,36,"Debt Consolidation",No,659,16.01,0.38,0
+APP102476,21,Male,Married,"Tier 3","Uttar Pradesh","Salaried - Government",2.40,13500.00,3.00,3800.00,66.60,2.00,3,87000.00,48,"Personal Expense",No,522,19.70,35.01,0
+APP107930,30,Female,Married,"Tier 1",Gujarat,"Salaried - PSU",0.50,24100.00,2.00,7200.00,64.80,2.00,3,224000.00,72,"Home Renovation",No,510,20.39,66.12,1
+APP102254,44,Male,Single,"Tier 1",Telangana,"Salaried - Government",2.50,16500.00,2.00,5500.00,22.90,4.00,3,121000.00,36,"Debt Consolidation",No,587,24.25,18.71,1
+APP105749,34,Female,Single,"Tier 2",Punjab,"Salaried - Private",0.90,21500.00,2.00,3700.00,86.90,4.00,7,379000.00,24,"Personal Expense",No,421,20.63,96.77,1
+APP100996,42,Male,Single,"Tier 2",Karnataka,"Salaried - Private",9.20,134500.00,0.00,0.00,46.90,2.00,0,414000.00,36,"Personal Expense",No,719,13.40,0.08,0
+APP112325,28,Male,Single,"Tier 2","Madhya Pradesh","Salaried - Government",1.20,29000.00,1.00,11900.00,45.60,2.00,4,73000.00,36,"Medical Emergency",No,536,21.93,26.58,0
+APP115220,21,Female,Widowed,"Tier 1",Punjab,"Salaried - Private",4.40,65900.00,1.00,21100.00,24.30,1.00,0,120000.00,48,Wedding,No,723,12.82,0.23,0
+APP104704,42,Male,Single,"Tier 2","West Bengal","Salaried - PSU",0.50,76200.00,1.00,14300.00,38.10,2.00,0,64000.00,24,"Vehicle Purchase",Yes,642,25.65,0.14,0
+APP114100,25,Female,Married,"Tier 1",Kerala,"Salaried - Private",3.00,14800.00,3.00,4500.00,45.70,0.00,3,239000.00,36,"Home Renovation",No,602,22.87,13.71,0
+APP119214,45,Male,Married,"Tier 2","Delhi NCR","Salaried - Private",2.10,55400.00,2.00,15800.00,66.70,0.00,0,120000.00,24,Education,No,628,19.88,0.77,0
+APP115550,29,Male,Married,"Tier 1",Karnataka,"Salaried - Private",NULL,66600.00,1.00,13200.00,37.30,1.00,3,200000.00,12,"Personal Expense",Yes,645,23.70,0.41,0
+APP116745,57,Female,Married,"Tier 2",Telangana,"Salaried - Private",6.60,109300.00,2.00,40900.00,45.00,0.00,1,116000.00,60,"Medical Emergency",Yes,568,21.98,3.68,0
+APP108059,47,Male,Divorced,"Tier 2","West Bengal","Self-Employed Professional",14.20,101700.00,0.00,23300.00,27.90,1.00,2,104000.00,24,"Medical Emergency",No,660,16.02,0.49,0
+APP117402,32,Male,Single,"Tier 2",Telangana,"Business Owner",4.20,96000.00,0.00,16400.00,44.30,0.00,0,132000.00,60,"Medical Emergency",No,649,20.91,0.27,0
+APP115250,37,Male,Married,"Tier 2",Maharashtra,"Self-Employed Professional",4.30,61500.00,0.00,15900.00,16.80,0.00,1,57000.00,12,"Medical Emergency",No,635,20.34,0.81,0
+APP111758,33,Male,Married,"Tier 2","Madhya Pradesh","Business Owner",3.40,68600.00,0.00,21300.00,6.70,2.00,0,166000.00,48,"Home Renovation",No,649,25.70,1.08,0
+APP108886,34,Female,Married,"Tier 3","Tamil Nadu","Business Owner",3.60,17200.00,2.00,3700.00,34.40,1.00,1,153000.00,84,"Personal Expense",No,607,23.39,7.64,0
+APP123044,33,Male,Single,"Tier 1",Bihar,"Self-Employed Professional",0.80,59800.00,2.00,16800.00,74.40,1.00,2,54000.00,36,"Personal Expense",Yes,520,22.11,8.01,0
+APP107484,31,Male,Married,"Tier 2","Delhi NCR","Salaried - Private",3.20,112900.00,2.00,32600.00,43.50,2.00,2,66000.00,48,"Medical Emergency",Yes,614,20.95,1.19,0
+APP122936,21,Female,Married,"Tier 2",Kerala,"Salaried - Government",3.30,45100.00,2.00,13700.00,46.70,0.00,2,112000.00,48,Wedding,No,595,22.10,2.00,0
+APP103441,35,Male,Widowed,"Tier 2",Haryana,"Self-Employed Professional",7.10,170900.00,1.00,53000.00,44.10,2.00,1,236000.00,72,"Medical Emergency",Yes,575,24.42,2.46,0
+APP109647,44,Female,Married,"Tier 1","Madhya Pradesh","Self-Employed Professional",5.30,166600.00,0.00,32000.00,42.20,1.00,3,338000.00,24,"Medical Emergency",Yes,580,21.19,1.66,0
+APP111341,35,Male,Married,"Tier 3","Delhi NCR","Salaried - Private",2.30,32100.00,3.00,10900.00,40.80,2.00,0,36000.00,36,Wedding,No,612,23.32,8.55,0
+APP104070,33,Female,Single,"Tier 2","Delhi NCR","Salaried - Private",5.80,37300.00,2.00,8500.00,28.10,0.00,0,252000.00,60,Education,No,693,18.24,0.43,0
+APP106460,47,Female,Married,"Tier 1",Gujarat,"Salaried - Private",0.50,130800.00,2.00,15800.00,63.10,0.00,0,114000.00,48,"Vehicle Purchase",No,632,24.23,0.65,0
+APP118735,53,Female,Single,"Tier 2",Kerala,"Salaried - Private",3.60,56900.00,1.00,2000.00,18.10,1.00,2,54000.00,48,"Vehicle Purchase",No,689,16.04,0.19,0
+APP120240,36,Male,Single,"Tier 1","Tamil Nadu","Self-Employed Professional",2.80,87400.00,0.00,30900.00,38.60,1.00,1,105000.00,36,"Home Renovation",No,566,20.88,21.59,0
+APP122426,29,Female,Married,"Tier 3","Andhra Pradesh","Salaried - Government",2.90,27300.00,2.00,7800.00,50.40,0.00,2,135000.00,12,"Personal Expense",No,573,19.91,4.07,0
+APP110431,35,Female,Single,"Tier 2",Rajasthan,"Salaried - PSU",4.80,37800.00,3.00,16200.00,35.10,0.00,1,158000.00,48,"Medical Emergency",Yes,590,19.14,1.22,0
+APP104832,25,Male,Married,"Tier 2",Telangana,"Business Owner",7.90,61100.00,0.00,6300.00,0.00,0.00,0,133000.00,48,"Personal Expense",Yes,714,14.95,0.02,0
+APP102004,22,Female,Single,"Tier 1","Tamil Nadu","Salaried - Government",3.30,46700.00,0.00,1600.00,44.00,0.00,4,305000.00,12,Education,No,577,19.18,4.14,0
+APP121382,35,Male,Single,"Tier 2",Telangana,"Salaried - Private",7.90,70600.00,1.00,NULL,42.70,1.00,2,143000.00,24,"Personal Expense",Yes,671,16.58,0.51,0
+APP108126,46,Female,Married,"Tier 1",Telangana,"Salaried - Government",2.10,27500.00,0.00,3700.00,76.00,1.00,6,70000.00,24,"Personal Expense",No,447,24.91,53.76,1
+APP123469,35,Male,Married,"Tier 2","Delhi NCR","Self-Employed Professional",0.50,168600.00,0.00,15400.00,93.30,0.00,4,141000.00,84,"Debt Consolidation",No,473,20.91,23.85,0
+APP124655,32,Male,Single,"Tier 3",Haryana,"Salaried - Government",8.00,12000.00,0.00,2700.00,41.70,1.00,2,754000.00,24,"Personal Expense",No,600,22.73,94.68,1
+APP118025,34,Female,Married,"Tier 1","Tamil Nadu","Business Owner",3.40,68500.00,2.00,13500.00,54.50,1.00,0,62000.00,36,"Vehicle Purchase",No,640,25.94,0.57,0
+APP121150,45,Male,Married,"Tier 2",Telangana,"Salaried - Private",0.50,55500.00,2.00,11900.00,43.60,1.00,4,333000.00,12,"Home Renovation",No,573,20.05,8.57,0
+APP121814,38,Female,Married,"Tier 1",Rajasthan,"Salaried - Private",2.40,65200.00,0.00,13200.00,92.80,1.00,2,137000.00,24,"Medical Emergency",Yes,530,25.25,3.04,0
+APP124252,51,Female,Single,"Tier 3","Madhya Pradesh","Business Owner",4.70,51400.00,0.00,2900.00,41.70,2.00,1,41000.00,24,"Medical Emergency",No,676,17.03,0.16,0
+APP104285,50,Male,Single,"Tier 1","Andhra Pradesh","Self-Employed Professional",10.10,29700.00,0.00,3100.00,25.40,2.00,0,140000.00,60,"Medical Emergency",No,708,12.81,0.21,0
+APP112832,28,Male,Married,"Tier 3",Haryana,"Salaried - Government",0.50,18600.00,0.00,4400.00,42.40,1.00,1,246000.00,60,"Vehicle Purchase",No,586,22.73,4.14,0
+APP117325,40,Male,Married,"Tier 1",Telangana,"Salaried - Government",3.20,33300.00,1.00,10300.00,54.30,5.00,1,50000.00,36,"Debt Consolidation",No,532,23.20,14.43,0
+APP111679,43,Female,Married,"Tier 2","Andhra Pradesh","Salaried - PSU",0.50,53500.00,1.00,12700.00,49.10,2.00,2,52000.00,36,Wedding,No,553,25.21,5.34,0
+APP116717,41,Male,Married,"Tier 1",Gujarat,"Salaried - Government",1.80,69400.00,0.00,9100.00,51.60,1.00,3,59000.00,48,"Medical Emergency",No,580,23.75,1.26,0
+APP107911,33,Male,Married,"Tier 2",Kerala,"Business Owner",0.50,59700.00,3.00,13800.00,60.40,1.00,0,72000.00,60,"Home Renovation",No,584,24.34,4.50,0
+APP117066,37,Female,Single,"Tier 2","Andhra Pradesh","Self-Employed Professional",2.90,102700.00,1.00,19500.00,40.60,0.00,0,253000.00,24,Wedding,Yes,609,23.61,0.84,0
+APP122089,35,Female,Married,"Tier 2","Madhya Pradesh","Salaried - Private",3.70,25900.00,3.00,3900.00,27.30,1.00,3,159000.00,36,Wedding,Yes,653,18.75,0.79,0
+APP102153,25,Male,Married,"Tier 2",Karnataka,"Salaried - Private",4.00,50000.00,0.00,7400.00,22.00,0.00,1,75000.00,36,"Personal Expense",Yes,710,15.12,0.04,0
+APP104550,44,Female,Married,"Tier 1",Kerala,"Business Owner",0.50,46900.00,2.00,2600.00,49.60,3.00,2,71000.00,48,"Personal Expense",No,590,25.32,4.51,0
+APP119636,60,Female,Married,"Tier 3","West Bengal","Salaried - Private",13.80,43300.00,0.00,4500.00,37.60,2.00,1,146000.00,48,"Home Renovation",Yes,654,18.71,0.27,0
+APP101113,33,Other,Divorced,"Tier 1","Madhya Pradesh","Self-Employed Professional",0.90,100400.00,0.00,10700.00,13.30,1.00,0,156000.00,24,Wedding,No,695,17.31,0.45,0
+APP111192,25,Male,Married,"Tier 1","Uttar Pradesh","Salaried - Government",3.00,55400.00,0.00,11000.00,42.20,2.00,1,154000.00,36,"Vehicle Purchase",No,663,17.56,0.83,0
+APP102635,46,Female,Single,"Tier 3","Uttar Pradesh","Salaried - PSU",5.10,15500.00,0.00,2700.00,58.20,2.00,3,211000.00,72,"Personal Expense",No,549,22.95,19.37,0
+APP113191,46,Male,Married,"Tier 1","Tamil Nadu","Business Owner",12.90,69300.00,0.00,17600.00,24.80,1.00,0,144000.00,24,Wedding,Yes,670,19.10,0.92,0
+APP115060,27,Female,Divorced,"Tier 2",Telangana,"Salaried - Private",6.10,27800.00,3.00,NULL,65.70,2.00,3,182000.00,48,"Debt Consolidation",Yes,567,25.38,8.97,1
+APP111148,22,Female,Single,"Tier 1",Kerala,"Salaried - Government",0.50,84200.00,0.00,6200.00,49.00,1.00,1,173000.00,48,"Medical Emergency",No,602,24.30,0.68,0
+APP119690,31,Other,Married,"Tier 3",Rajasthan,"Salaried - Private",1.60,14400.00,0.00,3200.00,62.40,2.00,2,156000.00,48,"Debt Consolidation",No,536,21.77,20.74,0
+APP100550,38,Female,Married,"Tier 3","West Bengal","Salaried - PSU",0.90,26400.00,1.00,5500.00,66.00,0.00,0,363000.00,36,"Business Expansion",No,593,21.52,1.53,0
+APP102214,27,Male,Married,"Tier 1","Madhya Pradesh","Salaried - Private",6.60,109400.00,2.00,32000.00,82.70,0.00,2,264000.00,24,"Home Renovation",Yes,519,20.06,5.58,0
+APP111224,55,Male,Married,"Tier 3",Haryana,"Business Owner",5.10,14200.00,2.00,2600.00,89.60,1.00,6,110000.00,24,"Personal Expense",Yes,528,21.31,17.69,1
+APP110687,31,Male,Married,"Tier 1",Gujarat,"Salaried - Private",2.50,50000.00,2.00,16500.00,59.20,1.00,0,59000.00,36,"Business Expansion",No,647,19.68,1.11,0
+APP112599,61,Female,Single,"Tier 1","Uttar Pradesh","Self-Employed Professional",2.00,59700.00,2.00,12800.00,46.10,2.00,3,305000.00,84,"Debt Consolidation",No,644,25.21,1.72,0
+APP108197,23,Other,Married,"Tier 3","Tamil Nadu","Salaried - PSU",2.20,27600.00,2.00,2500.00,50.00,2.00,0,289000.00,24,Wedding,No,683,19.11,1.21,0
+APP118298,33,Male,Single,"Tier 2",Rajasthan,"Salaried - Private",4.40,29300.00,0.00,2700.00,7.70,4.00,0,83000.00,12,"Business Expansion",No,727,13.03,0.11,0
+APP100520,26,Female,Married,"Tier 2",Kerala,"Self-Employed Professional",3.30,43500.00,0.00,7500.00,51.50,2.00,1,124000.00,36,"Debt Consolidation",No,617,23.67,1.02,0
+APP102592,39,Male,Married,"Tier 1","Delhi NCR","Self-Employed Professional",0.50,60000.00,2.00,11000.00,51.20,0.00,1,113000.00,36,"Vehicle Purchase",Yes,626,23.38,0.33,0
+APP116271,38,Female,Married,"Tier 1","West Bengal","Business Owner",5.30,42100.00,1.00,8700.00,72.50,2.00,1,63000.00,24,"Medical Emergency",No,549,23.02,3.35,0
+APP124204,30,Female,Single,"Tier 3",Maharashtra,"Business Owner",15.50,24900.00,1.00,2200.00,80.30,3.00,1,52000.00,24,"Personal Expense",No,632,24.34,1.02,0
+APP103142,33,Male,Married,"Tier 1","Madhya Pradesh","Salaried - Private",8.10,43300.00,2.00,11600.00,57.70,2.00,0,129000.00,36,"Medical Emergency",No,584,22.52,5.04,0
+APP117918,47,Female,Married,"Tier 3",Kerala,"Salaried - Private",2.40,40900.00,1.00,5000.00,35.90,1.00,0,104000.00,60,"Business Expansion",No,759,14.92,0.21,0
+APP109071,21,Female,Single,"Tier 2","West Bengal","Salaried - Private",0.50,46600.00,2.00,11700.00,53.00,1.00,2,134000.00,36,"Debt Consolidation",No,575,19.05,8.13,0
+APP116944,29,Male,Married,"Tier 2",Telangana,"Salaried - Private",10.30,12000.00,1.00,1200.00,42.00,0.00,0,89000.00,48,"Home Renovation",No,663,18.28,0.60,0
+APP122990,37,Female,Single,"Tier 1","Delhi NCR","Salaried - Private",0.50,122600.00,1.00,15100.00,43.50,2.00,3,147000.00,48,"Vehicle Purchase",Yes,580,19.50,1.02,0
+APP120585,37,Female,Divorced,"Tier 1",Punjab,"Self-Employed Professional",3.80,25400.00,2.00,5900.00,49.20,2.00,1,510000.00,60,"Personal Expense",No,611,20.63,18.35,0
+APP114864,30,Male,Single,"Tier 1","West Bengal","Salaried - Private",6.10,38400.00,0.00,5400.00,33.90,0.00,1,76000.00,24,"Medical Emergency",No,664,19.30,0.22,0
+APP123935,43,Male,Single,"Tier 2",Punjab,"Business Owner",1.00,115600.00,1.00,10600.00,20.00,1.00,1,96000.00,60,"Personal Expense",No,713,13.02,0.28,0
+APP114447,52,Female,Married,"Tier 3",Kerala,"Self-Employed Professional",11.40,30900.00,1.00,7800.00,53.70,0.00,1,181000.00,12,"Personal Expense",No,635,23.21,1.29,0
+APP117646,33,Male,Single,"Tier 2",Telangana,"Salaried - Private",0.70,12000.00,3.00,3400.00,19.50,3.00,1,88000.00,36,"Medical Emergency",No,620,23.75,3.22,0
+APP117683,27,Male,Divorced,"Tier 3","Madhya Pradesh","Salaried - Private",11.20,12000.00,2.00,2700.00,16.60,2.00,0,116000.00,12,Wedding,No,663,16.89,0.95,0
+APP120712,27,Male,Single,"Tier 1","Andhra Pradesh","Salaried - Private",4.20,32500.00,3.00,9300.00,29.90,1.00,1,98000.00,72,"Vehicle Purchase",No,610,23.29,3.66,0
+APP107592,36,Male,Married,"Tier 2","Madhya Pradesh","Salaried - Private",0.50,65600.00,1.00,17500.00,47.20,2.00,1,144000.00,24,"Vehicle Purchase",Yes,520,19.83,9.26,0
+APP120257,53,Female,Married,"Tier 2",Telangana,"Salaried - PSU",0.50,88200.00,2.00,12300.00,51.70,6.00,1,96000.00,48,"Medical Emergency",No,573,20.42,4.01,0
+APP105598,38,Male,Single,"Tier 2",Karnataka,"Salaried - Private",1.90,31400.00,0.00,5500.00,2.90,2.00,0,540000.00,48,"Debt Consolidation",No,716,12.81,1.34,0
+APP117177,40,Male,Married,"Tier 1","West Bengal","Business Owner",1.70,43700.00,0.00,8800.00,25.60,0.00,5,84000.00,36,"Business Expansion",No,579,24.84,11.54,0
+APP100438,29,Female,Single,"Tier 1",Kerala,"Salaried - Government",1.70,24200.00,4.00,9600.00,59.30,1.00,1,277000.00,72,"Home Renovation",No,465,24.31,58.03,0
+APP110130,40,Female,Single,"Tier 2",Telangana,"Salaried - Private",3.70,28500.00,0.00,4100.00,37.10,2.00,3,152000.00,36,"Business Expansion",Yes,650,17.30,0.60,0
+APP120325,29,Male,Married,"Tier 3","West Bengal","Salaried - PSU",0.70,14600.00,0.00,500.00,67.50,0.00,0,140000.00,36,Education,No,588,21.50,1.87,0
+APP115419,46,Male,Single,"Tier 2","Delhi NCR","Salaried - Private",1.20,44100.00,1.00,9000.00,34.60,1.00,1,139000.00,60,"Home Renovation",No,641,20.10,1.67,0
+APP117098,43,Female,Married,"Tier 1",Kerala,"Self-Employed Professional",1.30,123100.00,1.00,28700.00,39.40,0.00,2,111000.00,24,Education,Yes,611,23.92,0.91,0
+APP113905,36,Male,Married,"Tier 1","Tamil Nadu","Salaried - Private",4.00,44500.00,0.00,6500.00,47.60,1.00,3,47000.00,72,"Personal Expense",No,569,24.48,1.14,0
+APP122401,35,Female,Married,"Tier 3",Karnataka,"Business Owner",0.70,25900.00,0.00,2500.00,18.50,0.00,0,368000.00,84,"Debt Consolidation",No,652,19.79,1.27,0
+APP114985,29,Female,Divorced,"Tier 3","Madhya Pradesh","Self-Employed Professional",6.00,34900.00,0.00,5700.00,31.00,0.00,2,79000.00,12,Education,No,641,22.07,1.11,0
+APP120524,38,Female,Married,"Tier 1","Delhi NCR","Salaried - Private",4.10,73600.00,0.00,20800.00,56.00,2.00,3,193000.00,36,Wedding,No,557,24.72,20.55,1
+APP110192,31,Male,Married,"Tier 1",Haryana,"Self-Employed Professional",4.30,43300.00,3.00,15000.00,25.00,3.00,1,126000.00,24,"Vehicle Purchase",No,555,23.49,11.83,0
+APP106650,42,Male,Married,"Tier 2","Delhi NCR","Salaried - Government",1.80,25800.00,1.00,NULL,43.70,1.00,3,186000.00,60,"Home Renovation",No,529,24.68,50.83,1
+APP111505,35,Male,Married,"Tier 2",Telangana,"Business Owner",4.80,64400.00,1.00,2000.00,24.80,1.00,1,222000.00,48,"Debt Consolidation",No,751,14.24,0.04,0
+APP124892,26,Female,Single,"Tier 2",Bihar,"Salaried - Private",0.90,56900.00,2.00,9600.00,25.90,0.00,2,112000.00,60,Education,No,623,25.31,0.69,0
+APP103635,23,Female,Married,"Tier 2","Delhi NCR","Salaried - Private",0.50,28600.00,0.00,5900.00,92.30,2.00,0,47000.00,48,"Home Renovation",No,562,24.72,2.01,0
+APP112952,28,Male,Married,"Tier 2",Gujarat,"Salaried - Government",9.60,33200.00,0.00,6800.00,28.50,0.00,0,73000.00,36,"Business Expansion",No,643,24.32,0.84,0
+APP118397,41,Male,Married,"Tier 2",Punjab,"Salaried - Government",3.30,91200.00,0.00,24000.00,60.10,0.00,2,52000.00,24,Education,No,540,24.34,3.49,0
+APP108285,43,Male,Married,"Tier 2",Haryana,"Salaried - Private",0.60,30700.00,1.00,7600.00,30.80,2.00,1,97000.00,36,"Medical Emergency",No,608,24.94,4.71,0
+APP108827,41,Male,Married,"Tier 2","Madhya Pradesh","Salaried - Private",1.00,102000.00,0.00,33500.00,55.60,2.00,2,84000.00,36,"Home Renovation",Yes,471,23.94,26.15,1
+APP108227,23,Male,Widowed,"Tier 1",Punjab,"Salaried - Private",2.90,37300.00,2.00,900.00,34.70,0.00,0,157000.00,84,"Medical Emergency",No,734,13.04,0.02,0
+APP123382,25,Male,Single,"Tier 2",Bihar,"Salaried - Private",2.90,95000.00,3.00,39400.00,81.30,2.00,4,289000.00,24,"Personal Expense",No,446,22.84,75.45,1
+APP112535,39,Male,Married,"Tier 3",Punjab,"Salaried - Government",4.40,19900.00,1.00,7400.00,68.90,1.00,2,172000.00,60,Education,No,534,22.16,37.98,1
+APP124444,28,Female,Single,"Tier 2",Maharashtra,"Business Owner",6.70,77600.00,1.00,9700.00,68.20,0.00,3,105000.00,48,Education,No,515,25.05,9.60,0
+APP123283,36,Female,Divorced,"Tier 2","Tamil Nadu","Salaried - PSU",1.50,56900.00,2.00,14900.00,64.00,0.00,3,42000.00,24,"Vehicle Purchase",No,570,21.59,4.18,0
+APP100681,41,Male,Single,"Tier 1",Punjab,"Salaried - Private",1.50,63100.00,1.00,17400.00,22.20,2.00,0,206000.00,24,"Personal Expense",No,674,16.50,1.04,0
+APP124319,39,Male,Married,"Tier 2",Bihar,"Self-Employed Professional",5.90,19100.00,0.00,7000.00,49.20,0.00,1,95000.00,36,Education,No,582,22.58,7.55,0
+APP116171,43,Female,Married,"Tier 2","West Bengal","Salaried - PSU",4.70,32000.00,1.00,10600.00,31.20,4.00,0,343000.00,36,"Personal Expense",Yes,666,18.39,1.87,0
+APP102898,27,Other,Single,"Tier 3","Tamil Nadu","Salaried - Government",11.50,33100.00,0.00,5200.00,62.00,1.00,1,63000.00,36,"Home Renovation",Yes,698,18.71,0.17,0
+APP103396,27,Female,Married,"Tier 3",Telangana,"Salaried - Private",0.60,24100.00,2.00,9300.00,30.90,3.00,0,76000.00,24,Education,Yes,561,21.99,9.65,0
+APP103000,46,Male,Married,"Tier 3",Punjab,"Salaried - Private",10.70,121200.00,2.00,1400.00,48.60,3.00,1,148000.00,12,"Medical Emergency",Yes,670,19.86,0.04,0
